@@ -1,0 +1,1 @@
+each player rolls 6d6 and removes any duplicates from the dice they rolled. The player with the most remaining dice
