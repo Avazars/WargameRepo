@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Wargame Notes/Keywords Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keywords Glossary"
+            }
+          },
+          {
+            "id": "555b8f92b803dea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Wargame Notes/Brainstorm File.md",
                 "mode": "source",
                 "source": false
@@ -162,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wargame Notes/Brainstorm File.md",
+                "file": "Wargame Notes/Keywords Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm File"
+              "title": "Outline of Keywords Glossary"
             }
           },
           {
@@ -246,11 +260,12 @@
   },
   "active": "5cf92a1200e7db4e",
   "lastOpenFiles": [
+    "Wargame Notes/Brainstorm File.md",
+    "Wargame Notes/Keywords Glossary.md",
     "Wargame Notes/Deployment Rolloff.md",
     "Wargame Notes/Constructs.md",
     "Wargame Notes/Humans.md",
     "Wargame Notes/Aliens.md",
-    "Wargame Notes/Brainstorm File.md",
     "Templates/Unit Template.md",
     "Unit.md",
     "snippets/Wide.css",
@@ -279,7 +294,6 @@
     "AetherLight/Locations/Great Vamrah Obelisk.md",
     "AetherLight/Factions/Azure Horizon Trading Company.md",
     "AetherLight/Factions/The Cadence.md",
-    "AetherLight/Factions/The Frog Mob.md",
     "Canvases/Faction Web.canvas",
     "AetherLight/Notables",
     "AetherLight",

@@ -33,8 +33,6 @@ cssclasses:
 9. Once all detachments have been activated that concludes a round, now do it again until you've concluded 4 rounds at which point the player with the most victory points wins the game.
 
 
-
-
 ## Army Structure
 - Army
 	- Composed of 4 or more Detachments each with its own leader
@@ -94,8 +92,8 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 ## Unit Stats
 - Movement in inches: 6"
-- CS: Close Combat Effectiveness: 4+
-- RS: Range Combat Effectiveness: 4+
+- CE: Combat Effectiveness: 4+
+- RE: Range Effectiveness: 4+
 - LD: Leadership: 6/4+
 - Arm: Armor value: 6/4+
 - Health 4
@@ -110,9 +108,9 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 # Example Units WIP
 
-- Infantry: Mov 6”, CS: 6, RS: 6, Arm 2, Ld 10, Vit 1
+- Infantry: Mov 6”, CE: 6, RE: 6, Arm 2, Ld 10, Vit 1
 	- Weapon: Range: 12”, Shots: 2, Damage: 1,  Ap: 0
 
-- Tank: Mov: 8”, CS: 5+, RS: 3+, Arm: 6, Vit: 2
+- Tank: Mov: 8”, CE: 5+, RE: 3+, Arm: 6, Vit: 2
 	- Weapon: Range: 36”, Shots: 1  Damage: 4, AP: 2
   
