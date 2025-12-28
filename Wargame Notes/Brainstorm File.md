@@ -12,9 +12,6 @@ cssclasses:
 - Cannot increase success values higher then 6+ and lower then 2+
 
 
-Triples count as a double
-Quads count as a 2 doubles and 1 triple
-
 
 ## Factions
 [[Constructs]]
@@ -23,12 +20,37 @@ Quads count as a 2 doubles and 1 triple
 
 
 ## Dice Rolling
-Players will roll pools of dice to determine the success of an action that a unit will take or how well a unit responds to another unit
+Players will roll pools of dice ranging from 6-20 to determine the success of an action. There are two types of tests that a unit can make.
 
-**Normal Test**
-When a unit makes a normal test that unit will roll a number of dice specified by their stat and the modifiers to this roll. 
+**Flat Test**
+A flat test is a test that requires the player to roll their pool of dice and get a specific amount of successes to pass the test. These tests usually have a target number of 4+.
 
-**Opposed Test** 
+> [!Example] Example Flat Test
+> A unit that takes a moral test would use their Leadership stat as their dice pool and with a target number of 4+ try to get at least 3 successes.
+
+**Dynamic Test**
+A dynamic test is where both players are going to roll a pool of dice at the same time with their own target numbers and try to get more successes then their opponent. During a dynamic test both players will also remove duplicate numbers from across pools. The reason we remove duplicates across pools is because rolling doubles, triples, quads trigger extra effects and we don't want crazy amounts of extra stuff going off all the time with larger dice pools. *The most common kind of ability would be counting extra successes on doubles.*
+
+> [!Example] Example Dynamic Test
+> Player one rolls {1,2,2,4,5,6,6} 
+> Player two rolls {1,2,3,5,6}
+>
+> After Cancellation:
+> Player one would be left with {2,4,6}
+> Player two would be left with {3}
+>
+> Then both players would count successes.
+
+**Rolling Doubles / Triples**
+When you roll doubles or triples you have the ability to trigger abilities like extra hits on doubles. Below is a chart that shows what each type of roll correlates to when checking for ability triggers.
+
+| Roll   | Singles | Doubles | Triples | Quads |
+| ------ | ------- | ------- | ------- | ----- |
+| Single | 1       |         |         |       |
+| Double | 2       | 1       |         |       |
+| Triple | 3       | 1       | 1       |       |
+| Quad   | 4       | 2       | 1       | 1     |
+Rolling a Triple would count as 3 singular dice, 1 double, and 1 triple.
 
 
 # Playing the Game
@@ -49,13 +71,14 @@ When a unit makes a normal test that unit will roll a number of dice specified b
 
 
 ## Army Structure
-- Army
-	- Composed of 4 or more Detachments each with its own leader
-	- One detachment leader on the battlefield is chosen to be the Force Commander
-	- Start with 200wgp to spend on unit upgrades +50 for each detachment over 4 you decide to play with.
-- Detachments
-	- Ranging from 1-6 units + Leader
-	- Max 2 of the same Detachment
+**Army**
+- Composed of 4 or more Detachments each with its own leader
+- One detachment leader on the battlefield is chosen to be the Force Commander
+- Start with 200wgp to spend on unit upgrades +50 for each detachment over 4 you decide to play with.
+
+**Detachments**
+- Ranging from 1-6 units + Leader
+- Max 2 of the same Detachment
 
 ### Detachment Types Table
 | Type             | No. of Units | Ability                                                                                                                                                                                              |
@@ -70,9 +93,12 @@ When a unit makes a normal test that unit will roll a number of dice specified b
 ### Detachment Leaders
 When setting up a detachment you must include a leader model to lead that detachment.
 There are 2 different types of leader models: 
-Standalone, and Attached leaders.
-- Standalone Leaders are units themselves usually composed of one model.
-- Attached Leaders are attached to a unit and activate along with that unit.
+
+**Standalone Leaders** 
+are units themselves usually composed of one model.
+
+**Attached Leaders** 
+are attached to a unit and activate along with that unit.
 
 
 ## Building Armies
@@ -111,10 +137,10 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 # Weapons
 ## Weapon Stats 
-- Range in inches 
-- Armor Penetration
-- Damage
-- Shots
+- Range in inches
+- Armor Penetration (Removes from the opposing units armor dice pool)
+- Damage (Flat number)
+- Shots (Amount of dice to add to the shooting dice pool)
 
 
 # Example Units WIP
