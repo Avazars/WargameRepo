@@ -1,5 +1,15 @@
 {
   "minimal-advanced@@cursor": "default",
   "minimal-style@@window-title-off": false,
-  "minimal-style@@callouts-style": "callouts-outlined"
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "ITS@@radius-s": 8,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@t-d": true,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false
 }

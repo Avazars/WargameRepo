@@ -9,6 +9,12 @@ cssclasses:
 - High Sci-Fi
 - Use a dice pool system where doubles and triples can proc weapon abilities 
 - Played on  6'x4' board
+- Cannot increase success values higher then 6+ and lower then 2+
+
+
+Triples count as a double
+Quads count as a 2 doubles and 1 triple
+
 
 ## Factions
 [[Constructs]]
@@ -16,12 +22,21 @@ cssclasses:
 [[Aliens]]
 
 
+## Dice Rolling
+Players will roll pools of dice to determine the success of an action that a unit will take or how well a unit responds to another unit
+
+**Normal Test**
+When a unit makes a normal test that unit will roll a number of dice specified by their stat and the modifiers to this roll. 
+
+**Opposed Test** 
+
+
 # Playing the Game
 ## Game Structure
 1. Players start the game with sharing their lists with each other going over the detachments that they are taking and what units are in those Detachments, making sure to also cover all [[Wargear]] and [[Leaders]] in their list.
 2. Players begin alternating placing terrain on the board and agreeing on what each terrain tags each piece has when it is placed.
 3. Next players choose or randomly select what [[Primary Mission]] and [[Deployment Style]] they are going to play with.
-4. Both players then perform the [[Deployment Rolloff]], with the winner getting to choose what deployment zone they want, or if they want the first activation. Opponent gets the option not chosen by the winning player.
+4. Both players then perform the [[Deployment Roll-off]], with the winner getting to choose what deployment zone they want, or if they want the first activation. Opponent gets the option not chosen by the winning player.
 5. Players deploy detachments in alternating fashion starting with the player who got the first activation (Reserve deployment counts as a deployment)
 6. Players declare any before game abilities and place their [[Detachment Directive]] cards.
 7. Starting with the player that got the first activation, players activate detachments in an alternating fashion.
@@ -49,7 +64,7 @@ cssclasses:
 | Elite Infantry   | 3            | Units in this detachment can choose to ignore the first moral roll they would be forced to make each round.                                                                                          |
 | Spec-Ops         | 3            | Units in this detachment can choose to start in reserve and at the beginning of the commander phase of another detachment deploy within 9" of that detachments leader.                               |
 | Forward Strikers | 2            | Units in this detachment move their normal speed when taking the rush action instead of half speed like normal.                                                                                      |
-| Heavy Defenders  | 2            | Units in this detachment provide cover for units that they block LOS for as though they were terrain with the Cover Terrain Tag.                                                                     |
+| Heavy Defenders  | 2            | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag.                                                            |
 | Titanic          | 1            | Units in this detachment can perform two different actions during the action phase instead of just one.                                                                                              |
 
 ### Detachment Leaders
@@ -59,10 +74,6 @@ Standalone, and Attached leaders.
 - Standalone Leaders are units themselves usually composed of one model.
 - Attached Leaders are attached to a unit and activate along with that unit.
 
-
-### Units
-- Composed of 1, 3, 5, or 10 models
-- We won't do combined units. ex: (combining two 5 mans into a 10 man)
 
 ## Building Armies
 

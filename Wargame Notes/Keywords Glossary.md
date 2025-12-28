@@ -3,12 +3,13 @@
 | Keyword   | Effect                                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------------------------- |
 | Fly       | When this unit moves it can ignore terrain for the round by spending 3" of movement.                             |
-| Stealth   | When this unit is targeted by a range weapon treat the attackers RE as 1 higher (Ex: 3+ -> 4+)                   |
-| Vehicle   | Cannot move though terrain taller then 3"                                                                        |
+| Stealth   | When this unit is targeted by a shooting action any doubles rolled during defense count as an extra success.     |
+| Vehicle   | Cannot move though terrain taller then 3".                                                                       |
 | Guardian  | When another friendly unit within 6" is charged you can charge with this unit and retaliate in the Melee combat. |
 | Phasing   | When this unit moves it ignores terrain.                                                                         |
-| Strider   | If this unit moves in a straight line it can move an extra 2"                                                    |
+| Strider   | This unit ignores difficult terrain, and takes one less wound per double rolled during a Deadly Terrain Test     |
 | Transport | ???                                                                                                              |
+| Attached  |                                                                                                                  |
 |           |                                                                                                                  |
 ### Weapon Keywords
 

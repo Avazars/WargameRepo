@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Wargame Notes/Units.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Units"
+            }
+          },
+          {
+            "id": "5e35795b4245f14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Wargame Notes/Keywords Glossary.md",
                 "mode": "source",
                 "source": false
@@ -35,7 +49,8 @@
               "title": "Brainstorm File"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,6 +136,7 @@
       {
         "id": "c843ab7ba5387071",
         "type": "tabs",
+        "dimension": 29.672447013487474,
         "children": [
           {
             "id": "0d3bc9f7e9517b7b",
@@ -171,21 +187,6 @@
             }
           },
           {
-            "id": "80062e2d0505de4a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Wargame Notes/Keywords Glossary.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Keywords Glossary"
-            }
-          },
-          {
             "id": "96f28ed8afeb8471",
             "type": "leaf",
             "state": {
@@ -222,11 +223,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e375fe70f1b2744d",
         "type": "tabs",
+        "dimension": 70.32755298651252,
         "children": [
           {
             "id": "76a9b518fdcfe7bb",
@@ -237,8 +239,24 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "80062e2d0505de4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wargame Notes/Brainstorm File.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Brainstorm File"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,14 +276,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cf92a1200e7db4e",
+  "active": "e6a8e2312f864267",
   "lastOpenFiles": [
-    "Wargame Notes/Brainstorm File.md",
+    "Wargame Notes/Units.md",
     "Wargame Notes/Keywords Glossary.md",
-    "Wargame Notes/Deployment Rolloff.md",
-    "Wargame Notes/Constructs.md",
-    "Wargame Notes/Humans.md",
-    "Wargame Notes/Aliens.md",
+    "Wargame Notes/Brainstorm File.md",
+    "Wargame Notes/Deployment Roll-off.md",
+    "Wargame Notes/Factions/Humans.md",
+    "Wargame Notes/Factions",
+    "Wargame Notes/Factions/Aliens.md",
+    "Wargame Notes/Factions/Constructs.md",
     "Templates/Unit Template.md",
     "Unit.md",
     "snippets/Wide.css",
@@ -292,13 +312,10 @@
     "AetherLight/Factions/The Aetherial Defense Corps.md",
     "AetherLight/Factions/The Coalition.md",
     "AetherLight/Locations/Great Vamrah Obelisk.md",
-    "AetherLight/Factions/Azure Horizon Trading Company.md",
-    "AetherLight/Factions/The Cadence.md",
     "Canvases/Faction Web.canvas",
     "AetherLight/Notables",
     "AetherLight",
     "AetherLight/People",
-    "AetherLight/Locations",
-    "AetherLight/Factions"
+    "AetherLight/Locations"
   ]
 }

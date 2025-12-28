@@ -2,5 +2,6 @@
   "attachmentFolderPath": "Files/Images",
   "showUnsupportedFiles": false,
   "newFileLocation": "root",
-  "newFileFolderPath": "Files/Images"
+  "newFileFolderPath": "Files/Images",
+  "alwaysUpdateLinks": true
 }
