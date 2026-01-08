@@ -136,7 +136,7 @@
       {
         "id": "c843ab7ba5387071",
         "type": "tabs",
-        "dimension": 29.672447013487474,
+        "dimension": 29.672447013487478,
         "children": [
           {
             "id": "0d3bc9f7e9517b7b",
@@ -278,14 +278,14 @@
   },
   "active": "555b8f92b803dea0",
   "lastOpenFiles": [
+    "Wargame Notes/Factions/Constructs.md",
+    "Wargame Notes/Factions/Humans.md",
+    "Wargame Notes/Factions/Aliens.md",
     "Wargame Notes/Units.md",
+    "Wargame Notes/Keywords Glossary.md",
     "Wargame Notes/Deployment Roll-off.md",
     "Wargame Notes/Brainstorm File.md",
-    "Wargame Notes/Keywords Glossary.md",
-    "Wargame Notes/Factions/Humans.md",
     "Wargame Notes/Factions",
-    "Wargame Notes/Factions/Aliens.md",
-    "Wargame Notes/Factions/Constructs.md",
     "Templates/Unit Template.md",
     "Unit.md",
     "snippets/Wide.css",
