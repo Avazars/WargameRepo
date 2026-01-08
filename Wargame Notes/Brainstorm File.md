@@ -9,7 +9,7 @@ cssclasses:
 - High Sci-Fi
 - Use a dice pool system where doubles and triples can proc weapon abilities 
 - Played on  6'x4' board
-- Cannot increase success values higher then 6+ and lower then 2+
+- 6s are always successes, and 1s are always failures
 
 
 

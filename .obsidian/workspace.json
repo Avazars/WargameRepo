@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e929e1a5d02c2e71",
+        "id": "8a00ba1ccaa990de",
         "type": "tabs",
         "children": [
           {
-            "id": "5cf92a1200e7db4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wargame Notes/Units.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Units"
-            }
-          },
-          {
-            "id": "5e35795b4245f14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wargame Notes/Keywords Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keywords Glossary"
-            }
-          },
-          {
-            "id": "555b8f92b803dea0",
+            "id": "4cf275ba3ee045f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Brainstorm File"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "5fac266c25b15630",
@@ -260,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,15 +247,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "555b8f92b803dea0",
+  "active": "4cf275ba3ee045f2",
   "lastOpenFiles": [
+    "Wargame Notes/Brainstorm File.md",
+    "Wiki Home.md",
+    "Wargame Notes/Units.md",
+    "Wargame Notes/Keywords Glossary.md",
     "Wargame Notes/Factions/Constructs.md",
     "Wargame Notes/Factions/Humans.md",
     "Wargame Notes/Factions/Aliens.md",
-    "Wargame Notes/Units.md",
-    "Wargame Notes/Keywords Glossary.md",
     "Wargame Notes/Deployment Roll-off.md",
-    "Wargame Notes/Brainstorm File.md",
     "Wargame Notes/Factions",
     "Templates/Unit Template.md",
     "Unit.md",
@@ -302,7 +274,6 @@
     "Files/Playbooks.pdf",
     "Files/Outfits.pdf",
     "Files/Images/Pasted image 20251127211907.png",
-    "Wiki Home.md",
     "AetherLight/Locations/The Reaches.md",
     "AetherLight/Factions/The Aetherial Exploration Corps.md",
     "AetherLight/Factions/Independents.md",
