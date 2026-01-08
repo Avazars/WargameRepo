@@ -6,18 +6,15 @@ cssclasses:
 
 ## Ideas
 - Model Agnostic though I have an idea of what I want to use
-- High Sci-Fi
+- Sci-Fi Touchstones: Halo, Starfinder, 
 - Use a dice pool system where doubles and triples can proc weapon abilities 
 - Played on  6'x4' board
 - 6s are always successes, and 1s are always failures
-
-
 
 ## Factions
 [[Constructs]]
 [[Humans]]
 [[Aliens]]
-
 
 ## Dice Rolling
 Players will roll pools of dice ranging from 6-20 to determine the success of an action. There are two types of tests that a unit can make.
@@ -26,7 +23,7 @@ Players will roll pools of dice ranging from 6-20 to determine the success of an
 A flat test is a test that requires the player to roll their pool of dice and get a specific amount of successes to pass the test. These tests usually have a target number of 4+.
 
 > [!Example] Example Flat Test
-> A unit that takes a moral test would use their Leadership stat as their dice pool and with a target number of 4+ try to get at least 3 successes.
+> A unit that takes a [[Moral Test]] would use their Leadership stat as their dice pool and with a target number of 4+ try to get at least 3 successes.
 
 **Dynamic Test**
 A dynamic test is where both players are going to roll a pool of dice at the same time with their own target numbers and try to get more successes then their opponent. During a dynamic test both players will also remove duplicate numbers from across pools. The reason we remove duplicates across pools is because rolling doubles, triples, quads trigger extra effects and we don't want crazy amounts of extra stuff going off all the time with larger dice pools. *The most common kind of ability would be counting extra successes on doubles.*
@@ -62,22 +59,51 @@ Rolling a Triple would count as 3 singular dice, 1 double, and 1 triple.
 5. Players deploy detachments in alternating fashion starting with the player who got the first activation (Reserve deployment counts as a deployment)
 6. Players declare any before game abilities and place their [[Detachment Directive]] cards.
 7. Starting with the player that got the first activation, players activate detachments in an alternating fashion.
-8. Inside of a detachments activation
-	1. Each units' [[Commander Phase]] abilities trigger
-	2. Each unit can choose to move up to its [Movement Value]([[Unit Profile]])
-	3. Each unit can choose to perform one [[Standard Action]] 
-	4. Each units' [[End Phase]] abilities trigger
+8. When a detachment is selected each unit inside of that detachment activates and chooses to perform a [[Basic Action]] + a [[Standard Action]] or a single [[Full Action]].
 9. Once all detachments have been activated that concludes a round, now do it again until you've concluded 4 rounds at which point the player with the most victory points wins the game.
 
 
 ## Army Structure
 **Army**
-- Composed of 4 or more Detachments each with its own leader
-- One detachment leader on the battlefield is chosen to be the Force Commander
-- Start with 200wgp to spend on unit upgrades +50 for each detachment over 4 you decide to play with.
+- You must choose a force commander determining the army wide ability.
+- Composed of 4 or more Detachments
+- Each detachment has its own detachment objectives.
+- Start with 40 [[Supply Points]] to spend on unit upgrades +10 for each detachment over 4 you decide to play with.
+- Specialists, Detachment specializations, Wargear upgrades, and powerful units cost supply points
+
+**Specialists**
+Unique to each faction
+Must follow requirements for each specialist
+
+**Unit Types**
+Basic Infantry 
+Elite Infantry
+
+Light Vehicle
+Small Monster
+
+Heavy Vehicle
+Large Monster
+
+Titanic
+
 
 **Detachments**
-- Ranging from 1-6 units + Leader
+Strike: Scores by Destroying enemy units
+Hold: Scores by Maintaining control of objectives
+Capture: Scores by taking Objectives from enemies
+Claim: Scores by board control
+Delve: Scores by performing actions in terrain
+Unique one for each faction: Scores by doing special army things
+
+Must have 4 or more detachments
+Each Detachment provides you with 5 unit slots and 10 Supply Points
+Max 3 of any 1 unit profile
+
+
+
+**Detachments**
+- Ranging from 1-6 units
 - Max 2 of the same Detachment
 
 ### Detachment Types Table
