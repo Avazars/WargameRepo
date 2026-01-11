@@ -11,7 +11,7 @@ cssclasses:
 - Played on  6'x4' board
 - 6s are always successes, and 1s are always failures
 
-More testing
+
 
 ## Factions
 [[Constructs]]
