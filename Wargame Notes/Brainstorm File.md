@@ -106,24 +106,26 @@ Max 3 of any 1 unit profile
 - Ranging from 1-6 units
 - Max 2 of the same Detachment
 
-### Detachment Types Table
-| Type             | No. of Units | Ability                                                                                                                                                                                              |
-| ---------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Basic Infantry   | 6            | Units in this detachment can choose to move half their movement or perform a standard action once per round when another unit from a different detachment performs an action within 9" of this unit. |
-| Elite Infantry   | 3            | Units in this detachment can choose to ignore the first moral roll they would be forced to make each round.                                                                                          |
-| Spec-Ops         | 3            | Units in this detachment can choose to start in reserve and at the beginning of the commander phase of another detachment deploy within 9" of that detachments leader.                               |
-| Forward Strikers | 2            | Units in this detachment move their normal speed when taking the rush action instead of half speed like normal.                                                                                      |
-| Heavy Defenders  | 2            | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag.                                                            |
-| Titanic          | 1            | Units in this detachment can perform two different actions during the action phase instead of just one.                                                                                              |
+### Unit Types Table
+| Type             | Ability                                                                                                                                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic Infantry   | Units in this detachment can choose to move half their movement or perform a standard action once per round when another unit from a different detachment performs an action within 9" of this unit. |
+| Elite Infantry   | Units in this detachment can choose to ignore the first moral roll they would be forced to make each round.                                                                                          |
+| Spec-Ops         | Units in this detachment can choose to start in reserve and at the beginning of the commander phase of another detachment deploy within 9" of that detachments leader.                               |
+| Forward Strikers | Units in this detachment move their normal speed when taking the rush action instead of half speed like normal.                                                                                      |
+| Heavy Defenders  | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag.                                                            |
+| Titanic          | Units in this detachment can perform two different actions during the action phase instead of just one.                                                                                              |
 
-### Detachment Leaders
-When setting up a detachment you must include a leader model to lead that detachment.
-There are 2 different types of leader models: 
+### Specialist Types Table
+| Type    | Ability |
+| ------- | ------- |
+| Spotter |         |
+|         |         |
 
-**Standalone Leaders** 
+**Standalone Specialists** 
 are units themselves usually composed of one model.
 
-**Attached Leaders** 
+**Attached Specialists**
 are attached to a unit and activate along with that unit.
 
 
@@ -137,9 +139,7 @@ are attached to a unit and activate along with that unit.
 - You can also spend points to get detachment wide upgrades or upgrades to that detachments leader
 - Lastly you need to pick 4 out of the 8 available detachment Directives to be able to be used during the game.
 
-**All of this is open information to your opponent**
 
-  
 # Scoring
 ## Main mission 
 Chosen before deployment
