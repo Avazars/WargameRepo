@@ -1,7 +1,9 @@
 # Touchstones
-### Humans
-- Titan Fall Stim and Phase Pilots
-- Lore is that they are robots, but think they are the Humans as they are the successors to their human creators
+### Hum4ns
+- Titan Fall [Stim](https://titanfall.fandom.com/wiki/Stim) and [Phase](https://titanfall.fandom.com/wiki/Phase_Shift) Pilots
+- 
+# Lore 
+They are robots that did not finish gaining sentience until after their creators destruction and believe themselves to be Humans cause they know nothing else
 
 # Ideas
 - Call in ordnance deployed from the Crashed Warship *(Custom Action) (Leader might be able to do a free one) (Might let you also call in extra units)*

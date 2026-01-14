@@ -2,54 +2,29 @@
 cssclasses:
   - wide
 ---
-# General Stuff
+# General Idea Stuff
 
 ## Ideas
-- Model Agnostic though I have an idea of what I want to use
-- Sci-Fi Touchstones: Halo, Starfinder, 
-- Use a dice pool system where doubles and triples can proc weapon abilities 
+- Model Agnostic, choose what you feel fits the factions best
+	- I will obviously have my own choices
+- Sci-Fi 
+	- Touchstones: Halo, Starfinder, Titan Fall
+- Use a dice pool system where doubles and triples can proc weapon abilities or score some form of bonuses that can be used later
 - Played on  6'x4' board
 - 6s are always successes, and 1s are always failures
 
-last test
+| Adjustment          | Feeling          |
+| ------------------- | ---------------- |
+| Dice                | Volume / Amount  |
+| Target Number       | Skill / Accuracy |
+| Number of Successes | Other Factors    |
 
 ## Factions
 [[Constructs]]
-[[Humans]]
+[[Hum4ns]]
 [[Aliens]]
 
-## Dice Rolling
-Players will roll pools of dice ranging from 6-20 to determine the success of an action. There are two types of tests that a unit can make.
-
-**Flat Test**
-A flat test is a test that requires the player to roll their pool of dice and get a specific amount of successes to pass the test. These tests usually have a target number of 4+.
-
-> [!Example] Example Flat Test
-> A unit that takes a [[Moral Test]] would use their Leadership stat as their dice pool and with a target number of 4+ try to get at least 3 successes.
-
-**Dynamic Test**
-A dynamic test is where both players are going to roll a pool of dice at the same time with their own target numbers and try to get more successes then their opponent. During a dynamic test both players will also remove duplicate numbers from across pools. The reason we remove duplicates across pools is because rolling doubles, triples, quads trigger extra effects and we don't want crazy amounts of extra stuff going off all the time with larger dice pools. *The most common kind of ability would be counting extra successes on doubles.*
-
-> [!Example] Example Dynamic Test
-> Player one rolls {1,2,2,4,5,6,6} 
-> Player two rolls {1,2,3,5,6}
->
-> After Cancellation:
-> Player one would be left with {2,4,6}
-> Player two would be left with {3}
->
-> Then both players would count successes.
-
-**Rolling Doubles / Triples**
-When you roll doubles or triples you have the ability to trigger abilities like extra hits on doubles. Below is a chart that shows what each type of roll correlates to when checking for ability triggers.
-
-| Roll   | Singles | Doubles | Triples | Quads |
-| ------ | ------- | ------- | ------- | ----- |
-| Single | 1       |         |         |       |
-| Double | 2       | 1       |         |       |
-| Triple | 3       | 1       | 1       |       |
-| Quad   | 4       | 2       | 1       | 1     |
-Rolling a Triple would count as 3 singular dice, 1 double, and 1 triple.
+[[Dice Rolling]]
 
 
 # Playing the Game
@@ -122,6 +97,9 @@ Max 3 of any 1 unit profile
 | Type    | Ability |
 | ------- | ------- |
 | Spotter |         |
+| Comms   |         |
+| Repair  |         |
+|         |         |
 |         |         |
 
 **Standalone Specialists** 

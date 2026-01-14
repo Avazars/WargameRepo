@@ -1,7 +1,7 @@
 # Touchstones
 ### Constructs
-- Pipers VoidCraft Models
-- Endless Space 2 Robot guys
+- [Pipers VoidCraft](https://pipermakes.art/collections/voidframe) Models
+- [Riftborn](https://endless-space-2.fandom.com/wiki/The_Riftborn) Endless Space 2 Robot guys
 
 # Ideas
 - Use pillars/pylons to create zone abilities.
