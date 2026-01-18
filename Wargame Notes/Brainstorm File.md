@@ -5,19 +5,19 @@ cssclasses:
 # General Idea Stuff
 
 ## Ideas
-- Model Agnostic, choose what you feel fits the factions best
-	- I will obviously have my own choices
-- Sci-Fi 
-	- Touchstones: Halo, Starfinder, Titan Fall
-- Use a dice pool system where doubles and triples can proc weapon abilities or score some form of bonuses that can be used later
-- Played on  6'x4' board
-- 6s are always successes, and 1s are always failures
+- Model Agnostic, choose what you feel fits the factions best.
+	- I will obviously have my own choices.
+- Sci-Fi .
+	- Touchstones: Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars.
+- Use a dice pool system where doubles and triples can proc weapon abilities or score some form of bonuses that can be used later.
+- Played on  6'x4' board.
+- 6s are always successes, and 1s are always failures.
 
-| Adjustment          | Feeling          |
-| ------------------- | ---------------- |
-| Dice                | Volume / Amount  |
-| Target Number       | Skill / Accuracy |
-| Number of Successes | Other Factors    |
+| Adjustment             | Feeling          |
+| ---------------------- | ---------------- |
+| Dice                   | Volume / Amount  |
+| Target Number          | Skill / Accuracy |
+| Number of Successes DC | Other Factors    |
 
 ## Factions
 [[Constructs]]
@@ -33,92 +33,66 @@ cssclasses:
 2. Players begin alternating placing terrain on the board and agreeing on what each terrain tags each piece has when it is placed.
 3. Next players choose or randomly select what [[Primary Mission]] and [[Deployment Style]] they are going to play with.
 4. Both players then perform the [[Deployment Roll-off]], with the winner getting to choose what deployment zone they want, or if they want the first activation. Opponent gets the option not chosen by the winning player.
-5. Players deploy detachments in alternating fashion starting with the player who got the first activation (Reserve deployment counts as a deployment)
-6. Players declare any before game abilities and place their [[Detachment Directive]] cards.
+5. Players deploy detachments in alternating fashion starting with the player who got the first activation. (Reserve deployment counts as a deployment)
+6. Players declare any before game abilities and place their [[Detachment Directive]] cards on the side of the table.
 7. Starting with the player that got the first activation, players activate detachments in an alternating fashion.
 8. When a detachment is selected each unit inside of that detachment activates and chooses to perform a [[Basic Action]] + a [[Standard Action]] or a single [[Full Action]].
 9. Once all detachments have been activated that concludes a round, now do it again until you've concluded 4 rounds at which point the player with the most victory points wins the game.
 
 
-## Army Structure
+## List Building Rules
 **Army**
-- You must choose a force commander determining the army wide ability.
-- Composed of 4 or more Detachments
-- Each detachment has its own detachment objectives.
-- Start with 40 [[Supply Points]] to spend on unit upgrades +10 for each detachment over 4 you decide to play with.
-- Specialists, Detachment specializations, Wargear upgrades, and powerful units cost supply points
-
-**Specialists**
-Unique to each faction
-Must follow requirements for each specialist
-
-**Unit Types**
-Basic Infantry 
-Elite Infantry
-
-Light Vehicle
-Small Monster
-
-Heavy Vehicle
-Large Monster
-
-Titanic
+- You must choose a force commander determining the army wide ability and starting choice of detachment. (This is so I can make subfactions easily).
+- Start 10 [[Supply Points]] and 5 Unit slots for each detachment you decide to play with to spend on unit upgrades. (Typical game is 4 Detachments).
+- Specialists, Detachment specializations, Wargear upgrades, and powerful units cost supply points.
+- Max 3 of any 1 unit profile across the whole army.
 
 
-**Detachments**
-Strike: Scores by Destroying enemy units
-Hold: Scores by Maintaining control of objectives
-Capture: Scores by taking Objectives from enemies
-Claim: Scores by board control
-Delve: Scores by performing actions in terrain
-Unique one for each faction: Scores by doing special army things
+## Units
 
-Must have 4 or more detachments
-Each Detachment provides you with 5 unit slots and 10 Supply Points
-Max 3 of any 1 unit profile
+| Unit Types     | Description |
+| -------------- | ----------- |
+| Basic Infantry |             |
+| Elite Infantry |             |
+| Light Vehicle  |             |
+| Small Monster  |             |
+| Heavy Vehicle  |             |
+| Large Monster  |             |
+| Titanic*       |             |
+### Unit Keywords
 
+| Type    | Ability                                                                                                                                   |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Vehicle | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag. |
+| Titanic |                                                                                                                                           |
+|         |                                                                                                                                           |
 
+## **Detachments**
 
-**Detachments**
-- Ranging from 1-6 units
-- Max 2 of the same Detachment
+| Detachment Type | Directive Flavor                             |
+| --------------- | -------------------------------------------- |
+| Strike          | Scores by destroying enemy units.            |
+| Hold            | Scores by maintaining control of objectives. |
+| Capture         | Scores by taking objectives from enemies.    |
+| Claim           | Scores by board control.                     |
+| Delve           | Scores by performing actions in terrain.     |
+| Unique*         | Scores by using faction based stuff.         |
 
-### Unit Types Table
-| Type             | Ability                                                                                                                                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Basic Infantry   | Units in this detachment can choose to move half their movement or perform a standard action once per round when another unit from a different detachment performs an action within 9" of this unit. |
-| Elite Infantry   | Units in this detachment can choose to ignore the first moral roll they would be forced to make each round.                                                                                          |
-| Spec-Ops         | Units in this detachment can choose to start in reserve and at the beginning of the commander phase of another detachment deploy within 9" of that detachments leader.                               |
-| Forward Strikers | Units in this detachment move their normal speed when taking the rush action instead of half speed like normal.                                                                                      |
-| Heavy Defenders  | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag.                                                            |
-| Titanic          | Units in this detachment can perform two different actions during the action phase instead of just one.                                                                                              |
+## **Specialists**
+Unique to each faction with some common ones across
+Must follow requirements for each specialist.
 
-### Specialist Types Table
-| Type    | Ability |
-| ------- | ------- |
-| Spotter |         |
-| Comms   |         |
-| Repair  |         |
-|         |         |
-|         |         |
-
-**Standalone Specialists** 
-are units themselves usually composed of one model.
-
-**Attached Specialists**
-are attached to a unit and activate along with that unit.
-
+| Type                     | Unit Compliance | Ability                                                                                                                                       |
+| ------------------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Spotter                  |                 |                                                                                                                                               |
+| Comms (Attached)         |                 | When the attached unit performs a basic action, you may target another friendly unit within 12" of this model to also perform a basic action. |
+| Repair Tech (Standalone) |                 |                                                                                                                                               |
+| Medic (Attached)         |                 |                                                                                                                                               |
+| Commander (Attached)     |                 |                                                                                                                                               |
+|                          |                 |                                                                                                                                               |
 
 ## Building Armies
-
-- First you choose which types of detachments you would like to use
-- This will determine what kind of units you are allowed to take and what kind of upgrades you might be able to put on those units.
-- Next you choose which leader units you want to lead each detachment and choose which of those leaders will be your force commander.
-- Then with the remaining points in each detachment you select units and wargear to fill it out. 
-- Units need to have the correct unit type to fit into a detachment slot.
-- You can also spend points to get detachment wide upgrades or upgrades to that detachments leader
-- Lastly you need to pick 4 out of the 8 available detachment Directives to be able to be used during the game.
-
+- 
 
 # Scoring
 ## Main mission 
@@ -128,15 +102,13 @@ Chosen before deployment
 A group of cards attached to a specific detachment chosen from a list during list creation, you flip over the top of the deck and can score that card with that detachment or ditch that card to gain a benefit (stratagem).
 
 # Units
-- Universal Keywords for both models and weapons
-- Assault
-- Units Perform Actions to do things during the action phase
-- Shoot, Charge, Activate Obj, Activate Ability
+- Universal Keywords for both models and weapons.
+- Units get the ability to perform a Basic Action + Standard Action or a Full Action.
 
 ## Unit Stats
-- Movement in inches: 6"
-- CE: Combat Effectiveness: 4+
-- RE: Range Effectiveness: 4+
+- Mov: Movement in inches: 6"
+- CCE: Combat Effectiveness: 4+
+- RCE: Range Effectiveness: 4+
 - LD: Leadership: 6/4+
 - Arm: Armor value: 6/4+
 - Health 4

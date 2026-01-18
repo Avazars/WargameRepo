@@ -202,16 +202,6 @@
         "dimension": 70.32755298651252,
         "children": [
           {
-            "id": "76a9b518fdcfe7bb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "80062e2d0505de4a",
             "type": "leaf",
             "state": {
@@ -226,8 +216,7 @@
               "title": "Outline of Brainstorm File"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,11 +238,11 @@
   },
   "active": "4cf275ba3ee045f2",
   "lastOpenFiles": [
-    "Wargame Notes/Dice Rolling.md",
-    "Wargame Notes/Brainstorm File.md",
-    "Wargame Notes/Factions/Hum4ns.md",
-    "Wargame Notes/Factions/Constructs.md",
     "Wargame Notes/Factions/Aliens.md",
+    "Wargame Notes/Factions/Constructs.md",
+    "Wargame Notes/Factions/Hum4ns.md",
+    "Wargame Notes/Brainstorm File.md",
+    "Wargame Notes/Dice Rolling.md",
     "Wargame Notes/Units.md",
     "Wargame Notes/Deployment Roll-off.md",
     "Wargame Notes/Keywords Glossary.md",
