@@ -1,0 +1,1 @@
+Wargear is special equipment that a unit might be upgraded with to improve them or give them extra abilities. You can find lists of wargear on each faction's pages. Under each units profile you can see the wargear options that that unit can be upgraded with.

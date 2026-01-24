@@ -7,8 +7,7 @@ cssclasses:
 ## Ideas
 - Model Agnostic, choose what you feel fits the factions best.
 	- I will obviously have my own choices.
-- Sci-Fi .
-	- Touchstones: Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars.
+- Touchstones: Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars.
 - Use a dice pool system where doubles and triples can proc weapon abilities or score some form of bonuses that can be used later.
 - Played on  6'x4' board.
 - 6s are always successes, and 1s are always failures.
@@ -19,7 +18,7 @@ cssclasses:
 | Target Number          | Skill / Accuracy |
 | Number of Successes DC | Other Factors    |
 
-## Factions
+## Faction Pages
 [[Constructs]]
 [[Hum4ns]]
 [[Aliens]]
@@ -107,8 +106,8 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 ## Unit Stats
 - Mov: Movement in inches: 6"
-- CCE: Combat Effectiveness: 4+
-- RCE: Range Effectiveness: 4+
+- CCE: Close Combat Effectiveness: 4+
+- RCE: Range Combat Effectiveness: 4+
 - LD: Leadership: 6/4+
 - Arm: Armor value: 6/4+
 - Health 4
