@@ -242,7 +242,6 @@
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export as HTML": false,
       "obsidian-kanban:Create new board": false,
-      "soundscapes:Soundscapes: My Music": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -250,6 +249,7 @@
   "lastOpenFiles": [
     "Wargame Notes/Dice Rolling.md",
     "Wargame Notes/Brainstorm File.md",
+    "Factions.md",
     "Wargame Notes/Deployment Roll-off.md",
     "Wargear.md",
     "Wargame Notes/Units.md",
@@ -282,7 +282,6 @@
     "AetherLight/Factions/Solartide Consortium.md",
     "AetherLight/Locations/The Divide.md",
     "AetherLight/Factions/The Aetherial Defense Corps.md",
-    "AetherLight/Factions/The Coalition.md",
     "Canvases/Faction Web.canvas",
     "AetherLight/Notables",
     "AetherLight",

@@ -1,10 +1,10 @@
-Players will roll pools of six sided dice ranging from `[6-20)` and checking them against some target value to determine the number of success for an action. There are two types of tests that a unit can make.
+Players will roll pools of six sided dice ranging from `[6-20)` and checking them against some target value to determine the number of success for an action. There are three types of tests that a player can make.
 
 ### Unique Test
 A unique test is a dice roll made with 6d6 where the player counts the number of unique values rolled in the pool. 
 
 > [!EXAMPLE] Example Unique test
-> When rolling initiative both players would roll a Unique Test and whoever has the most unique values would.
+> When rolling initiative both players would roll a Unique Test and whoever has the most unique values counted would win.
 > Ex : {1,2,3,4,5,6} would be the best roll possible with a unique test.
 
 ### Flat Test
@@ -26,6 +26,12 @@ An Opposed test is a dice roll where both players are going to roll a pool of di
 >
 > Then both players would count successes.
 
+
+| Adjustment             | Feeling          |
+| ---------------------- | ---------------- |
+| Dice                   | Volume / Amount  |
+| Target Number          | Skill / Accuracy |
+| Number of Successes DC | Other Factors    |
 
 ### **Rolling Doubles / Triples**
 When you roll doubles or triples you have the ability to trigger abilities like extra hits on doubles. Below is a chart that shows what each type of roll correlates to when checking for ability triggers.

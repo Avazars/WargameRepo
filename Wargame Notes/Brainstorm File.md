@@ -12,18 +12,21 @@ cssclasses:
 - Played on  6'x4' board.
 - 6s are always successes, and 1s are always failures.
 
-| Adjustment             | Feeling          |
-| ---------------------- | ---------------- |
-| Dice                   | Volume / Amount  |
-| Target Number          | Skill / Accuracy |
-| Number of Successes DC | Other Factors    |
+
 
 ## Faction Pages
-[[Constructs]]
-[[Hum4ns]]
-[[Aliens]]
+
+
 
 [[Dice Rolling]]
+
+[[Game Structure]]
+
+[[Factions]]
+[[List Building]]
+[[Unit Actions]]
+
+
 
 
 # Playing the Game
@@ -60,11 +63,11 @@ cssclasses:
 | Titanic*       |             |
 ### Unit Keywords
 
-| Type    | Ability                                                                                                                                   |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Vehicle | Units in this detachment provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag. |
-| Titanic |                                                                                                                                           |
-|         |                                                                                                                                           |
+| Type     | Ability                                                                                                                                  |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Vehicle  | Units with this keyword provide cover for units that their volume blocks LOS for as though they were terrain with the Cover Terrain Tag. |
+| Infantry | Units with this keyword can perform a Objective Action as a Basic Action instead of the usual Standard Action.                           |
+| Stealth  | Units with this keyword                                                                                                                  |
 
 ## **Detachments**
 
