@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Brainstorm File"
             }
+          },
+          {
+            "id": "990e0038b56c458b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,13 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wargame Notes/Brainstorm File.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm File"
+              "title": "Outline"
             }
           }
         ]
@@ -245,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cf275ba3ee045f2",
+  "active": "990e0038b56c458b",
   "lastOpenFiles": [
     "Wargame Notes/Dice Rolling.md",
     "Wargame Notes/Brainstorm File.md",
