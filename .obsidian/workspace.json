@@ -11,30 +11,17 @@
             "id": "4cf275ba3ee045f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Wargame Notes/Brainstorm File.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Brainstorm File"
-            }
-          },
-          {
-            "id": "990e0038b56c458b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.1"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,14 +240,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export as HTML": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "990e0038b56c458b",
+  "active": "4cf275ba3ee045f2",
   "lastOpenFiles": [
-    "Wargame Notes/Dice Rolling.md",
     "Wargame Notes/Brainstorm File.md",
+    "Wargame Notes/Keywords Glossary.md",
+    "Wargame Notes/Dice Rolling.md",
     "Factions.md",
     "Wargame Notes/Deployment Roll-off.md",
     "Wargear.md",
@@ -268,7 +255,6 @@
     "Wargame Notes/Factions/Aliens.md",
     "Wargame Notes/Factions/Constructs.md",
     "Wargame Notes/Factions/Hum4ns.md",
-    "Wargame Notes/Keywords Glossary.md",
     "Wiki Home.md",
     "Wargame Notes/Factions",
     "Templates/Unit Template.md",
