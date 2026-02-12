@@ -18,8 +18,13 @@ jobs:
         uses: konstfish/quartz-build-action@v7
         with:
           # specify source folder
-          source: "WargameNotes"
+          source: WargameNotes
           # page title to be displayed in the browser
+          # quartz config files, I like keeping them in my .github folder to reduce clutter
+          # see https://quartz.jzhao.xyz/configuration & https://quartz.jzhao.xyz/layout respectively
+          quartz_config: .github/quartz/quartz.config.ts
+          #quartz_layout: .github/quartz/quartz.layout.ts
+
           page_title: "Wargame Notes"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
