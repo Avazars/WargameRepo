@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a00ba1ccaa990de",
+        "id": "477f4fc57052b8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf275ba3ee045f2",
+            "id": "57fbdc3b9cdee0cf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "WargameNotes/Wargear.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Wargear"
             }
           }
         ]
@@ -192,16 +192,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "cc43e8aabb7d3b8d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 5
@@ -217,12 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "WargameNotes/Wargear.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Wargear"
             }
           }
         ]
@@ -243,20 +234,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cf275ba3ee045f2",
+  "active": "866fe60496a291a9",
   "lastOpenFiles": [
-    "Wargame Notes/Brainstorm File.md",
-    "Wargame Notes/Keywords Glossary.md",
-    "Wargame Notes/Dice Rolling.md",
-    "Factions.md",
+    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Keywords Glossary.md",
+    "WargameNotes/Dice Rolling.md",
+    "WargameNotes/Factions.md",
     "Wargame Notes/Deployment Roll-off.md",
-    "Wargear.md",
+    "WargameNotes/Wargear.md",
     "Wargame Notes/Units.md",
-    "Wargame Notes/Factions/Aliens.md",
-    "Wargame Notes/Factions/Constructs.md",
-    "Wargame Notes/Factions/Hum4ns.md",
-    "Wiki Home.md",
-    "Wargame Notes/Factions",
+    "WargameNotes/Factions/Aliens.md",
+    "WargameNotes/Factions/Constructs.md",
+    "WargameNotes/Factions/Hum4ns.md",
+    "WargameNotes/Wiki Home.md",
+    "WargameNotes/Factions",
     "Templates/Unit Template.md",
     "Unit.md",
     "snippets/Wide.css",
@@ -264,7 +255,7 @@
     "Templates/Faction Template.md",
     "Templates/Key Rule Template.md",
     "Templates/Weapon Template.md",
-    "Wargame Notes",
+    "WargameNotes",
     "Templates/Location Template.md",
     "Templates/Lore Template.md",
     "Templates/Notable Character Template.md",
