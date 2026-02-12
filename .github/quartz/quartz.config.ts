@@ -8,9 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
   },
-  plugins: {
-
-  },
+ 
 }
 
 export default config
