@@ -25,7 +25,7 @@ jobs:
           quartz_config: .github/quartz/quartz.config.ts
           #quartz_layout: .github/quartz/quartz.layout.ts
 
-          page_title: "Wargame Notes"
+          #page_title: "Wargame Notes"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
