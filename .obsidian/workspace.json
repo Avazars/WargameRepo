@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "477f4fc57052b8cf",
+        "id": "8a00ba1ccaa990de",
         "type": "tabs",
         "children": [
           {
-            "id": "57fbdc3b9cdee0cf",
+            "id": "7d38070c95f453d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Unit Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Unit Conditions"
             }
           }
         ]
@@ -192,6 +192,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cc43e8aabb7d3b8d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -207,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Unit Conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Unit Conditions"
             }
           }
         ]
@@ -231,50 +241,51 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export as HTML": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866fe60496a291a9",
+  "active": "7d38070c95f453d6",
   "lastOpenFiles": [
-    "WargameNotes/Wargear.md",
-    "WargameNotes/index.md",
-    "WargameNotes/Brainstorm File.md",
-    "WargameNotes/Keywords Glossary.md",
-    "WargameNotes/Dice Rolling.md",
-    "WargameNotes/Factions.md",
-    "Wargame Notes/Deployment Roll-off.md",
-    "Wargame Notes/Units.md",
-    "WargameNotes/Factions/Aliens.md",
-    "WargameNotes/Factions/Constructs.md",
-    "WargameNotes/Factions/Hum4ns.md",
-    "WargameNotes/Factions",
+    "WargameNotes/Unit Actions.md",
+    "WargameNotes/Unit Conditions.md",
     "Templates/Unit Template.md",
+    "WargameNotes/Brainstorm File.md",
+    "Brainstorm File.md",
+    "WargameNotes/Factions/Hum4ns.md",
+    "WargameNotes/Factions/Constructs.md",
+    "WargameNotes/Factions/Aliens.md",
+    "WargameNotes/index.md",
+    "WargameNotes/Wargear.md",
+    "WargameNotes/Keywords Glossary.md",
+    "WargameNotes/Factions.md",
+    "WargameNotes/Factions",
+    "WargameNotes/Dice Rolling.md",
+    "WargameNotes",
+    "Wargame Notes/Dice Rolling.md",
+    "Factions.md",
+    "Wargame Notes/Deployment Roll-off.md",
+    "Wargear.md",
+    "Wargame Notes/Units.md",
+    "Wargame Notes/Factions/Aliens.md",
+    "Wargame Notes/Factions/Constructs.md",
+    "Wargame Notes/Factions/Hum4ns.md",
+    "Wargame Notes/Keywords Glossary.md",
+    "Wiki Home.md",
+    "Wargame Notes/Factions",
     "Unit.md",
     "snippets/Wide.css",
     "snippets",
     "Templates/Faction Template.md",
     "Templates/Key Rule Template.md",
-    "Templates/Weapon Template.md",
-    "WargameNotes",
-    "Templates/Location Template.md",
-    "Templates/Lore Template.md",
-    "Templates/Notable Character Template.md",
+    "Wargame Notes",
     "Canvases/Magic System.canvas",
     "Canvases/Faction Map.canvas",
     "Files/Playbooks.pdf",
     "Files/Outfits.pdf",
     "Files/Images/Pasted image 20251127211907.png",
-    "AetherLight/Locations/The Reaches.md",
-    "AetherLight/Factions/The Aetherial Exploration Corps.md",
-    "AetherLight/Factions/Independents.md",
-    "AetherLight/Locations/The Core.md",
-    "AetherLight/Factions/Solartide Consortium.md",
-    "AetherLight/Locations/The Divide.md",
-    "AetherLight/Factions/The Aetherial Defense Corps.md",
     "Canvases/Faction Web.canvas",
     "AetherLight/Notables",
-    "AetherLight",
-    "AetherLight/People",
-    "AetherLight/Locations"
+    "AetherLight"
   ]
 }
