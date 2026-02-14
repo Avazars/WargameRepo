@@ -199,8 +199,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -241,7 +241,6 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export as HTML": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
