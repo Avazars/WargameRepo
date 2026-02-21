@@ -29,6 +29,12 @@
 | ---- | ------- |
 |      |         |
 
+Suppression Tokens
+General Disadvantage dice that your opponent can choose to use to reduce your pool
+
+Tactician Tokens
+General Advantage dice that you can choose to use to increase your pool
+
 ### Conditions
 
 | Keyword | Effect |
@@ -37,7 +43,7 @@
 | Broken  |        |
 |         |        |
 
-### Terrain Keywords
+### Terrain Types
 
 | Keyword    | Effect                                                                                                                                                         |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-# Touchstones
-### Alien Faction
+### Alien Faction Touchstones
 - Halo Elites Inspired warrior culture
 - [Hissho](https://endless-space-2.fandom.com/wiki/The_Hissho) faction from Endless Space 2
 - Dinosaurs / Lizards 

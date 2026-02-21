@@ -4,6 +4,9 @@ cssclasses:
 ---
 # General Idea Stuff
 
+
+
+
 ## Ideas
 - Model Agnostic, choose what you feel fits the factions best.
 	- I will obviously have my own choices.
@@ -92,7 +95,8 @@ Must follow requirements for each specialist.
 | Repair Tech (Standalone) |                 |                                                                                                                                               |
 | Medic (Attached)         |                 |                                                                                                                                               |
 | Commander (Attached)     |                 |                                                                                                                                               |
-|                          |                 |                                                                                                                                               |
+| Jammer<br>(Attached)     |                 |                                                                                                                                               |
+
 
 ## Building Armies
 - 

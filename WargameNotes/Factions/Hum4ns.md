@@ -1,5 +1,4 @@
-# Touchstones
-### Hum4ns
+### Hum4ns Faction Touchstones
 - Looks are based off of Titan Fall's [Stim](https://titanfall.fandom.com/wiki/Stim) and [Phase](https://titanfall.fandom.com/wiki/Phase_Shift) Pilots.
 - 
 # Lore 
