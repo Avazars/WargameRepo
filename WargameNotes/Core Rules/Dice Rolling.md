@@ -1,6 +1,5 @@
 ---
 tags:
-  - MainSection
 ---
 Players will roll pools of six sided dice ranging from `[6-20)` and checking them against some target value to determine the number of success for an action. There are three types of tests that a player can make.
 

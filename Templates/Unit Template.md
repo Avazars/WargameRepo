@@ -1,6 +1,7 @@
 ---
 tags:
   - Unit
+Faction:
 ---
 ### Name
 **Supply Cost:** 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "Templates/Unit Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Unit Template"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "Templates/Unit Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Unit Template"
             }
           }
         ]
@@ -247,46 +247,45 @@
   },
   "active": "ca658b40e7f6614c",
   "lastOpenFiles": [
-    "Templates/Templater/UpdateDynamicTables.md",
+    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Core Rules",
+    "WargameNotes/Glossaries/Conditions Glossary.md",
+    "WargameNotes/Conditions",
+    "WargameNotes/Glossaries/Basic Action Glossary.md",
+    "WargameNotes/Glossaries/Standard Action Glossary.md",
+    "WargameNotes/Glossaries/Keywords Glossary.md",
+    "WargameNotes/Glossaries/Full Action Glossary.md",
+    "Non-Wiki Notes/Canvases/Ability Loop.canvas",
     "WargameNotes/index.md",
+    "WargameNotes/Actions",
+    "Templates/Weapon Trait.md",
+    "Templates/Unit Template.md",
+    "Templates/Keyword Template.md",
+    "WargameNotes/Wargear.md",
+    "WargameNotes/Keywords",
+    "WargameNotes/Glossaries",
+    "WargameNotes/Core Rules/Dice Rolling.md",
+    "WargameNotes/Factions/Constructs/Constructs.md",
+    "WargameNotes/Factions/Aliens/Aliens.md",
     "WargameNotes/Factions.md",
+    "WargameNotes/Factions/Aliens",
+    "WargameNotes/Factions/Humans",
+    "WargameNotes/Factions/Constructs",
+    "Templates/Templater/UpdateDynamicTables.md",
     "Templates/Templater",
     "Templates/Untitled.md",
-    "WargameNotes/Keywords Glossary.md",
-    "WargameNotes/Brainstorm File.md",
     "WargameNotes/Bases/Main Sections.base",
-    "WargameNotes/Dice Rolling.md",
-    "WargameNotes/Bases",
-    "WargameNotes/Unit Actions.md",
-    "WargameNotes/Unit Conditions.md",
-    "WargameNotes/Wargear.md",
-    "Non-Wiki Notes/Canvases/Ability Loop.canvas",
     "Canvases/Test.md",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",
-    "Templates/Weapon Trait.md",
-    "Templates/Keyword Template.md",
-    "Templates/Unit Template.md",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "Non-Wiki Notes",
-    "Non-Wiki Notes/Canvases",
-    "WargameNotes/Factions/Constructs.md",
-    "WargameNotes/Factions/Hum4ns.md",
-    "WargameNotes/Factions/Aliens.md",
+    "WargameNotes/Factions/Humans/Hum4ns.md",
     "Brainstorm File.md",
-    "WargameNotes/Factions",
-    "WargameNotes",
     "Wargame Notes/Dice Rolling.md",
     "Factions.md",
     "Wargame Notes/Deployment Roll-off.md",
     "Wargear.md",
-    "Wargame Notes/Units.md",
-    "Wargame Notes/Factions/Aliens.md",
-    "Wargame Notes/Factions/Constructs.md",
-    "Wargame Notes/Factions",
-    "snippets/Wide.css",
-    "snippets",
     "Canvases/Magic System.canvas",
     "Canvases/Faction Map.canvas",
     "Files/Images/Pasted image 20251127211907.png",

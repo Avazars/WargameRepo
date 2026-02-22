@@ -1,15 +1,19 @@
+---
+tags:
+  - Glossary
+---
 ### Unit Keywords
+
 
 | Keyword   | Effect                                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------------------------- |
 | Fly       | When this unit moves it can ignore terrain for the round by spending 3" of movement.                             |
-| Stealth   | When this unit is targeted by a shooting action any doubles rolled during defense count as an extra success.     |
+| Stealth   | When this unit is targeted by a shooting action they count has having cover.                                     |
 | Vehicle   | Cannot move though terrain taller then 3".                                                                       |
 | Guardian  | When another friendly unit within 6" is charged you can charge with this unit and retaliate in the Melee combat. |
 | Phasing   | When this unit moves it ignores terrain.                                                                         |
-| Strider   | This unit ignores difficult terrain, and takes one less wound per double rolled during a Deadly Terrain Test     |
+| Strider   | This unit ignores difficult terrain.                                                                             |
 | Transport | ???                                                                                                              |
-| Attached  |                                                                                                                  |
 |           |                                                                                                                  |
 ### Weapon Keywords
 
@@ -29,11 +33,6 @@
 | ---- | ------- |
 |      |         |
 
-Suppression Tokens
-General Disadvantage dice that your opponent can choose to use to reduce your pool
-
-Tactician Tokens
-General Advantage dice that you can choose to use to increase your pool
 
 ### Conditions
 

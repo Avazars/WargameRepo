@@ -5,5 +5,7 @@
   "translucency": false,
   "cssTheme": "Typewriter",
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "hide-non-active-comments"
+  ]
 }
