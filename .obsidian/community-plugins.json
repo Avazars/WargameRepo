@@ -8,5 +8,6 @@
   "readability-score",
   "obsidian-git",
   "advanced-canvas",
-  "dataview"
+  "dataview",
+  "dataview-serializer"
 ]
