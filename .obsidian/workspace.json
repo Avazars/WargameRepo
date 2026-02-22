@@ -11,10 +11,14 @@
             "id": "ca658b40e7f6614c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WargameNotes/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -194,9 +198,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "WargameNotes/index.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for index"
             }
           }
         ],
@@ -213,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "WargameNotes/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           }
         ]
@@ -240,9 +247,13 @@
   },
   "active": "ca658b40e7f6614c",
   "lastOpenFiles": [
+    "Templates/Templater/UpdateDynamicTables.md",
+    "WargameNotes/index.md",
+    "WargameNotes/Factions.md",
+    "Templates/Templater",
+    "Templates/Untitled.md",
     "WargameNotes/Keywords Glossary.md",
     "WargameNotes/Brainstorm File.md",
-    "WargameNotes/index.md",
     "WargameNotes/Bases/Main Sections.base",
     "WargameNotes/Dice Rolling.md",
     "WargameNotes/Bases",
@@ -260,7 +271,6 @@
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
     "Non-Wiki Notes",
     "Non-Wiki Notes/Canvases",
-    "WargameNotes/Factions.md",
     "WargameNotes/Factions/Constructs.md",
     "WargameNotes/Factions/Hum4ns.md",
     "WargameNotes/Factions/Aliens.md",
@@ -274,11 +284,9 @@
     "Wargame Notes/Units.md",
     "Wargame Notes/Factions/Aliens.md",
     "Wargame Notes/Factions/Constructs.md",
-    "Wargame Notes/Factions/Hum4ns.md",
     "Wargame Notes/Factions",
     "snippets/Wide.css",
     "snippets",
-    "Wargame Notes",
     "Canvases/Magic System.canvas",
     "Canvases/Faction Map.canvas",
     "Files/Images/Pasted image 20251127211907.png",
