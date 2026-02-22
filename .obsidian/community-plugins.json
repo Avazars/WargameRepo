@@ -4,8 +4,9 @@
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "templater-obsidian",
-  "webpage-html-export",
   "sentence-rhythm",
   "readability-score",
-  "obsidian-git"
+  "obsidian-git",
+  "advanced-canvas",
+  "dataview"
 ]
