@@ -1,6 +1,8 @@
 ---
 cssclasses:
   - wide
+tags:
+  - MainSection
 ---
 # General Idea Stuff
 

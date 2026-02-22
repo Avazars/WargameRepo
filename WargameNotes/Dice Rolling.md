@@ -1,3 +1,7 @@
+---
+tags:
+  - MainSection
+---
 Players will roll pools of six sided dice ranging from `[6-20)` and checking them against some target value to determine the number of success for an action. There are three types of tests that a player can make.
 
 ### Unique Test
@@ -25,21 +29,3 @@ An Opposed test is a dice roll where both players are going to roll a pool of di
 > Player two would be left with {3}
 >
 > Then both players would count successes.
-
-
-| Adjustment             | Feeling          |
-| ---------------------- | ---------------- |
-| Dice                   | Volume / Amount  |
-| Target Number          | Skill / Accuracy |
-| Number of Successes DC | Other Factors    |
-
-### **Rolling Doubles / Triples**
-When you roll doubles or triples you have the ability to trigger abilities like extra hits on doubles. Below is a chart that shows what each type of roll correlates to when checking for ability triggers.
-
-| Roll   | Singles | Doubles | Triples | Quads |
-| ------ | ------- | ------- | ------- | ----- |
-| Single | 1       |         |         |       |
-| Double | 2       | 1       |         |       |
-| Triple | 3       | 1       | 1       |       |
-| Quad   | 4       | 2       | 1       | 1     |
-Rolling a Triple would count as 3 singular dice, 1 double, and 1 triple.

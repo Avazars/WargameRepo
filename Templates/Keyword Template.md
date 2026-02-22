@@ -3,6 +3,6 @@
 > Contents
 
 
-> [!Warning] Errata
+> [!tip] Errata
 > Contents
 
