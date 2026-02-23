@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Non-Wiki Notes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Canvases/Ability Loop.canvas",
                 "viewState": {
                   "x": -2838.1057170925146,
                   "y": -457.0475869512714,
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-Wiki Notes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Canvases/Ability Loop.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -248,9 +248,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "806618b8e835e90f",
+  "active": "866fe60496a291a9",
   "lastOpenFiles": [
-    "Non-Wiki Notes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Brainstorm File.md",
     "WargameNotes/index.md",
     "Templates/Unit Template.md",
