@@ -2,6 +2,7 @@
 tags:
   - Unit
 Faction:
+Unit Type:
 ---
 ### Name
 **Supply Cost:** 
@@ -17,8 +18,3 @@ Faction:
 |             |       |     |       |        |       |
 
 **Keywords:** 
-
-
-Help Topics Links:
-[[Unit Stats]],  [[Weapon Stats]]
-[[Weapon Traits]], [[Unit Keywords]]

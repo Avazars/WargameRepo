@@ -26,3 +26,19 @@ Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars
 -
 <!-- dataview-serializer-js-result-end -->
 
+#### Glossaries
+<!-- QueryToSerializeManual: 
+LIST
+FROM #Glossary 
+AND !"Templates"
+SORT file.name asc
+-->
+<!-- SerializedQuery: LIST FROM #Glossary AND !"Templates" SORT file.name asc -->
+- [[Basic Action Glossary]]
+- [[Conditions Glossary]]
+- [[Full Action Glossary]]
+- [[Keywords Glossary]]
+- [[Standard Action Glossary]]
+- [[Weapon Traits Glossary]]
+
+<!-- SerializedQuery END -->

@@ -11,17 +11,14 @@
             "id": "806618b8e835e90f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
-                "viewState": {
-                  "x": -2838.1057170925146,
-                  "y": -457.0475869512714,
-                  "zoom": -0.7185188399544286
-                }
+                "file": "WargameNotes/Core Rules/Dice Rolling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ability Loop"
+              "icon": "lucide-file",
+              "title": "Dice Rolling"
             }
           }
         ]
@@ -222,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Core Rules/Dice Rolling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ability Loop"
+              "title": "Outline of Dice Rolling"
             }
           }
         ]
@@ -248,25 +245,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866fe60496a291a9",
+  "active": "806618b8e835e90f",
   "lastOpenFiles": [
-    "WargameNotes/Canvases/Ability Loop.canvas",
-    "WargameNotes/Brainstorm File.md",
     "WargameNotes/index.md",
-    "Templates/Unit Template.md",
+    "WargameNotes/Glossaries/Full Action Glossary.md",
+    "WargameNotes/Core Rules/Weapon Traits.md",
+    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
     "Templates/Specialist Template.md",
     "Templates/Leader Template.md",
-    "Templates/Detachment Template.md",
-    "Templates/Standard Action Template.md",
     "Templates/Weapon Trait.md",
-    "Templates/Basic Action Template.md",
-    "Templates/Full Action Template.md",
     "Templates/Keyword Template.md",
+    "WargameNotes/Glossaries/Standard Action Glossary.md",
+    "Templates/Unit Template.md",
+    "Templates/Standard Action Template.md",
+    "Templates/Full Action Template.md",
+    "Templates/Detachment Template.md",
+    "Templates/Basic Action Template.md",
+    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Glossaries/Conditions Glossary.md",
     "WargameNotes/Glossaries/Basic Action Glossary.md",
-    "WargameNotes/Glossaries/Full Action Glossary.md",
     "WargameNotes/Glossaries/Keywords Glossary.md",
-    "WargameNotes/Glossaries/Standard Action Glossary.md",
     "WargameNotes/Core Rules",
     "WargameNotes/Conditions",
     "WargameNotes/Actions",
@@ -288,7 +287,6 @@
     "Canvases/test.canvas",
     "Canvases/Test.canvas",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "WargameNotes/Factions/Humans/Hum4ns.md",
     "Canvases/Magic System.canvas",
     "Canvases/Faction Map.canvas",
     "Files/Images/Pasted image 20251127211907.png",

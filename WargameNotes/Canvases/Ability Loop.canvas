@@ -560,6 +560,30 @@
 			"fromSide":"right",
 			"toNode":"621b40e7618d3b62",
 			"toSide":"left"
+		},
+		{
+			"id":"62e289c84e85af19",
+			"styleAttributes":{},
+			"fromNode":"69467dfac7a16891",
+			"fromSide":"bottom",
+			"toNode":"2423aff1093025e7",
+			"toSide":"top"
+		},
+		{
+			"id":"54102d95f173c277",
+			"styleAttributes":{},
+			"fromNode":"2423aff1093025e7",
+			"fromSide":"bottom",
+			"toNode":"9a87e181d285aaa2",
+			"toSide":"top"
+		},
+		{
+			"id":"70ce000b7ef80456",
+			"styleAttributes":{},
+			"fromNode":"9a87e181d285aaa2",
+			"fromSide":"bottom",
+			"toNode":"ea14c51c4f0a9d53",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

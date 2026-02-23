@@ -3,23 +3,6 @@ cssclasses:
   - wide
 tags:
 ---
-# General Idea Stuff
-
-
-
-# Playing the Game
-## Game Structure
-1. Players start the game with sharing their lists with each other going over the detachments that they are taking and what units are in those Detachments, making sure to also cover all [[Wargear]] and [[Leaders]] in their list.
-2. Players begin alternating placing terrain on the board and agreeing on what each terrain tags each piece has when it is placed.
-3. Next players choose or randomly select what [[Primary Mission]] and [[Deployment Style]] they are going to play with.
-4. Both players then perform the [[Deployment Roll-off]], with the winner getting to choose what deployment zone they want, or if they want the first activation. Opponent gets the option not chosen by the winning player.
-5. Players deploy detachments in alternating fashion starting with the player who got the first activation. (Reserve deployment counts as a deployment)
-6. Players declare any before game abilities and place their [[Detachment Directive]] cards on the side of the table.
-7. Starting with the player that got the first activation, players activate detachments in an alternating fashion.
-8. When a detachment is selected each unit inside of that detachment activates and chooses to perform a [[Basic Action]] + a [[Standard Action]] or a single [[Full Action]].
-9. Once all detachments have been activated that concludes a round, now do it again until you've concluded 4 rounds at which point the player with the most victory points wins the game.
-
-
 ## List Building Rules
 **Army**
 - You must choose a force commander determining the army wide ability and starting choice of detachment. (This is so I can make subfactions easily).
@@ -63,14 +46,14 @@ tags:
 Unique to each faction with some common ones across
 Must follow requirements for each specialist.
 
-| Type                     | Unit Compliance | Ability                                                                                                                                       |
-| ------------------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Spotter                  |                 |                                                                                                                                               |
-| Comms (Attached)         |                 | When the attached unit performs a basic action, you may target another friendly unit within 12" of this model to also perform a basic action. |
-| Repair Tech (Standalone) |                 |                                                                                                                                               |
-| Medic (Attached)         |                 |                                                                                                                                               |
-| Commander (Attached)     |                 |                                                                                                                                               |
-| Jammer<br>(Attached)     |                 |                                                                                                                                               |
+| Type                     | Unit Compliance | Ability                                                                                                                                          |
+| ------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Spotter                  |                 |                                                                                                                                                  |
+| Comms (Attached)         |                 | When the attached unit performs a standard action, you may target another friendly unit within 12" of this model to also perform a basic action. |
+| Repair Tech (Standalone) |                 |                                                                                                                                                  |
+| Medic (Attached)         |                 |                                                                                                                                                  |
+| Commander (Attached)     |                 |                                                                                                                                                  |
+| Jammer<br>(Attached)     |                 |                                                                                                                                                  |
 
 
 ## Building Armies
@@ -101,13 +84,3 @@ A group of cards attached to a specific detachment chosen from a list during lis
 - Armor Penetration (Removes from the opposing units armor dice pool)
 - Damage (Flat number)
 - Shots (Amount of dice to add to the shooting dice pool)
-
-
-# Example Units WIP
-
-- Infantry: Mov 6”, CE: 6, RE: 6, Arm 2, Ld 10, Vit 1
-	- Weapon: Range: 12”, Shots: 2, Damage: 1,  Ap: 0
-
-- Tank: Mov: 8”, CE: 5+, RE: 3+, Arm: 6, Vit: 2
-	- Weapon: Range: 36”, Shots: 1  Damage: 4, AP: 2
-  

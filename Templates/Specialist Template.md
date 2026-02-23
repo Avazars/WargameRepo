@@ -18,8 +18,3 @@ Faction:
 |             |       |     |       |        |       |
 
 **Keywords:** 
-
-
-Help Topics Links:
-[[Unit Stats]],  [[Weapon Stats]]
-[[Weapon Traits]], [[Unit Keywords]]
