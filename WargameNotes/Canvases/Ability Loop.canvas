@@ -8,83 +8,6 @@
 		{"id":"53b45f937ed299ac","type":"group","x":-2730,"y":-840,"width":300,"height":350,"label":"Battle Round Loop"},
 		{"id":"b3d0438c6c46dc88","type":"group","x":-4160,"y":-980,"width":300,"height":280,"label":"Pre-Game"},
 		{
-			"id":"4edb24b62146a1a8",
-			"type":"text",
-			"text":"Players Setup Terrain",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-460,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"2ca355ad8bd33d65",
-			"type":"text",
-			"text":"Players Choose Deployment Style",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-380,
-			"width":280,
-			"height":80
-		},
-		{
-			"id":"c05bcd47de1179a9",
-			"type":"text",
-			"text":"Primary Mission is chosen",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-280,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"7211a3bb61989fe4",
-			"type":"text",
-			"text":"Winner determines who deploys the first detachment. \n\nThe other player gets to choose what deployment zone they want.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-3720,
-			"y":-460,
-			"width":260,
-			"height":240
-		},
-		{
-			"id":"e737edb1d3cf774f",
-			"type":"text",
-			"text":"Mission Twist is Drawn",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-200,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"74118209e919965b",
-			"type":"text",
-			"text":"Deployment Priority Determined",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-120,
-			"width":280,
-			"height":80
-		},
-		{
-			"id":"d5734f10681aa3c2",
-			"type":"text",
-			"text":"Armies are deployed alternating by detachment ",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-20,
-			"width":280,
-			"height":80
-		},
-		{
 			"id":"38aad42c9bc40126",
 			"type":"text",
 			"text":"Players Create Lists",
@@ -127,6 +50,108 @@
 			"y":-940,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d64a55746f555ea0",
+			"type":"text",
+			"text":"Starting with the player who has priority check end of phase conditions and abilities.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-1950,
+			"y":-260,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"621b40e7618d3b62",
+			"type":"text",
+			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2710,
+			"y":-300,
+			"width":360,
+			"height":160
+		},
+		{
+			"id":"c05bcd47de1179a9",
+			"type":"text",
+			"text":"Primary Mission is chosen",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-280,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"e737edb1d3cf774f",
+			"type":"text",
+			"text":"Mission Twist is Drawn",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-200,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"74118209e919965b",
+			"type":"text",
+			"text":"Deployment Priority Determined",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-120,
+			"width":280,
+			"height":80
+		},
+		{
+			"id":"d5734f10681aa3c2",
+			"type":"text",
+			"text":"Armies are deployed alternating by detachment ",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-20,
+			"width":280,
+			"height":80
+		},
+		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
+		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
+		{"id":"3158873dca9fe60d","type":"text","text":"Adding Dice while\n- Shooting\n- Defense\n- Moral","dynamicHeight":true,"x":-460,"y":-320,"width":340,"height":180},
+		{
+			"id":"4edb24b62146a1a8",
+			"type":"text",
+			"text":"Players Setup Terrain",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-460,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"2ca355ad8bd33d65",
+			"type":"text",
+			"text":"Players Choose Deployment Style",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-380,
+			"width":280,
+			"height":80
+		},
+		{
+			"id":"7211a3bb61989fe4",
+			"type":"text",
+			"text":"Winner determines who deploys the first detachment. \n\nThe other player gets to choose what deployment zone they want.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-3720,
+			"y":-460,
+			"width":260,
+			"height":240
 		},
 		{
 			"id":"d04b06a70a233034",
@@ -230,7 +255,7 @@
 		{
 			"id":"c3178a4bbdaf2250",
 			"type":"text",
-			"text":"Both players roll a unique roll with the player who is below on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
+			"text":"Both players roll a unique test with the player who is below on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
 			"dynamicHeight":true,
 			"styleAttributes":{},
 			"x":-2340,
@@ -259,28 +284,6 @@
 			"y":-660,
 			"width":260,
 			"height":180
-		},
-		{
-			"id":"d64a55746f555ea0",
-			"type":"text",
-			"text":"Starting with the player who has priority check end of phase conditions and abilities.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-1950,
-			"y":-260,
-			"width":260,
-			"height":180
-		},
-		{
-			"id":"621b40e7618d3b62",
-			"type":"text",
-			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2710,
-			"y":-300,
-			"width":360,
-			"height":160
 		},
 		{
 			"id":"db0d75b4fafd1545",
@@ -315,6 +318,8 @@
 			"width":189,
 			"height":80
 		},
+		{"id":"69a2e3506e3bba00","type":"text","text":"Suppression-Tokens Rules:\n- The max number of Suppression-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-940,"width":420,"height":200},
+		{"id":"b002178fdf36e1a5","type":"text","text":"Rolling Doubles during an Opposed Test","dynamicHeight":true,"x":-1540,"y":-560,"width":340,"height":80},
 		{
 			"id":"eeef64075129c5cf",
 			"type":"text",
@@ -326,10 +331,6 @@
 			"width":260,
 			"height":160
 		},
-		{"id":"69a2e3506e3bba00","type":"text","text":"Suppression-Tokens Rules:\n- The max number of Suppression-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-940,"width":420,"height":200},
-		{"id":"b002178fdf36e1a5","type":"text","text":"Rolling Doubles during an Opposed Test","dynamicHeight":true,"x":-1540,"y":-560,"width":340,"height":80},
-		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
-		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
 		{
 			"id":"137eab72d64d0f59",
 			"type":"text",
@@ -343,8 +344,7 @@
 		},
 		{"id":"73380e694ac8876d","type":"text","text":"Army Abilities","dynamicHeight":true,"x":-460,"y":-560,"width":340,"height":60},
 		{"id":"67fcb99ddc3a33b7","type":"text","text":"Unit Abilities ","dynamicHeight":true,"x":-460,"y":-480,"width":340,"height":60},
-		{"id":"082241aea7ac9ccb","type":"text","text":"Specialist Abilities ","dynamicHeight":true,"x":-460,"y":-400,"width":340,"height":60},
-		{"id":"3158873dca9fe60d","type":"text","text":"Adding Dice while\n- Shooting\n- Defense\n- Moral","dynamicHeight":true,"x":-460,"y":-320,"width":340,"height":180}
+		{"id":"082241aea7ac9ccb","type":"text","text":"Specialist Abilities ","dynamicHeight":true,"x":-460,"y":-400,"width":340,"height":60}
 	],
 	"edges":[
 		{"id":"067106289ad139e7","fromNode":"b002178fdf36e1a5","fromSide":"right","toNode":"f2d437d637686e63","toSide":"left","label":"Generates"},

@@ -37,7 +37,7 @@ SORT file.name asc
 - [[Basic Action Glossary]]
 - [[Conditions Glossary]]
 - [[Full Action Glossary]]
-- [[Keywords Glossary]]
+- [[Unit Keywords Glossary]]
 - [[Standard Action Glossary]]
 - [[Weapon Traits Glossary]]
 
