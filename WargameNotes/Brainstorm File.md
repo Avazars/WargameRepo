@@ -7,26 +7,6 @@ tags:
 
 
 
-
-
-
-
-
-## Faction Pages
-
-
-
-[[Dice Rolling]]
-
-[[Game Structure]]
-
-[[Factions]]
-[[List Building]]
-[[Standard Action Glossary]]
-[[Conditions Glossary]]
-
-
-
 # Playing the Game
 ## Game Structure
 1. Players start the game with sharing their lists with each other going over the detachments that they are taking and what units are in those Detachments, making sure to also cover all [[Wargear]] and [[Leaders]] in their list.

@@ -4,5 +4,6 @@ tags:
 ---
 ```dataview
 TABLE
-FROM #BasicAction
+FROM #BasicAction 
+AND !"Templates"
 ```

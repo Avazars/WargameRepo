@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "122a8e2095a31198",
+        "id": "5b04481604ccd0b0",
         "type": "tabs",
         "children": [
           {
-            "id": "ca658b40e7f6614c",
+            "id": "806618b8e835e90f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Unit Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Non-Wiki Notes/Canvases/Ability Loop.canvas",
+                "viewState": {
+                  "x": -3087.1673909334454,
+                  "y": -309.4559556856933,
+                  "zoom": -0.7185188399544286
+                }
               },
-              "icon": "lucide-file",
-              "title": "Unit Template"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ability Loop"
             }
           }
         ]
@@ -98,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 255.5
   },
   "right": {
     "id": "5fac266c25b15630",
@@ -219,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Unit Template.md",
+                "file": "Non-Wiki Notes/Canvases/Ability Loop.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit Template"
+              "title": "Outline of Ability Loop"
             }
           }
         ]
@@ -245,22 +248,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca658b40e7f6614c",
+  "active": "806618b8e835e90f",
   "lastOpenFiles": [
-    "WargameNotes/Brainstorm File.md",
-    "WargameNotes/Core Rules",
-    "WargameNotes/Glossaries/Conditions Glossary.md",
-    "WargameNotes/Conditions",
-    "WargameNotes/Glossaries/Basic Action Glossary.md",
-    "WargameNotes/Glossaries/Standard Action Glossary.md",
-    "WargameNotes/Glossaries/Keywords Glossary.md",
-    "WargameNotes/Glossaries/Full Action Glossary.md",
     "Non-Wiki Notes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Brainstorm File.md",
     "WargameNotes/index.md",
-    "WargameNotes/Actions",
-    "Templates/Weapon Trait.md",
     "Templates/Unit Template.md",
+    "Templates/Specialist Template.md",
+    "Templates/Leader Template.md",
+    "Templates/Detachment Template.md",
+    "Templates/Standard Action Template.md",
+    "Templates/Weapon Trait.md",
+    "Templates/Basic Action Template.md",
+    "Templates/Full Action Template.md",
     "Templates/Keyword Template.md",
+    "WargameNotes/Glossaries/Conditions Glossary.md",
+    "WargameNotes/Glossaries/Basic Action Glossary.md",
+    "WargameNotes/Glossaries/Full Action Glossary.md",
+    "WargameNotes/Glossaries/Keywords Glossary.md",
+    "WargameNotes/Glossaries/Standard Action Glossary.md",
+    "WargameNotes/Core Rules",
+    "WargameNotes/Conditions",
+    "WargameNotes/Actions",
     "WargameNotes/Wargear.md",
     "WargameNotes/Keywords",
     "WargameNotes/Glossaries",
@@ -273,7 +282,6 @@
     "WargameNotes/Factions/Constructs",
     "Templates/Templater/UpdateDynamicTables.md",
     "Templates/Templater",
-    "Templates/Untitled.md",
     "WargameNotes/Bases/Main Sections.base",
     "Canvases/Test.md",
     "Canvases/Untitled.canvas",
@@ -281,11 +289,6 @@
     "Canvases/Test.canvas",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
     "WargameNotes/Factions/Humans/Hum4ns.md",
-    "Brainstorm File.md",
-    "Wargame Notes/Dice Rolling.md",
-    "Factions.md",
-    "Wargame Notes/Deployment Roll-off.md",
-    "Wargear.md",
     "Canvases/Magic System.canvas",
     "Canvases/Faction Map.canvas",
     "Files/Images/Pasted image 20251127211907.png",

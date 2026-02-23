@@ -1,3 +1,8 @@
+---
+tags:
+  - Keyword
+---
+
 
 > [!Note] Keyword
 > Contents

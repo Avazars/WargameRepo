@@ -5,4 +5,5 @@ tags:
 ```dataview
 TABLE
 FROM #StandardAction
+AND !"Templates"
 ```
