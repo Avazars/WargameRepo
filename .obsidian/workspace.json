@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Glossaries/Weapon Traits Glossary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Weapon Traits Glossary"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Glossaries/Weapon Traits Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Weapon Traits Glossary"
             }
           }
         ]
@@ -245,14 +245,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "806618b8e835e90f",
+  "active": "866fe60496a291a9",
   "lastOpenFiles": [
-    "WargameNotes/Glossaries/Unit Keywords Glossary.md",
-    "WargameNotes/Glossaries/Standard Action Glossary.md",
+    "WargameNotes/Glossaries/Keywords Glossary.md",
+    "WargameNotes/Glossaries/Action Glossary.md",
     "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "WargameNotes/Glossaries/Full Action Glossary.md",
+    "WargameNotes/Core Rules/Keywords/Actions/Full",
+    "WargameNotes/Core Rules/Keywords/Actions/Standard",
+    "WargameNotes/Core Rules/Keywords/Actions/Basic",
     "WargameNotes/Glossaries/Conditions Glossary.md",
+    "WargameNotes/Glossaries/Standard Action Glossary.md",
     "WargameNotes/Glossaries/Basic Action Glossary.md",
+    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/index.md",
     "Templates/Basic Action Template.md",
     "Templates/Detachment Template.md",
     "Templates/Full Action Template.md",
@@ -262,26 +268,20 @@
     "Templates/Standard Action Template.md",
     "Templates/Unit Template.md",
     "Templates/Weapon Trait.md",
-    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Core Rules/Dice Rolling.md",
-    "WargameNotes/index.md",
     "WargameNotes/Core Rules/Weapon Traits.md",
-    "WargameNotes/Brainstorm File.md",
     "WargameNotes/Core Rules",
-    "WargameNotes/Conditions",
-    "WargameNotes/Actions",
+    "WargameNotes/Core Rules/Keywords/Conditions",
+    "WargameNotes/Core Rules/Keywords/Actions",
     "WargameNotes/Wargear.md",
-    "WargameNotes/Keywords",
+    "WargameNotes/Core Rules/Keywords",
     "WargameNotes/Glossaries",
     "WargameNotes/Factions/Constructs/Constructs.md",
     "WargameNotes/Factions/Aliens/Aliens.md",
     "WargameNotes/Factions.md",
     "WargameNotes/Factions/Aliens",
     "WargameNotes/Factions/Humans",
-    "WargameNotes/Factions/Constructs",
     "Templates/Templater/UpdateDynamicTables.md",
-    "Templates/Templater",
-    "WargameNotes/Bases/Main Sections.base",
     "Canvases/Test.md",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",

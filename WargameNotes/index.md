@@ -36,8 +36,8 @@ SORT file.name asc
 <!-- SerializedQuery: LIST FROM #Glossary AND !"Templates" SORT file.name asc -->
 - [[Basic Action Glossary]]
 - [[Conditions Glossary]]
-- [[Full Action Glossary]]
-- [[Unit Keywords Glossary]]
+- [[Action Glossary]]
+- [[Keywords Glossary]]
 - [[Standard Action Glossary]]
 - [[Weapon Traits Glossary]]
 
