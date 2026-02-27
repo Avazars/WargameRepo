@@ -1,3 +1,10 @@
+---
+tags:
+  - Faction
+---
+
+
+
 ### Constructs Faction Touchstones
 - [Pipers VoidCraft](https://pipermakes.art/collections/voidframe) Models
 - [Riftborn](https://endless-space-2.fandom.com/wiki/The_Riftborn) Endless Space 2 Robot guys
