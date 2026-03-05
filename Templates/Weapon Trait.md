@@ -3,8 +3,8 @@ tags:
   - WeaponTrait
 ---
 
-> [!example] Trait Name
-> Contents
+> [!info] Trait Name
+> Weapons with the ____ Trait 
 
 
 > [!tip] Errata

@@ -2,19 +2,10 @@
 tags:
   - Glossary
 ---
-
-# Unit Types
+# Keywords
 ```dataview
 TABLE
-FROM #UnitType
-AND !"Templates"
-```
-
-
-# Attributes
-```dataview
-TABLE
-FROM #UnitAttribute
+FROM #Keyword 
 AND !"Templates"
 ```
 

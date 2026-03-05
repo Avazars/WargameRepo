@@ -1,6 +1,6 @@
 ---
 tags:
-  - Unit
+  - Specialist
 Faction:
 ---
 ### Name: 
