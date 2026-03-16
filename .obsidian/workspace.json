@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Actions/Basic/Reposition.md",
+                "file": "WargameNotes/Factions/Generic/Generic Squad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reposition"
+              "title": "Generic Squad"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Actions/Basic/Reposition.md",
+                "file": "WargameNotes/Factions/Generic/Generic Squad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reposition"
+              "title": "Outline of Generic Squad"
             }
           }
         ]
@@ -247,27 +247,30 @@
   },
   "active": "41e29fd537d63c6f",
   "lastOpenFiles": [
-    "WargameNotes/Rules/Actions/Basic/Take Cover.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Actions/Standard/Rush.md",
+    "WargameNotes/Factions/Generic/Generic Specialist.md",
+    "WargameNotes/Factions/Generic/Generic Squad.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
+    "WargameNotes/Factions/Generic",
     "WargameNotes/Rules/Actions/Standard/Step-Up & Strike.md",
+    "WargameNotes/Rules/Actions/Standard/Rush.md",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Basic/Reposition.md",
+    "WargameNotes/Rules/Actions/Basic/Take Cover.md",
+    "WargameNotes/Rules/Flat Test.md",
+    "WargameNotes/Rules/Opposed Test.md",
+    "WargameNotes/Rules/Unique Test.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
     "WargameNotes/Rules/Actions/Standard/Strike.md",
     "WargameNotes/Rules/Keywords/Statuses/Cover.md",
     "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Actions/Basic/Reposition.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
     "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
-    "WargameNotes/Rules/Unique Test.md",
     "WargameNotes/Rules/Guides",
-    "WargameNotes/Rules/Flat Test.md",
-    "WargameNotes/Rules/Opposed Test.md",
     "WargameNotes/Brainstorm File.md",
     "WargameNotes/Rules/Weapon Traits.md",
     "WargameNotes/Rules/Keywords/Fly.md",
     "WargameNotes/Rules/Keywords/Unit Type",
-    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
     "Templates/Full Action Template.md",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Atomic Notes/Unique Test.md",
@@ -275,15 +278,12 @@
     "WargameNotes/Rules/Atomic Notes/Weapon Traits.md",
     "WargameNotes/Rules/Atomic Notes",
     "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "WargameNotes/Factions/Aliens/Aliens.md",
-    "WargameNotes/Factions/Humans/Hum4ns.md",
     "WargameNotes/Rules/Actions/Full",
     "WargameNotes/Rules/Actions/Standard",
     "WargameNotes/Rules/Actions/Basic",
     "WargameNotes/Rules",
     "WargameNotes/Rules/Keywords/Statuses",
     "WargameNotes/Rules/Actions",
-    "WargameNotes/Rules/Keywords",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",
