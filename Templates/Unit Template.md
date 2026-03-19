@@ -4,7 +4,7 @@ tags:
 Faction:
 Unit Type:
 ---
-### Name
+**Power:**
 **Supply Cost:** 
 
 | MOV | CCE | RCE | LD  | ARM | VIT | SIZE |
@@ -12,7 +12,6 @@ Unit Type:
 |     |     |     |     |     |     |      |
 
 ### Weapons
-
 | Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT |
 | ----------- | ----- | --- | ----- | ------ | ----- |
 |             |       |     |       |        |       |

@@ -1,6 +1,5 @@
 [
   "obsidian-reading-time",
-  "ninja-cursor",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "templater-obsidian",
@@ -9,5 +8,6 @@
   "obsidian-git",
   "advanced-canvas",
   "dataview",
-  "dataview-serializer"
+  "dataview-serializer",
+  "callout-manager"
 ]

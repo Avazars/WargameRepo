@@ -3,8 +3,7 @@ tags:
   - Leader
 Faction:
 ---
-
-### Name: 
+**Power:** 
 **Supply Cost:** 
 
 | MOV | CCE | RCE | LD  | ARM | VIT | SIZE |
@@ -12,7 +11,6 @@ Faction:
 |     |     |     |     |     |     |      |
 
 ### Weapons
-
 | Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT |
 | ----------- | ----- | --- | ----- | ------ | ----- |
 |             |       |     |       |        |       |

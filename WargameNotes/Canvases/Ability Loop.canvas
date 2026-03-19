@@ -6,8 +6,6 @@
 		{"id":"5c40f0bcab1195f3","type":"group","x":-4160,"y":-480,"width":720,"height":560,"label":"Setup"},
 		{"id":"c8be0f98ed602bfb","type":"group","x":-3180,"y":-980,"width":300,"height":520,"label":"Game Loop"},
 		{"id":"53b45f937ed299ac","type":"group","x":-2730,"y":-840,"width":300,"height":350,"label":"Battle Round Loop"},
-		{"id":"22ab4b5bd8e9e9bd","type":"group","x":-1560,"y":-2640,"width":300,"height":300,"label":"Shooting"},
-		{"id":"766a0f1b2a1179d3","type":"group","x":-1560,"y":-2160,"width":300,"height":300,"label":"Charging"},
 		{"id":"b3d0438c6c46dc88","type":"group","x":-4160,"y":-980,"width":300,"height":280,"label":"Pre-Game"},
 		{
 			"id":"c2483c959263de56",
@@ -19,6 +17,28 @@
 			"y":-960,
 			"width":260,
 			"height":80
+		},
+		{
+			"id":"621b40e7618d3b62",
+			"type":"text",
+			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2710,
+			"y":-300,
+			"width":360,
+			"height":160
+		},
+		{
+			"id":"130ede14d7798483",
+			"type":"text",
+			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2080,
+			"y":-460,
+			"width":260,
+			"height":180
 		},
 		{
 			"id":"38aad42c9bc40126",
@@ -43,28 +63,6 @@
 			"height":60
 		},
 		{
-			"id":"db0d75b4fafd1545",
-			"type":"text",
-			"text":"Suppression Token",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-1540,
-			"y":-1040,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"c3178a4bbdaf2250",
-			"type":"text",
-			"text":"Both players roll a unique test with the player who is ahead on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-920,
-			"width":260,
-			"height":260
-		},
-		{
 			"id":"7211a3bb61989fe4",
 			"type":"text",
 			"text":"Winner determines who deploys the first detachment. \n\nThe other player gets to choose what deployment zone they want.",
@@ -73,7 +71,7 @@
 			"x":-3720,
 			"y":-460,
 			"width":260,
-			"height":240
+			"height":260
 		},
 		{
 			"id":"18250aef18663ef0",
@@ -120,17 +118,6 @@
 			"height":60
 		},
 		{
-			"id":"621b40e7618d3b62",
-			"type":"text",
-			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2710,
-			"y":-300,
-			"width":360,
-			"height":160
-		},
-		{
 			"id":"c05bcd47de1179a9",
 			"type":"text",
 			"text":"Primary Mission is chosen",
@@ -141,17 +128,8 @@
 			"width":280,
 			"height":60
 		},
-		{
-			"id":"84ef47b1365191c7",
-			"type":"text",
-			"text":"Starting with the player who has Priority check start phase conditions and abilities.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2210,
-			"y":-660,
-			"width":260,
-			"height":180
-		},
+		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
+		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
 		{
 			"id":"e737edb1d3cf774f",
 			"type":"text",
@@ -241,15 +219,15 @@
 			"height":80
 		},
 		{
-			"id":"130ede14d7798483",
+			"id":"69467dfac7a16891",
 			"type":"text",
-			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
+			"text":"Initiative Check",
 			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2080,
-			"y":-460,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2710,
+			"y":-820,
 			"width":260,
-			"height":180
+			"height":60
 		},
 		{
 			"id":"ea14c51c4f0a9d53",
@@ -261,6 +239,39 @@
 			"y":-580,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"db0d75b4fafd1545",
+			"type":"text",
+			"text":"Suppression Token",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-1540,
+			"y":-1040,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"84ef47b1365191c7",
+			"type":"text",
+			"text":"Starting with the player who has Priority check start phase conditions and abilities.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2210,
+			"y":-660,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"c3178a4bbdaf2250",
+			"type":"text",
+			"text":"Both players roll a unique test with the player who is ahead on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-920,
+			"width":260,
+			"height":260
 		},
 		{
 			"id":"a45ca2e70654b00a",
@@ -294,18 +305,7 @@
 			"x":-500,
 			"y":-1040,
 			"width":260,
-			"height":160
-		},
-		{
-			"id":"69467dfac7a16891",
-			"type":"text",
-			"text":"Initiative Check",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2710,
-			"y":-820,
-			"width":260,
-			"height":60
+			"height":180
 		},
 		{
 			"id":"2423aff1093025e7",
@@ -330,8 +330,6 @@
 			"height":60
 		},
 		{"id":"b002178fdf36e1a5","type":"text","text":"Rolling Doubles during an Opposed Test","dynamicHeight":true,"x":-1540,"y":-560,"width":340,"height":80},
-		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
-		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
 		{"id":"3158873dca9fe60d","type":"text","text":"Adding Dice while\n- Shooting\n- Defense\n- Moral","dynamicHeight":true,"x":-460,"y":-320,"width":340,"height":180},
 		{
 			"id":"137eab72d64d0f59",
@@ -346,7 +344,18 @@
 		},
 		{"id":"73380e694ac8876d","type":"text","text":"Army Abilities","dynamicHeight":true,"x":-460,"y":-560,"width":340,"height":60},
 		{"id":"67fcb99ddc3a33b7","type":"text","text":"Unit Abilities ","dynamicHeight":true,"x":-460,"y":-480,"width":340,"height":60},
-		{"id":"082241aea7ac9ccb","type":"text","text":"Specialist Abilities ","dynamicHeight":true,"x":-460,"y":-400,"width":340,"height":60}
+		{"id":"082241aea7ac9ccb","type":"text","text":"Specialist Abilities ","dynamicHeight":true,"x":-460,"y":-400,"width":340,"height":60},
+		{
+			"id":"0fea6e32376f6e25",
+			"type":"text",
+			"text":"Built around a Power Number.\nPlay around with the total amount available.\n\n> [!Note] Detachment Power Levels \n> 25 Power\n> 5 Supply Points\n",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-3720,
+			"y":-960,
+			"width":380,
+			"height":260
+		}
 	],
 	"edges":[
 		{"id":"067106289ad139e7","fromNode":"b002178fdf36e1a5","fromSide":"right","toNode":"f2d437d637686e63","toSide":"left","label":"Generates"},
@@ -586,6 +595,14 @@
 			"fromSide":"bottom",
 			"toNode":"ea14c51c4f0a9d53",
 			"toSide":"top"
+		},
+		{
+			"id":"005f20a3b3921522",
+			"styleAttributes":{},
+			"fromNode":"38aad42c9bc40126",
+			"fromSide":"right",
+			"toNode":"0fea6e32376f6e25",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
