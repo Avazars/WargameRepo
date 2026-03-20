@@ -190,6 +190,20 @@
               "icon": "lucide-info",
               "title": "File properties for index"
             }
+          },
+          {
+            "id": "b176ffc6d2da96a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
