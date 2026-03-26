@@ -3,8 +3,10 @@ tags:
   - Keyword
 ---
 
-> [!info] Keyword
-> Units with the ____ keyword
+> [!info] Vehicle
+> Units with the Vehicle keyword:
+> - Cannot Move through [[Ruins|Ruins Terrain]]
+
 
 
 > [!tip] Errata

@@ -5,7 +5,7 @@
 		{"id":"aa578554d27d1fd9","type":"group","x":-1560,"y":-1080,"width":1460,"height":400,"label":"Suppression Tokens"},
 		{"id":"5c40f0bcab1195f3","type":"group","x":-4160,"y":-480,"width":720,"height":560,"label":"Setup"},
 		{"id":"c8be0f98ed602bfb","type":"group","x":-3180,"y":-980,"width":300,"height":520,"label":"Game Loop"},
-		{"id":"53b45f937ed299ac","type":"group","x":-2730,"y":-840,"width":300,"height":350,"label":"Battle Round Loop"},
+		{"id":"53b45f937ed299ac","type":"group","x":-2730,"y":-840,"width":300,"height":460,"label":"Battle Round Loop"},
 		{"id":"b3d0438c6c46dc88","type":"group","x":-4160,"y":-980,"width":300,"height":280,"label":"Pre-Game"},
 		{
 			"id":"c2483c959263de56",
@@ -17,28 +17,6 @@
 			"y":-960,
 			"width":260,
 			"height":80
-		},
-		{
-			"id":"621b40e7618d3b62",
-			"type":"text",
-			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2710,
-			"y":-300,
-			"width":360,
-			"height":160
-		},
-		{
-			"id":"130ede14d7798483",
-			"type":"text",
-			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2080,
-			"y":-460,
-			"width":260,
-			"height":180
 		},
 		{
 			"id":"38aad42c9bc40126",
@@ -61,6 +39,28 @@
 			"y":-780,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"74118209e919965b",
+			"type":"text",
+			"text":"Deployment Priority Determined",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-120,
+			"width":280,
+			"height":80
+		},
+		{
+			"id":"d5734f10681aa3c2",
+			"type":"text",
+			"text":"Armies are deployed alternating by detachment ",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4140,
+			"y":-20,
+			"width":280,
+			"height":80
 		},
 		{
 			"id":"7211a3bb61989fe4",
@@ -118,6 +118,17 @@
 			"height":60
 		},
 		{
+			"id":"0fea6e32376f6e25",
+			"type":"text",
+			"text":"Built around a Power Number.\nPlay around with the total amount available.\n\n> [!Note] Detachment Power Levels \n> 25 Power\n> 5 Supply Points\n",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-3720,
+			"y":-960,
+			"width":380,
+			"height":260
+		},
+		{
 			"id":"c05bcd47de1179a9",
 			"type":"text",
 			"text":"Primary Mission is chosen",
@@ -128,8 +139,6 @@
 			"width":280,
 			"height":60
 		},
-		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
-		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
 		{
 			"id":"e737edb1d3cf774f",
 			"type":"text",
@@ -186,39 +195,6 @@
 			"height":60
 		},
 		{
-			"id":"d64a55746f555ea0",
-			"type":"text",
-			"text":"Starting with the player who has priority check end of phase conditions and abilities.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-1950,
-			"y":-260,
-			"width":260,
-			"height":180
-		},
-		{
-			"id":"74118209e919965b",
-			"type":"text",
-			"text":"Deployment Priority Determined",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-120,
-			"width":280,
-			"height":80
-		},
-		{
-			"id":"d5734f10681aa3c2",
-			"type":"text",
-			"text":"Armies are deployed alternating by detachment ",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4140,
-			"y":-20,
-			"width":280,
-			"height":80
-		},
-		{
 			"id":"69467dfac7a16891",
 			"type":"text",
 			"text":"Initiative Check",
@@ -230,16 +206,17 @@
 			"height":60
 		},
 		{
-			"id":"ea14c51c4f0a9d53",
+			"id":"2423aff1093025e7",
 			"type":"text",
-			"text":"End Phase",
+			"text":"Objective Phase",
 			"dynamicHeight":true,
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2710,
-			"y":-580,
+			"y":-740,
 			"width":260,
 			"height":60
 		},
+		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-1060,"y":-440,"width":280,"height":60},
 		{
 			"id":"db0d75b4fafd1545",
 			"type":"text",
@@ -250,28 +227,6 @@
 			"y":-1040,
 			"width":220,
 			"height":60
-		},
-		{
-			"id":"84ef47b1365191c7",
-			"type":"text",
-			"text":"Starting with the player who has Priority check start phase conditions and abilities.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2210,
-			"y":-660,
-			"width":260,
-			"height":180
-		},
-		{
-			"id":"c3178a4bbdaf2250",
-			"type":"text",
-			"text":"Both players roll a unique test with the player who is ahead on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-920,
-			"width":260,
-			"height":260
 		},
 		{
 			"id":"a45ca2e70654b00a",
@@ -307,29 +262,8 @@
 			"width":260,
 			"height":180
 		},
-		{
-			"id":"2423aff1093025e7",
-			"type":"text",
-			"text":"Objective Phase",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2710,
-			"y":-740,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9a87e181d285aaa2",
-			"type":"text",
-			"text":"Activation Phase",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2710,
-			"y":-660,
-			"width":260,
-			"height":60
-		},
 		{"id":"b002178fdf36e1a5","type":"text","text":"Rolling Doubles during an Opposed Test","dynamicHeight":true,"x":-1540,"y":-560,"width":340,"height":80},
+		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1540,"y":-320,"width":420,"height":220},
 		{"id":"3158873dca9fe60d","type":"text","text":"Adding Dice while\n- Shooting\n- Defense\n- Moral","dynamicHeight":true,"x":-460,"y":-320,"width":340,"height":180},
 		{
 			"id":"137eab72d64d0f59",
@@ -346,15 +280,103 @@
 		{"id":"67fcb99ddc3a33b7","type":"text","text":"Unit Abilities ","dynamicHeight":true,"x":-460,"y":-480,"width":340,"height":60},
 		{"id":"082241aea7ac9ccb","type":"text","text":"Specialist Abilities ","dynamicHeight":true,"x":-460,"y":-400,"width":340,"height":60},
 		{
-			"id":"0fea6e32376f6e25",
+			"id":"d64a55746f555ea0",
 			"type":"text",
-			"text":"Built around a Power Number.\nPlay around with the total amount available.\n\n> [!Note] Detachment Power Levels \n> 25 Power\n> 5 Supply Points\n",
+			"text":"Starting with the player who has priority check end of phase conditions and abilities.",
 			"dynamicHeight":true,
 			"styleAttributes":{},
-			"x":-3720,
-			"y":-960,
-			"width":380,
-			"height":260
+			"x":-1950,
+			"y":-200,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"621b40e7618d3b62",
+			"type":"text",
+			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2810,
+			"y":-180,
+			"width":360,
+			"height":200
+		},
+		{
+			"id":"ea14c51c4f0a9d53",
+			"type":"text",
+			"text":"End Phase",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2710,
+			"y":-470,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"130ede14d7798483",
+			"type":"text",
+			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2000,
+			"y":-1480,
+			"width":260,
+			"height":220
+		},
+		{
+			"id":"c3178a4bbdaf2250",
+			"type":"text",
+			"text":"Both players roll a unique test with the player who is ahead on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2360,
+			"y":-1070,
+			"width":260,
+			"height":320
+		},
+		{
+			"id":"84ef47b1365191c7",
+			"type":"text",
+			"text":"Starting with the player who has Priority do Objective Phase things.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-1010,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"f0a771caefbfec06",
+			"type":"text",
+			"text":"Standard Action Phase",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2140,
+			"y":-500,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"73f6aaad19b74200",
+			"type":"text",
+			"text":"Basic Action Phase",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2140,
+			"y":-580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9a87e181d285aaa2",
+			"type":"text",
+			"text":"Activation Phase",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2710,
+			"y":-600,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -485,16 +507,8 @@
 			"toSide":"left"
 		},
 		{
-			"id":"a245a9a6d27ebfa9",
-			"styleAttributes":{},
-			"fromNode":"9a87e181d285aaa2",
-			"fromSide":"right",
-			"toNode":"130ede14d7798483",
-			"toSide":"left"
-		},
-		{
 			"id":"d8bb3c16f37d525c",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"a-star"},
 			"fromNode":"69467dfac7a16891",
 			"fromSide":"right",
 			"toNode":"c3178a4bbdaf2250",
@@ -550,7 +564,7 @@
 		},
 		{
 			"id":"c0749c13ae9774c6",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"a-star"},
 			"fromNode":"2423aff1093025e7",
 			"fromSide":"right",
 			"toNode":"84ef47b1365191c7",
@@ -581,14 +595,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"54102d95f173c277",
-			"styleAttributes":{},
-			"fromNode":"2423aff1093025e7",
-			"fromSide":"bottom",
-			"toNode":"9a87e181d285aaa2",
-			"toSide":"top"
-		},
-		{
 			"id":"70ce000b7ef80456",
 			"styleAttributes":{},
 			"fromNode":"9a87e181d285aaa2",
@@ -603,6 +609,14 @@
 			"fromSide":"right",
 			"toNode":"0fea6e32376f6e25",
 			"toSide":"left"
+		},
+		{
+			"id":"f8ed6ec7e713bfa2",
+			"styleAttributes":{},
+			"fromNode":"2423aff1093025e7",
+			"fromSide":"bottom",
+			"toNode":"9a87e181d285aaa2",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
