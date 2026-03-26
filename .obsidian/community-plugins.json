@@ -9,5 +9,6 @@
   "advanced-canvas",
   "dataview",
   "dataview-serializer",
-  "callout-manager"
+  "callout-manager",
+  "custom-font-loader"
 ]

@@ -3,6 +3,7 @@ tags:
   - Specialist
 Faction:
 ---
+**Power:**
 **Supply Cost:** 5
 
 | MOV   | CCE  | RCE  | LD       | ARM | VIT  | SIZE |
@@ -14,7 +15,7 @@ Faction:
 | ----------- | ----- | --- | ----- | ------ | ----- |
 | Rifle       | `12"` | `1` | `2`   | `1`    | `-`   |
 
-**Keywords:** [[Attached]]
+**Keywords:** [[Attached]], 
 
 **Abilities:** 
 > [!NOTE] Suppression Device
