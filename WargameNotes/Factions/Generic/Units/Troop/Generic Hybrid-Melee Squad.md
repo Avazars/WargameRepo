@@ -4,7 +4,7 @@ tags:
 Faction:
 Unit Type:
 ---
-**Power:**
+**Power:** 7
 **Supply Cost:** 0
 
 | MOV   | CCE  | RCE  | LD       | DEF | ARM | VIT | SIZE | Con |

@@ -3,19 +3,19 @@ tags:
   - Specialist
 Faction:
 ---
-**Power:**
+**Power:** 4
 **Supply Cost:** 5
 
-| MOV   | CCE  | RCE  | LD       | ARM | VIT  | SIZE |
-| ----- | ---- | ---- | -------- | --- | ---- | ---- |
-| `4\6` | `4+` | `4+` | `4+ 3\6` | `6` | `+1` | `+1` |
+| MOV   | CCE  | RCE  | LD       | DEF | ARM | VIT  | SIZE |
+| ----- | ---- | ---- | -------- | --- | --- | ---- | ---- |
+| `4\6` | `4+` | `4+` | `4+ 3\6` | `6` | `0` | `+1` | `+1` |
 
 ### Weapons
 | Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT |
 | ----------- | ----- | --- | ----- | ------ | ----- |
 | Rifle       | `12"` | `1` | `2`   | `1`    | `-`   |
 
-**Keywords:** [[Attached]], 
+**Keywords:** [[Attached]], [[Specialist]], [[Suppression Device]]
 
 **Abilities:** 
 > [!NOTE] Suppression Device
