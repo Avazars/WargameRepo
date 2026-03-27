@@ -11,17 +11,14 @@
             "id": "cdc36c5e4b004128",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
-                "viewState": {
-                  "x": -1853.1633424753627,
-                  "y": -424.736669757529,
-                  "zoom": -0.4372905597966308
-                }
+                "file": "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ability Loop"
+              "icon": "lucide-file",
+              "title": "Vehicle"
             }
           }
         ]
@@ -222,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ability Loop"
+              "title": "Outline of Vehicle"
             }
           }
         ]
@@ -251,18 +248,23 @@
   },
   "active": "cdc36c5e4b004128",
   "lastOpenFiles": [
+    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
+    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
+    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
+    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
+    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
+    "Templates/Leader Template.md",
+    "Templates/Specialist Template.md",
+    "Templates/Unit Template.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
     "WargameNotes/Rules/Actions/Standard/Rush.md",
     "WargameNotes/Rules/Actions/Standard/Claim.md",
     "WargameNotes/Rules/Actions/Standard/Step-Up & Strike.md",
-    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Untitled.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
     "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
@@ -273,16 +275,11 @@
     "Templates/Detachment Template.md",
     "Templates/Basic Action Template.md",
     "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
     "WargameNotes/Rules/Actions/Basic/Reposition.md",
     "WargameNotes/Factions/Generic/Units/Vehicle",
     "WargameNotes/Factions/Generic/Units/Monster",
     "WargameNotes/Glossaries/Action Glossary.md",
     "WargameNotes/Factions/Generic/Units/Troop",
-    "WargameNotes/Glossaries/Keywords Glossary.md",
-    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "Templates/Specialist Template.md",
-    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Factions/Generic/Specialists",
     "WargameNotes/Factions/Generic/Units",
     "WargameNotes/Factions/Generic",
