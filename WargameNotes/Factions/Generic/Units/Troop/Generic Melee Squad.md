@@ -12,9 +12,9 @@ Unit Type:
 | `4\6` | `3+` | `6+` | `4+ 3\6` | `6` | `1` | `5`  | 1   |
 
 ### Weapons
-| Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT |
-| ----------- | ----- | --- | ----- | ------ | ----- |
-| Hammers     | `-`   | `2` | `2`   | `1`    | `-`   |
+| Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT     |
+| ----------- | ----- | --- | ----- | ------ | --------- |
+| Hammers     | `1"`  | `2` | `2`   | `1`    | [[Melee]] |
 
 
 **Keywords:** [[Troop]]
