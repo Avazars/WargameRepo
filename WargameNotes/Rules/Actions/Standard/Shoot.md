@@ -4,7 +4,6 @@ tags:
 ---
 
 > [!Warning] Restrictions
-> - Cannot target a unit that is [[Engaged]].
 > - Must be able to Draw LoS to Target Unit.
 
 > [!info] Strike Standard Action

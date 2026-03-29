@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
+                "file": "WargameNotes/Rules/Actions/Standard/Shoot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vehicle"
+              "title": "Shoot"
             }
           }
         ]
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Rules/Actions/Standard/Shoot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Shoot"
             }
           }
         ]
@@ -266,10 +266,22 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d744e3dbbd5bd97f",
+  "active": "cdc36c5e4b004128",
   "lastOpenFiles": [
-    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
+    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
+    "WargameNotes/Rules/Actions/Standard/Shoot.md",
+    "WargameNotes/Rules/Actions/Standard/Claim.md",
+    "WargameNotes/Rules/Actions/Standard/Rush.md",
+    "WargameNotes/Rules/Actions/Standard/Strike.md",
+    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
+    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Basic/Reposition.md",
+    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
     "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
+    "WargameNotes/index.md",
+    "WargameNotes/Brainstorm File.md",
     "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
     "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
     "WargameNotes/Rules/Keywords/Weapon Keywords/Beam.md",
@@ -282,18 +294,6 @@
     "WargameNotes/Rules/Keywords/Weapon Keywords/Bombard.md",
     "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
     "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
-    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Actions/Standard/Claim.md",
-    "WargameNotes/Rules/Actions/Standard/Rush.md",
-    "WargameNotes/Rules/Actions/Standard/Shoot.md",
-    "WargameNotes/Rules/Actions/Standard/Strike.md",
-    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
-    "WargameNotes/Rules/Actions/Standard/Step-Up & Strike.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
-    "WargameNotes/Rules/Guides/List Building Guide.md",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
