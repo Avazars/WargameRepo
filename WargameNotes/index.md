@@ -20,7 +20,7 @@ Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars
 <!-- dataview-serializer-js-result -->
 #### Guides
 
-[[List Building Guide]], [[Terminology and Reading Guide]], [[Unit Action Guide]]
+[[Terminology and Reading Guide]], [[Unit Action Guide]], [[List Building Guide]], [[Terrain Guide]], [[Unit Type Guide]], [[Detachment Guide]], [[Scoring Guide]]
 <!-- dataview-serializer-js-result-end -->
 
 #### Glossaries
