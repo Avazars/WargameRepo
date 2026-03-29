@@ -4,10 +4,6 @@ tags:
 ---
 
 > [!info] Shaken
-> While a unit has the Shaken condition:
+> While a unit has the Shaken Status:
 > - During that units activation this unit must take the [[Fall Back]] full action. 
-
-
-> [!tip] Errata
-> Contents
 

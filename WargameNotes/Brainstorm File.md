@@ -56,7 +56,6 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 | Keyword   | Effect                                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------------------------- |
-| Fly       | When this unit moves it can ignore terrain for the round by spending 3" of movement.                             |
 | Stealth   | When this unit is targeted by a shooting action they count has having cover.                                     |
 | Vehicle   | Cannot move though terrain taller then 3".                                                                       |
 | Guardian  | When another friendly unit within 6" is charged you can charge with this unit and retaliate in the Melee combat. |
@@ -64,25 +63,6 @@ A group of cards attached to a specific detachment chosen from a list during lis
 | Strider   | This unit ignores difficult terrain.                                                                             |
 | Transport | ???                                                                                                              |
 |           |                                                                                                                  |
-### Weapon Keywords
-
-| Keyword        | Effect |
-| -------------- | ------ |
-| Blast          |        |
-| Beam           |        |
-| Precise        |        |
-| Armor Piercing |        |
-| Ignores Cover  |        |
-| Hazardous      |        |
-|                |        |
-
-### Conditions
-
-| Keyword | Effect |
-| ------- | ------ |
-| Shaken  |        |
-| Broken  |        |
-|         |        |
 
 ### Terrain Types
 

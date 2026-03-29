@@ -19,11 +19,11 @@ Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars
 
 
 
-<!-- dataview-serializer-js-manual: const pages = dv.array(dv.pages("#MainSection").file.name).sort(p => p.FileName, "asc").map(p => "[[" + p + "]]");dv.header(4, "Main Pages");dv.el('t', pages);-->
+<!-- dataview-serializer-js-manual: const pages = dv.array(dv.pages("#Guide").file.name).sort(p => p.FileName, "asc").map(p => "[[" + p + "]]");dv.header(4, "Guides");dv.el('t', pages);-->
 <!-- dataview-serializer-js-result -->
-#### Main Pages
+#### Guides
 
--
+[[List Building Guide]], [[Terminology and Reading Guide]], [[Unit Action Guide]]
 <!-- dataview-serializer-js-result-end -->
 
 #### Glossaries
@@ -38,4 +38,3 @@ SORT file.name asc
 - [[Keywords Glossary]]
 - [[Weapon Traits Glossary]]
 
-<!-- SerializedQuery END -->
