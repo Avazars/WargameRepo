@@ -5,5 +5,3 @@ tags:
 During a units activation it gets to do one of two things:
 - A [[Basic Action]] + [[Standard Action]]
 - or a [[Full Action]]
-
-These must be performed in order.
