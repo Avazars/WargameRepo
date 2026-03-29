@@ -38,8 +38,6 @@ Must follow requirements for each specialist.
 
 | Type                     | Unit Compliance | Ability                                                                                                                                          |
 | ------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Spotter                  |                 |                                                                                                                                                  |
-| Comms (Attached)         |                 | When the attached unit performs a standard action, you may target another friendly unit within 12" of this model to also perform a basic action. |
 | Repair Tech (Standalone) |                 |                                                                                                                                                  |
 | Medic (Attached)         |                 |                                                                                                                                                  |
 | Commander (Attached)     |                 |                                                                                                                                                  |

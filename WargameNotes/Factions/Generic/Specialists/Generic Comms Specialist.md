@@ -18,5 +18,5 @@ Faction:
 **Keywords:** [[Specialist]]
 
 **Abilities:** 
-> [!NOTE] Suppression Device
-> During this units activation this model can spend a [[Tac-Token]] from a friendly unit that is within 9", to target an enemy unit that it can see within 18" to give that unit a [[Suppression Token]].
+> [!NOTE] Comms Device
+> During this units activation this model can target another friendly unit within 12" that has a [[Tac-Token]], that unit can spend a [[Tac-Token]] to preform a [[Basic Action]] .

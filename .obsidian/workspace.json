@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
+                "file": "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shaken"
+              "title": "Generic Comms Specialist"
             }
           }
         ]
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
+                "file": "WargameNotes/Brainstorm File.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shaken"
+              "title": "Outline of Brainstorm File"
             }
           }
         ]
@@ -266,20 +266,24 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cdc36c5e4b004128",
+  "active": "d744e3dbbd5bd97f",
   "lastOpenFiles": [
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Brainstorm File.md",
+    "Suppression Device.md",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
     "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
     "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
     "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
-    "WargameNotes/Brainstorm File.md",
     "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
     "WargameNotes/Rules/Actions/Standard/Step-Up & Strike.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Hybrid-Melee Squad.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
-    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
     "Templates/Unit Template.md",
     "Templates/Leader Template.md",
     "Templates/Specialist Template.md",
@@ -291,12 +295,8 @@
     "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Actions/Standard/Rush.md",
-    "WargameNotes/Rules/Actions/Standard/Claim.md",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
-    "Templates/Full Action Template.md",
-    "Templates/Detachment Template.md",
-    "Templates/Basic Action Template.md",
     "WargameNotes/Factions/Generic/Units/Vehicle",
     "WargameNotes/Factions/Generic/Units/Monster",
     "WargameNotes/Factions/Generic/Units/Troop",
