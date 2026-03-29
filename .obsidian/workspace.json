@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Guides/Scoring Guide.md",
+                "file": "WargameNotes/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scoring Guide"
+              "title": "index"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Guides/Scoring Guide.md",
+                "file": "WargameNotes/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scoring Guide"
+              "title": "Outline of index"
             }
           }
         ]
@@ -248,15 +248,15 @@
   },
   "active": "cdc36c5e4b004128",
   "lastOpenFiles": [
-    "WargameNotes/Brainstorm File.md",
-    "WargameNotes/Rules/Guides/Scoring Guide.md",
-    "WargameNotes/Rules/Guides/Detachment Guide.md",
-    "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Guides/Unit Type Guide.md",
-    "WargameNotes/Rules/Guides/Terrain Guide.md",
-    "WargameNotes/Rules/Guides/List Building Guide.md",
-    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
+    "WargameNotes/Rules/Guides/Terrain Guide.md",
+    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
+    "WargameNotes/Rules/Guides/Scoring Guide.md",
+    "WargameNotes/Rules/Guides/List Building Guide.md",
+    "WargameNotes/Rules/Guides/Detachment Guide.md",
+    "WargameNotes/Brainstorm File.md",
+    "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Unit Attributes/Strider.md",
     "WargameNotes/Rules/Keywords/Unit Attributes/Untitled.md",
     "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
