@@ -19,7 +19,6 @@ Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars
 <!-- dataview-serializer-js-manual: const pages = dv.array(dv.pages("#Guide").file.name).sort(p => p.FileName, "asc").map(p => "[[" + p + "]]");dv.header(4, "Guides");dv.el('t', pages);-->
 <!-- dataview-serializer-js-result -->
 #### Guides
-
 [[Terminology and Reading Guide]], [[Unit Action Guide]], [[List Building Guide]], [[Terrain Guide]], [[Unit Type Guide]], [[Detachment Guide]], [[Scoring Guide]]
 <!-- dataview-serializer-js-result-end -->
 

@@ -13,6 +13,6 @@ AND !"Templates"
 # Conditions
 ```dataview
 TABLE
-FROM #Conditon
+FROM #Status
 AND !"Templates"
 ```
