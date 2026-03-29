@@ -13,7 +13,7 @@ tags:
 
 ## Units Type Keywords
 
-Infantry, Elite, Vehicle, Monster, Swarm, Titanic
+Infantry, Elite, Vehicle, Monster, Swarm
 
 | Type     | Ability                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,14 +53,6 @@ Chosen before deployment
 A group of cards attached to a specific detachment chosen from a list during list creation, you flip over the top of the deck and can score that card with that detachment or ditch that card to gain a benefit (stratagem).
 
 
-## Unit Stats
-- Mov: Movement in inches: 6"
-- CCE: Close Combat Effectiveness: 4+
-- RCE: Range Combat Effectiveness: 4+
-- LD: Leadership: 6/4+
-- Arm: Armor value: 6/4+
-- Health 4
-
 
 ### Unit Keywords
 
@@ -86,13 +78,6 @@ A group of cards attached to a specific detachment chosen from a list during lis
 | Hazardous      |        |
 |                |        |
 
-### Unit Types
-
-| Type | Effects |
-| ---- | ------- |
-|      |         |
-
-
 ### Conditions
 
 | Keyword | Effect |
@@ -103,10 +88,10 @@ A group of cards attached to a specific detachment chosen from a list during lis
 
 ### Terrain Types
 
-| Keyword    | Effect                                                                                                                                                         |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cover      | If you would have to draw LOS through this terrain to target more then 50% of a unit then that targeted unit gains a Cover Bonus of +2 to their defense roll.  |
-| Difficult  | A unit moving through this terrain moves at half speed (It costs 2" to move 1")                                                                                |
-| Deadly     | If a unit would move thought this terrain or remains idle in it, that unit must make a Deadly Terrain test. (Roll 6d6 and take 1 wound for each 1 or 2 rolled) |
-| Impassable | Units cannot move through this terrain                                                                                                                         |
-|            |                                                                                                                                                                |
+| Keyword     | Effect                                                                                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Obscuring   | If you would have to draw LOS through this terrain to see a majority of the target unit, then that targeted unit gains the [[Obscured\|Obscured Condition]].   |
+| Restrictive | A unit moving through this terrain moves at half speed (It costs 2" to move 1")                                                                                |
+| Deadly      | If a unit would move thought this terrain or remains idle in it, that unit must make a Deadly Terrain test. (Roll 6d6 and take 1 wound for each 1 or 2 rolled) |
+| Impassable  | Units cannot move through this terrain                                                                                                                         |
+|             |                                                                                                                                                                |

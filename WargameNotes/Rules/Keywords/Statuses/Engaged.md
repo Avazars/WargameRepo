@@ -2,7 +2,6 @@
 tags:
   - Status
 ---
-An Engaged Unit is a Unit with the Engaged Status
 
 > [!info] Engaged
 > While a unit has the Engaged Status:
