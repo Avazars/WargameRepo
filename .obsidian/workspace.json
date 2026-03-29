@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Guides/Terrain Guide.md",
+                "file": "WargameNotes/Rules/Guides/Scoring Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terrain Guide"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5a876239ed98cf5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d744e3dbbd5bd97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WargameNotes/Brainstorm File.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorm File"
+              "title": "Scoring Guide"
             }
           }
         ]
@@ -239,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Brainstorm File.md",
+                "file": "WargameNotes/Rules/Guides/Scoring Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm File"
+              "title": "Outline of Scoring Guide"
             }
           }
         ]
@@ -266,16 +246,28 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d744e3dbbd5bd97f",
+  "active": "cdc36c5e4b004128",
   "lastOpenFiles": [
-    "WargameNotes/Rules/Guides/Terrain Guide.md",
     "WargameNotes/Brainstorm File.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Guides/Scoring Guide.md",
+    "WargameNotes/Rules/Guides/Detachment Guide.md",
+    "WargameNotes/Rules/Guides/Untitled",
+    "WargameNotes/Rules/Guides/Unit Type Guide.md",
+    "WargameNotes/Rules/Guides/Terrain Guide.md",
     "WargameNotes/Rules/Guides/List Building Guide.md",
+    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
+    "WargameNotes/Rules/Guides/Unit Action Guide.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Strider.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Untitled.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Phasing.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Stealth.md",
+    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
     "WargameNotes/index.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
     "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
     "WargameNotes/Rules/Actions/Standard/Claim.md",
     "WargameNotes/Rules/Actions/Standard/Rush.md",
     "WargameNotes/Rules/Actions/Standard/Strike.md",
@@ -283,17 +275,6 @@
     "WargameNotes/Rules/Actions/Full/Fall Back.md",
     "WargameNotes/Rules/Actions/Basic/Reposition.md",
     "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Vehicle.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Beam.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Precise.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Pistol.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Melee.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Indirect.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Ignite.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Hazardous.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Bombard.md",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
@@ -304,7 +285,6 @@
     "WargameNotes/Factions/Generic/Units",
     "WargameNotes/Factions/Generic",
     "WargameNotes/Rules/Guides",
-    "WargameNotes/Rules/Keywords/Unit Type",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",

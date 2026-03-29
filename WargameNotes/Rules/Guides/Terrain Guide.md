@@ -1,3 +1,7 @@
+---
+tags:
+  - Guide
+---
 
 ### Terrain Types
 
