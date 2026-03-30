@@ -10,7 +10,7 @@ title: Wiki Home
 - 
 
 ### Touchstones
-Halo, Starfinder, Titan Fall, Endless Space 2, Mass Effect, Starwars
+Halo, Titan Fall, Endless Space 2
 
 
 ## Overview
