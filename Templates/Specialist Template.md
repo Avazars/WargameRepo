@@ -1,8 +1,7 @@
 ---
 tags:
-  - Unit
+  - Specialist
 Faction:
-Unit Type:
 ---
 **Power:**
 **Supply Cost:** 

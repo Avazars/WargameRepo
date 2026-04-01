@@ -3,7 +3,11 @@
   "interfaceFontFamily": "",
   "baseFontSize": 18,
   "translucency": false,
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "hide-non-active-comments"
+  ],
+  "textFontFamily": "JetBrainsMono-Regular",
+  "monospaceFontFamily": "JetBrainsMono-Medium"
 }

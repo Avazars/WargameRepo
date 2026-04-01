@@ -1,10 +1,9 @@
 ---
 tags:
-  - Unit
+  - Leader
 Faction:
-Unit Type:
 ---
-**Power:**
+**Power:** 
 **Supply Cost:** 
 
 | MOV | CCE | RCE | LD  | DEF | ARM | VIT | SIZE | CON |
@@ -16,4 +15,5 @@ Unit Type:
 | ----------- | ----- | --- | ----- | ------ | ----- |
 |             |       |     |       |        |       |
 
+**Detachment Restriction:** 
 **Keywords:** 

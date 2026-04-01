@@ -1,6 +1,6 @@
 ---
 tags:
-  - Keyword
+  - WeaponTrait
 ---
 
 > [!info] Keyword
