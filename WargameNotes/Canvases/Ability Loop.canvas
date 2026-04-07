@@ -3,10 +3,12 @@
 		{"id":"689cb679db5286f6","type":"group","x":-4200,"y":-1080,"width":2880,"height":1200,"label":"Game Structure"},
 		{"id":"ee439e1b71c6bee7","type":"group","x":-1280,"y":-420,"width":1460,"height":540,"label":"Tac-Tokens"},
 		{"id":"aa578554d27d1fd9","type":"group","x":-1280,"y":-1080,"width":1460,"height":400,"label":"Suppression Tokens"},
+		{"id":"1e5c86b957b45c9b","type":"group","x":-4660,"y":-2400,"width":1020,"height":400,"label":"Attack Sequence"},
 		{"id":"5c40f0bcab1195f3","type":"group","x":-4160,"y":-480,"width":720,"height":560,"label":"Setup"},
 		{"id":"c8be0f98ed602bfb","type":"group","x":-3180,"y":-980,"width":300,"height":520,"label":"Game Loop"},
 		{"id":"53b45f937ed299ac","type":"group","x":-2730,"y":-840,"width":300,"height":460,"label":"Battle Round Loop"},
 		{"id":"b3d0438c6c46dc88","type":"group","x":-4160,"y":-980,"width":300,"height":280,"label":"Pre-Game"},
+		{"id":"71f4ec5203fee45d","type":"group","x":-4320,"y":-2340,"width":240,"height":220,"label":"Opposed Roll"},
 		{
 			"id":"c2483c959263de56",
 			"type":"text",
@@ -38,6 +40,39 @@
 			"x":-4140,
 			"y":-780,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"0fea6e32376f6e25",
+			"type":"text",
+			"text":"Built around a Power Number.\nPlay around with the total amount available.\n\n> [!Note] Detachment Power Levels \n> 25 Power\n> 5 Supply Points\n",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-3720,
+			"y":-960,
+			"width":380,
+			"height":260
+		},
+		{
+			"id":"005c019799962828",
+			"type":"text",
+			"text":"Full Action",
+			"dynamicHeight":false,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1640,
+			"y":-610,
+			"width":180,
+			"height":190
+		},
+		{
+			"id":"9fc9ab87181973bb",
+			"type":"text",
+			"text":"OR",
+			"dynamicHeight":false,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1740,
+			"y":-545,
+			"width":80,
 			"height":60
 		},
 		{
@@ -74,17 +109,6 @@
 			"height":260
 		},
 		{
-			"id":"18250aef18663ef0",
-			"type":"text",
-			"text":"Game Beginning",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-3160,
-			"y":-940,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"4edb24b62146a1a8",
 			"type":"text",
 			"text":"Players Setup Terrain",
@@ -107,28 +131,6 @@
 			"height":80
 		},
 		{
-			"id":"80c7525fa048ccad",
-			"type":"text",
-			"text":"Battle Round 1",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-3160,
-			"y":-860,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"0fea6e32376f6e25",
-			"type":"text",
-			"text":"Built around a Power Number.\nPlay around with the total amount available.\n\n> [!Note] Detachment Power Levels \n> 25 Power\n> 5 Supply Points\n",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-3720,
-			"y":-960,
-			"width":380,
-			"height":260
-		},
-		{
 			"id":"c05bcd47de1179a9",
 			"type":"text",
 			"text":"Primary Mission is chosen",
@@ -148,6 +150,28 @@
 			"x":-4140,
 			"y":-200,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"18250aef18663ef0",
+			"type":"text",
+			"text":"Game Beginning",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3160,
+			"y":-940,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"80c7525fa048ccad",
+			"type":"text",
+			"text":"Battle Round 1",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3160,
+			"y":-860,
+			"width":260,
 			"height":60
 		},
 		{
@@ -206,50 +230,6 @@
 			"height":60
 		},
 		{
-			"id":"2423aff1093025e7",
-			"type":"text",
-			"text":"Objective Phase",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2710,
-			"y":-740,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"621b40e7618d3b62",
-			"type":"text",
-			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2810,
-			"y":-180,
-			"width":360,
-			"height":200
-		},
-		{
-			"id":"ea14c51c4f0a9d53",
-			"type":"text",
-			"text":"End Phase",
-			"dynamicHeight":true,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2710,
-			"y":-470,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"130ede14d7798483",
-			"type":"text",
-			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2000,
-			"y":-1480,
-			"width":260,
-			"height":220
-		},
-		{
 			"id":"c3178a4bbdaf2250",
 			"type":"text",
 			"text":"Both players roll a unique test with the player who is ahead on units getting a +2D to the roll.\n\nThe winner gets priority for the round.",
@@ -272,15 +252,15 @@
 			"height":100
 		},
 		{
-			"id":"d64a55746f555ea0",
+			"id":"2423aff1093025e7",
 			"type":"text",
-			"text":"Check End Phase conditions and abilities.",
+			"text":"Objective Phase",
 			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-2320,
-			"y":-210,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2710,
+			"y":-740,
 			"width":260,
-			"height":100
+			"height":60
 		},
 		{
 			"id":"9a87e181d285aaa2",
@@ -295,7 +275,6 @@
 		},
 		{"id":"b002178fdf36e1a5","type":"text","text":"Rolling Doubles during an Opposed Test","dynamicHeight":true,"x":-1260,"y":-380,"width":340,"height":80},
 		{"id":"f2d437d637686e63","type":"text","text":"Tac-Token on that Unit","dynamicHeight":true,"x":-780,"y":-260,"width":280,"height":60},
-		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1260,"y":-140,"width":420,"height":220},
 		{"id":"3158873dca9fe60d","type":"text","text":"Adding Dice while\n- Shooting\n- Defense\n- Moral","dynamicHeight":true,"x":-180,"y":-140,"width":340,"height":180},
 		{
 			"id":"137eab72d64d0f59",
@@ -322,6 +301,40 @@
 			"width":220,
 			"height":60
 		},
+		{
+			"id":"621b40e7618d3b62",
+			"type":"text",
+			"text":"At the end of the game players compare their VP values. \n\nThe person with the Higher VP score wins!",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2810,
+			"y":-180,
+			"width":360,
+			"height":200
+		},
+		{
+			"id":"ea14c51c4f0a9d53",
+			"type":"text",
+			"text":"End Phase",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2710,
+			"y":-470,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d64a55746f555ea0",
+			"type":"text",
+			"text":"Check End Phase conditions and abilities.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2320,
+			"y":-210,
+			"width":260,
+			"height":100
+		},
+		{"id":"15c2739916e4a433","type":"text","text":"Tac-Tokens Rules:\n- You do not generate Tac-Tokens on a roll that used Tac-Tokens.\n- The max number of Tac-Tokens that you can have on a unit is 6.\n- ","dynamicHeight":true,"x":-1260,"y":-140,"width":420,"height":220},
 		{
 			"id":"a45ca2e70654b00a",
 			"type":"text",
@@ -368,17 +381,6 @@
 			"height":60
 		},
 		{
-			"id":"005c019799962828",
-			"type":"text",
-			"text":"Full Action",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1640,
-			"y":-610,
-			"width":180,
-			"height":190
-		},
-		{
 			"id":"f0a771caefbfec06",
 			"type":"text",
 			"text":"Standard Action",
@@ -401,14 +403,102 @@
 			"height":60
 		},
 		{
-			"id":"9fc9ab87181973bb",
+			"id":"130ede14d7798483",
 			"type":"text",
-			"text":"OR",
-			"dynamicHeight":false,
+			"text":"Alternate Activating Detachments between both players starting with the player who has priority.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-1700,
+			"y":-850,
+			"width":260,
+			"height":220
+		},
+		{
+			"id":"ab50690c9ac3d2e3",
+			"type":"text",
+			"text":"Roll Attack",
+			"dynamicHeight":true,
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1740,
-			"y":-545,
-			"width":80,
+			"x":-4300,
+			"y":-2310,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"0750b086f0c31357",
+			"type":"text",
+			"text":"Roll Defense",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4300,
+			"y":-2210,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"b710e36f4621d713",
+			"type":"text",
+			"text":"Count Weapons in Range",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4640,
+			"y":-2330,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"416ee2c6fdd50c73",
+			"type":"text",
+			"text":"Declare Attacks",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4640,
+			"y":-2210,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"6b594def9da7553b",
+			"type":"text",
+			"text":"Subtract Armor From Damage",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3960,
+			"y":-2230,
+			"width":280,
+			"height":80
+		},
+		{
+			"id":"4aaf95a6b4a151a1",
+			"type":"text",
+			"text":"Remove Casualties",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3950,
+			"y":-2100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"eb7e2271d4910aed",
+			"type":"text",
+			"text":"Calculate Total Unblocked Damage",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3940,
+			"y":-2350,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"94bf2cd22bbee7e7",
+			"type":"text",
+			"text":"Damage",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3340,
+			"y":-2220,
+			"width":140,
 			"height":60
 		}
 	],
@@ -650,6 +740,55 @@
 			"fromSide":"bottom",
 			"toNode":"9a87e181d285aaa2",
 			"toSide":"top"
+		},
+		{
+			"id":"8b03eeb17bf531cf",
+			"styleAttributes":{},
+			"fromNode":"eb7e2271d4910aed",
+			"fromSide":"bottom",
+			"toNode":"6b594def9da7553b",
+			"toSide":"top"
+		},
+		{
+			"id":"4a632d61a6725b9e",
+			"styleAttributes":{},
+			"fromNode":"6b594def9da7553b",
+			"fromSide":"bottom",
+			"toNode":"4aaf95a6b4a151a1",
+			"toSide":"top"
+		},
+		{
+			"id":"03eaa46b6265a59e",
+			"styleAttributes":{},
+			"fromNode":"71f4ec5203fee45d",
+			"fromSide":"right",
+			"toNode":"eb7e2271d4910aed",
+			"toSide":"left"
+		},
+		{
+			"id":"78ec5c141154ad64",
+			"styleAttributes":{},
+			"fromNode":"ab50690c9ac3d2e3",
+			"fromSide":"bottom",
+			"toNode":"0750b086f0c31357",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"a25d86af1d1390af",
+			"styleAttributes":{},
+			"fromNode":"b710e36f4621d713",
+			"fromSide":"bottom",
+			"toNode":"416ee2c6fdd50c73",
+			"toSide":"top"
+		},
+		{
+			"id":"9e00c362c5ebae43",
+			"styleAttributes":{},
+			"fromNode":"416ee2c6fdd50c73",
+			"fromSide":"right",
+			"toNode":"71f4ec5203fee45d",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
