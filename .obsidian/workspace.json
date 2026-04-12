@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "407d58923eb1c7e9",
+        "id": "c20e19bdf06c7ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "c6bb497f212923ef",
+            "id": "d757226c48948e54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "WargameNotes/Canvases/Ability Loop.canvas",
+                "viewState": {
+                  "x": -5303.608351661406,
+                  "y": -1141.3056108753028,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ability Loop"
             }
           }
         ]
@@ -215,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "WargameNotes/Canvases/Ability Loop.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ability Loop"
             }
           }
         ]
@@ -241,11 +249,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c6bb497f212923ef",
+  "active": "d757226c48948e54",
   "lastOpenFiles": [
+    "1.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
     "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
-    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Actions/Standard/Strike.md",
     "WargameNotes/Factions/Humans/Hum4ns.md",
     "WargameNotes/Factions/Constructs/Constructs.md",
@@ -266,10 +277,6 @@
     "WargameNotes/Glossaries/Weapon Traits Glossary.md",
     "WargameNotes/Rules/Guides/Unit Type Guide.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
-    "WargameNotes/Rules/Guides/Terrain Guide.md",
-    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
-    "WargameNotes/Rules/Guides/Scoring Guide.md",
-    "WargameNotes/Rules/Guides/List Building Guide.md",
     "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
