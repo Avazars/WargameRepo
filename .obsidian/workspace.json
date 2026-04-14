@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c20e19bdf06c7ddc",
+        "id": "41d393504b7de08a",
         "type": "tabs",
         "children": [
           {
-            "id": "d757226c48948e54",
+            "id": "259e730a52a3db1f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "WargameNotes/Canvases/Ability Loop.canvas",
                 "viewState": {
-                  "x": -5303.608351661406,
-                  "y": -1141.3056108753028,
-                  "zoom": -1
+                  "x": -6733.438495396689,
+                  "y": -1135.0036883184293,
+                  "zoom": -0.640947883086194
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -249,14 +249,21 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d757226c48948e54",
+  "active": "259e730a52a3db1f",
   "lastOpenFiles": [
-    "1.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
     "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Rules/Actions/Basic/Reposition.md",
+    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
+    "WargameNotes/Rules/Actions/Basic/Aim.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Hybrid-Melee Squad.md",
+    "1.md",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
     "WargameNotes/Rules/Actions/Standard/Strike.md",
     "WargameNotes/Factions/Humans/Hum4ns.md",
     "WargameNotes/Factions/Constructs/Constructs.md",
@@ -271,12 +278,6 @@
     "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
     "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
-    "WargameNotes/Glossaries/Keywords Glossary.md",
-    "WargameNotes/Glossaries/Action Glossary.md",
-    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "WargameNotes/Rules/Guides/Unit Type Guide.md",
-    "WargameNotes/Rules/Guides/Unit Action Guide.md",
     "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
