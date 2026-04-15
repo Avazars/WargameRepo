@@ -3,10 +3,14 @@ tags:
   - Status
 ---
 
-A unit becomes Engaged when an enemy unit moves into melee range.
+> [!warning] Trigger
+> **Gains**
+> A unit gains the Engaged Status when an enemy unit moves into its [[Engagement Range]].
+>
+> **Looses**
+> A unit looses the Engaged Status when there are no enemy models in its [[Engagement Range]].
 
 > [!info] Engaged
 > While a unit has the Engaged Status:
-> - If an enemy unit moves out of this units melee range then this model may preform a [[Free Strike]] against that unit using its starting position for checking range.
-> - If there are no enemy models inside of this units melee range then this unit looses the Engaged Status
-
+> - It may not perform Ranged Attacks against anything inside of its [[Engagement Range]]
+> - This unit gets (-1)[[RCE]].

@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "259e730a52a3db1f",
+            "id": "80581e5608b98ca6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
                 "viewState": {
-                  "x": -6733.438495396689,
-                  "y": -1135.0036883184293,
-                  "zoom": -0.640947883086194
+                  "x": 276.3655537541026,
+                  "y": 27.275359915071732,
+                  "zoom": -0.4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Ability Loop"
+              "title": "Activation Smash Board"
             }
           }
         ]
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Ability Loop.canvas",
+                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ability Loop"
+              "title": "Outline of Activation Smash Board"
             }
           }
         ]
@@ -249,35 +249,39 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "259e730a52a3db1f",
+  "active": "80581e5608b98ca6",
   "lastOpenFiles": [
-    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
-    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
+    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
+    "WargameNotes/Rules/Actions/Reactions/Drop.md",
+    "WargameNotes/Rules/Actions/Reactions/Shoot Back.md",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
     "WargameNotes/Canvases/Ability Loop.canvas",
-    "WargameNotes/Rules/Actions/Basic/Reposition.md",
-    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
-    "WargameNotes/Rules/Actions/Basic/Aim.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Hybrid-Melee Squad.md",
-    "1.md",
+    "WargameNotes/Canvases/Detachments Smash Board.canvas",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "Removed Old/Opposed Test.md",
+    "Removed Old/Flat Test.md",
+    "Removed Old",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "WargameNotes/Rules/Actions/Standard/Strike.md",
-    "WargameNotes/Factions/Humans/Hum4ns.md",
-    "WargameNotes/Factions/Constructs/Constructs.md",
-    "WargameNotes/Factions/Aliens/Aliens.md",
     "WargameNotes/index.md",
     "WargameNotes/Rules/Weapon Traits.md",
     "WargameNotes/Rules/Unique Test.md",
-    "WargameNotes/Rules/Opposed Test.md",
-    "WargameNotes/Rules/Flat Test.md",
-    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
+    "WargameNotes/Glossaries/Keywords Glossary.md",
+    "WargameNotes/Glossaries/Action Glossary.md",
+    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Stealth.md",
+    "WargameNotes/Rules/Keywords/Unit Attributes/Strider.md",
+    "Point of Interest.md",
     "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
-    "WargameNotes/Rules/Actions/Standard/Shoot.md",
+    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Basic/Reposition.md",
+    "WargameNotes/Rules/Actions/Basic/Aim.md",
+    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
+    "WargameNotes/Rules/Actions/Reactions",
     "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
@@ -286,8 +290,6 @@
     "WargameNotes/Factions/Generic/Units/Troop",
     "WargameNotes/Factions/Generic/Specialists",
     "WargameNotes/Factions/Generic/Units",
-    "WargameNotes/Factions/Generic",
-    "WargameNotes/Rules/Guides",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",

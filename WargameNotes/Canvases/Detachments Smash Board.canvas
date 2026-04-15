@@ -1,0 +1,54 @@
+{
+	"nodes":[
+		{
+			"id":"6b5ee5e98e309d24",
+			"type":"text",
+			"text":"# Detachments",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":40,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"8e77e205aa3c4bd9",
+			"type":"text",
+			"text":"Detachments have a detachment bonus and determine what secondaries are in your secondary objective deck.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":380,
+			"y":-110,
+			"width":440,
+			"height":100
+		},
+		{
+			"id":"91133b0ae03ae57e",
+			"type":"text",
+			"text":"Detachments are unique to each army. Each has a defined deck type though. ",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":380,
+			"y":10,
+			"width":440,
+			"height":80
+		},
+		{
+			"id":"841e9b5e15c9d859",
+			"type":"text",
+			"text":"Leader units have a detachment requirement so they force you into a small amount of your list building",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-140,
+			"y":-300,
+			"width":440,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
