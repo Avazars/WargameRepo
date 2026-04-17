@@ -4,17 +4,18 @@ tags:
 Faction:
 Unit Type:
 ---
-**Power:** 7
-**Supply Cost:** 0
+**Generic Swordsmen**
+**Supply Cost:** 7
+**Squad Size:** 5
 
-| MOV   | CCE  | RCE  | LD       | DEF | ARM | VIT | SIZE | Con |
-| ----- | ---- | ---- | -------- | --- | --- | --- | ---- | --- |
-| `4\6` | `3+` | `6+` | `4+ 3\6` | `6` | `0` | `1` | `5`  | 1   |
-
-### Weapons
-| Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT     |
-| ----------- | ----- | --- | ----- | ------ | --------- |
-| Hammers     | `1"`  | `2` | `2`   | `1`    | [[Melee]] |
+| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON |
+| ----- | ---- | ---- | ---- | --- | --- | --- | --- |
+| `6-8` | `3+` | `4+` | `4+` | `4` | `1` | `2` | `1` |
 
 
-**Keywords:** [[Troop]]
+| Weapon Name | RANGE | ROF | DAMAGE | TRAITS    |
+| ----------- | ----- | --- | ------ | --------- |
+| 10x Swords  | `1"`  | `2` | `1`    | [[Melee]] |
+| 1x Grenade  | `6"`  | `1` | `5`    | [[Blast]] |
+
+** Unit Keywords:** [[Troop]]
