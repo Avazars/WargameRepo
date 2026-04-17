@@ -3,7 +3,9 @@ tags:
   - Guide
 ---
 ## Main mission 
-Chosen before deployment
+Scoring is done at the end of each battle round.
 
-## Detachment Directives
-A group of cards attached to a specific detachment chosen from a list during list creation, you flip over the top of the deck and can score that card with that detachment or ditch that card to gain a benefit (stratagem).
+
+You can gain VP by doing the following
+- [[Primary Directives]]
+- [[Detachment Directives]]
