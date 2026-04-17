@@ -4,5 +4,4 @@ tags:
 ---
 
 > [!info] Fall Back
-> A unit taking the Fall Back [[Full Action]] must move its full movement towards the nearest board edge. 
-> If a models movement would place that model off the edge of the board that model becomes slain.
+> A unit taking the Fall Back [[Full Action]] must move its [[Full Movement]] towards the nearest board edge then this unit performs another [[Moral Test]].

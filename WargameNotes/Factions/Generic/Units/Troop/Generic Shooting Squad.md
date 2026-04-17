@@ -4,17 +4,19 @@ tags:
 Faction:
 Unit Type:
 ---
-**Power:** 7
-**Supply Cost:** 0
+**Generic Riflemen**
+**Supply Cost:** 7
+**Squad Size:** 5
 
-| MOV   | CCE  | RCE  | LD       | DEF | ARM | VIT | SIZE | Con |
-| ----- | ---- | ---- | -------- | --- | --- | --- | ---- | --- |
-| `4\6` | `4+` | `3+` | `4+ 3\6` | `6` | `0` | `1` | `5`  | 1   |
+| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON |
+| ----- | ---- | ---- | ---- | --- | --- | --- | --- |
+| `6-6` | `4+` | `3+` | `4+` | `4` | `1` | `2` | `1` |
 
-### Weapons
-| Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT     |
-| ----------- | ----- | --- | ----- | ------ | --------- |
-| Rifle       | `12"` | `1` | `2`   | `1`    | `-`       |
-| CCW         | `1"`  | `-` | `1`   | `1`    | [[Melee]] |
 
-**Keywords:** [[Troop]]
+
+| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |
+| ----------- | ------ | --- | ------ | --------- |
+| 5x Rife     | `12"`  | `2` | `1`    |           |
+| 5x CCW      | `1/2"` | `1` | `1`    | [[Melee]] |
+
+** Unit Keywords:** [[Troop]]

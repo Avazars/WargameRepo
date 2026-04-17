@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "068b3f98f698e8ae",
+        "id": "be89f9069cd011e3",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc36c5e4b004128",
+            "id": "753659987c0a4802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
-                "mode": "source",
-                "source": false
+                "file": "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+                "viewState": {
+                  "x": 305,
+                  "y": -80,
+                  "zoom": -0.49655911895840643
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mobile Barricade"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unit Profile Smash Board"
             }
           }
         ]
@@ -219,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
+                "file": "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mobile Barricade"
+              "title": "Outline of Unit Profile Smash Board"
             }
           }
         ]
@@ -246,51 +249,52 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cdc36c5e4b004128",
+  "active": "753659987c0a4802",
   "lastOpenFiles": [
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
-    "WargameNotes/Rules/Weapon Traits.md",
-    "WargameNotes/Rules/Actions/Standard/Shoot.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Mobile Barricade.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
-    "WargameNotes/index.md",
-    "WargameNotes/Glossaries/Keywords Glossary.md",
-    "WargameNotes/Glossaries/Action Glossary.md",
-    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "WargameNotes/Rules/Guides/Unit Type Guide.md",
-    "WargameNotes/Rules/Guides/Unit Action Guide.md",
-    "WargameNotes/Rules/Guides/Terrain Guide.md",
-    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
-    "WargameNotes/Rules/Guides/Scoring Guide.md",
-    "WargameNotes/Rules/Guides/List Building Guide.md",
-    "WargameNotes/Rules/Guides/Detachment Guide.md",
-    "WargameNotes/Brainstorm File.md",
-    "WargameNotes/Rules/Guides/Untitled",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Strider.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Untitled.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Phasing.md",
-    "WargameNotes/Rules/Keywords/Unit Attributes/Stealth.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Actions/Standard/Claim.md",
-    "WargameNotes/Rules/Actions/Standard/Rush.md",
-    "WargameNotes/Rules/Actions/Standard/Strike.md",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
     "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Hybrid-Melee Squad.md",
+    "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
+    "WargameNotes/Rules/Primary Directives.md",
+    "WargameNotes/Rules/Guides/Unit Action Guide.md",
+    "WargameNotes/Rules/Guides/Unit Type Guide.md",
+    "WargameNotes/Rules/Weapon Traits.md",
+    "WargameNotes/Rules/Unique Test.md",
+    "WargameNotes/Canvases/Directives.canvas",
+    "WargameNotes/Rules/Guides/Scoring Guide.md",
+    "WargameNotes/Rules/Detachments/Claim Detachment.md",
+    "WargameNotes/Rules/Detachments/Delve Detachment.md",
+    "WargameNotes/Rules/Detachments/Strike Detachment.md",
+    "WargameNotes/Rules/Detachments",
+    "WargameNotes/Rules/Guides/Detachment Guide.md",
+    "WargameNotes/Canvases/Deployment Styles.canvas",
+    "WargameNotes/Canvases/Detachments Smash Board.canvas",
+    "WargameNotes/Canvases/Primary Card Smash Board.canvas",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/index.md",
+    "WargameNotes/Rules/Actions/Reactions/Drop.md",
+    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
+    "WargameNotes/Rules/Actions/Reactions/Shoot Back.md",
+    "Removed Old/Opposed Test.md",
+    "Removed Old",
+    "WargameNotes/Rules/Actions/Reactions",
+    "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
     "WargameNotes/Rules/Keywords/Unit Attributes",
     "WargameNotes/Factions/Generic/Units/Vehicle",
     "WargameNotes/Factions/Generic/Units/Monster",
     "WargameNotes/Factions/Generic/Units/Troop",
     "WargameNotes/Factions/Generic/Specialists",
-    "WargameNotes/Factions/Generic/Units",
-    "WargameNotes/Factions/Generic",
-    "WargameNotes/Rules/Guides",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",
-    "Canvases/Magic System.canvas",
-    "Canvases/Faction Map.canvas",
-    "Files/Images/Pasted image 20251127211907.png",
-    "Canvases/Faction Web.canvas"
+    "Files/Images/Pasted image 20251127211907.png"
   ]
 }
