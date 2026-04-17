@@ -6,14 +6,14 @@ Faction:
 **Power:** 4
 **Supply Cost:** 5
 
-| MOV   | CCE  | RCE  | LD       | DEF | ARM | VIT  | SIZE | CON |
-| ----- | ---- | ---- | -------- | --- | --- | ---- | ---- | --- |
-| `4\6` | `4+` | `4+` | `4+ 3\6` | `6` | `0` | `+1` | `+1` | `1` |
+| MOV   | CCE  | RCE  | LD  | DEF | ARM  | VIT  | CON  |
+| ----- | ---- | ---- | --- | --- | ---- | ---- | ---- |
+| `6-6` | `4+` | `4+` | `6` | `-` | `+1` | `+2` | `+1` |
 
 ### Weapons
-| Weapon Name | RANGE | AP  | SHOTS | DAMAGE | TRAIT |
-| ----------- | ----- | --- | ----- | ------ | ----- |
-| Rifle       | `12"` | `1` | `2`   | `1`    | `-`   |
+| Weapon Name | RANGE | ROF | DAMAGE | TRAITS |
+| ----------- | ----- | --- | ------ | ------ |
+| Rifle       | `12"` | `2` | `1`    | `-`    |
 
 **Keywords:** [[Specialist]]
 

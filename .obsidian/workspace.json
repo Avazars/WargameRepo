@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
+                "file": "WargameNotes/Canvases/Directives.canvas",
                 "viewState": {
-                  "x": 276.3655537541026,
-                  "y": 27.275359915071732,
-                  "zoom": -0.4
+                  "x": 1320,
+                  "y": -480,
+                  "zoom": -0.9463620363979268
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Activation Smash Board"
+              "title": "Directives"
             }
           }
         ]
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
+                "file": "WargameNotes/Canvases/Directives.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Activation Smash Board"
+              "title": "Outline of Directives"
             }
           }
         ]
@@ -251,19 +251,29 @@
   },
   "active": "80581e5608b98ca6",
   "lastOpenFiles": [
+    "WargameNotes/Canvases/Detachments Smash Board.canvas",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
+    "WargameNotes/Canvases/Deployment Styles.canvas",
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Canvases/Directives.canvas",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Canvases/Primary Card Smash Board.canvas",
+    "WargameNotes/Rules/Actions/Full/Disengage.md",
+    "WargameNotes/Rules/Actions/Full/Fall Back.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Rules/Guides/Detachment Guide.md",
+    "WargameNotes/index.md",
+    "WargameNotes/Rules/Actions/Reactions/Drop.md",
     "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
     "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
-    "WargameNotes/Rules/Actions/Reactions/Drop.md",
     "WargameNotes/Rules/Actions/Reactions/Shoot Back.md",
-    "WargameNotes/Canvases/Activation Smash Board.canvas",
-    "WargameNotes/Canvases/Ability Loop.canvas",
-    "WargameNotes/Canvases/Detachments Smash Board.canvas",
-    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
     "Removed Old/Opposed Test.md",
     "Removed Old/Flat Test.md",
     "Removed Old",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "WargameNotes/index.md",
     "WargameNotes/Rules/Weapon Traits.md",
     "WargameNotes/Rules/Unique Test.md",
     "WargameNotes/Glossaries/Weapon Traits Glossary.md",
@@ -274,13 +284,6 @@
     "WargameNotes/Rules/Keywords/Unit Attributes/Strider.md",
     "Point of Interest.md",
     "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
-    "WargameNotes/Rules/Actions/Full/Fall Back.md",
-    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Actions/Basic/Reposition.md",
-    "WargameNotes/Rules/Actions/Basic/Aim.md",
-    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
     "WargameNotes/Rules/Actions/Reactions",
     "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
@@ -293,9 +296,6 @@
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
     "Canvases/Test.canvas",
-    "Canvases/Magic System.canvas",
-    "Canvases/Faction Map.canvas",
-    "Files/Images/Pasted image 20251127211907.png",
-    "Canvases/Faction Web.canvas"
+    "Files/Images/Pasted image 20251127211907.png"
   ]
 }

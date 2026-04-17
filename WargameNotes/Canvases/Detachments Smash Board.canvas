@@ -15,13 +15,13 @@
 		{
 			"id":"8e77e205aa3c4bd9",
 			"type":"text",
-			"text":"Detachments have a detachment bonus and determine what secondaries are in your secondary objective deck.",
+			"text":"Detachments have a detachment bonus and determine what detachment directive tables you will be rolling on for secondary objectives.",
 			"dynamicHeight":true,
 			"styleAttributes":{},
 			"x":380,
-			"y":-110,
+			"y":-130,
 			"width":440,
-			"height":100
+			"height":140
 		},
 		{
 			"id":"91133b0ae03ae57e",
@@ -30,7 +30,7 @@
 			"dynamicHeight":true,
 			"styleAttributes":{},
 			"x":380,
-			"y":10,
+			"y":40,
 			"width":440,
 			"height":80
 		},
@@ -40,8 +40,8 @@
 			"text":"Leader units have a detachment requirement so they force you into a small amount of your list building",
 			"dynamicHeight":true,
 			"styleAttributes":{},
-			"x":-140,
-			"y":-300,
+			"x":380,
+			"y":-280,
 			"width":440,
 			"height":100
 		}
