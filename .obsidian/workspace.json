@@ -15,16 +15,31 @@
               "state": {
                 "file": "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
                 "viewState": {
-                  "x": 68.69429195588631,
-                  "y": 81.55107886562558,
-                  "zoom": -0.5506586810925841
+                  "x": 956.3855280694786,
+                  "y": -384.1385965456948,
+                  "zoom": 0.24934131890741595
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Unit Profile Smash Board"
             }
+          },
+          {
+            "id": "f4e5a21c58a9fcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blast"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+                "file": "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit Profile Smash Board"
+              "title": "Outline of Blast"
             }
           }
         ]
@@ -249,14 +264,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "80581e5608b98ca6",
+  "active": "f4e5a21c58a9fcad",
   "lastOpenFiles": [
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
     "WargameNotes/Rules/Primary Directives.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
     "WargameNotes/Rules/Guides/Unit Type Guide.md",
     "WargameNotes/Rules/Weapon Traits.md",
     "WargameNotes/Rules/Unique Test.md",
-    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Canvases/Activation Smash Board.canvas",
     "WargameNotes/Canvases/Directives.canvas",
@@ -284,8 +300,6 @@
     "Removed Old/Flat Test.md",
     "Removed Old",
     "Non-Wiki Notes/Game Mechanic Tuning Documents.md",
-    "WargameNotes/Glossaries/Weapon Traits Glossary.md",
-    "WargameNotes/Glossaries/Keywords Glossary.md",
     "WargameNotes/Rules/Actions/Reactions",
     "WargameNotes/Rules/Guides/Untitled",
     "WargameNotes/Rules/Keywords/Weapon Keywords",
