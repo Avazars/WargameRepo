@@ -1,0 +1,109 @@
+{
+	"nodes":[
+		{
+			"id":"ae1f3d91ec9601fc",
+			"type":"text",
+			"text":"**Generic Flying Riflemen**\n**Supply Cost:** 7\n**Squad Size:** 5\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `6-6` | `4+` | `4+` | `-` | `6` | `-` | `2` | `1` |\n\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |\n| ----------- | ------ | --- | ------ | --------- |\n| 5x Rifle    | `12\"`  | `2` | `1`    |           |\n| 5x CCW      | `1/2\"` | `1` | `1`    | [[Melee]] |\n\n** Unit Keywords:** [[Troop]], [[Fly]], [[Delayed Deployment]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":-250,
+			"y":-535,
+			"width":500,
+			"height":500
+		},
+		{
+			"id":"661d8084b24ff6e7",
+			"type":"text",
+			"text":"# 25",
+			"dynamicHeight":false,
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":710,
+			"y":-505,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"5254e7820b07b6aa",
+			"type":"text",
+			"text":"**Generic Snipers**\n**Supply Cost:** 7\n**Squad Size:** 3\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `5-5` | `4+` | `3+` | `-` | `6` | `-` | `2` | `1` |\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS                        |\n| ----------- | ------ | --- | ------ | ----------------------------- |\n| 3x Snipers  | `24\"`  | `1` | `3`    | [[AP\\| AP(1/2)]], [[Precise]] |\n| 3x CCW      | `1/2\"` | `1` | `1`    | [[Melee]]                     |\n\n** Unit Keywords:** [[Elite]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":-250,
+			"y":5,
+			"width":500,
+			"height":530
+		},
+		{
+			"id":"e485a796503744a6",
+			"type":"text",
+			"text":"**Generic Fast Monster**\n**Supply Cost:** 7\n**Squad Size:** 3\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `8-6` | `3+` | `4+` | `1` | `6` | `-` | `3` | `1` |\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |\n| ----------- | ------ | --- | ------ | --------- |\n| 3x Claws    | `1/2\"` | `2` | `1`    | [[Melee]] |\n| 3x Bite     | `1/2\"` | `1` | `2`    | [[Melee]] |\n\n** Unit Keywords:** [[Monster]], [[Scout| Scout 6\"]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":310,
+			"y":5,
+			"width":500,
+			"height":500
+		},
+		{
+			"id":"c10a179ac36656b9",
+			"type":"text",
+			"text":"When taking a leadership test you will need to roll your LD stat on the unit and get equal to or more success then the amount of units lost Leadership.  TN = 4+",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-810,
+			"y":-535,
+			"width":440,
+			"height":180
+		},
+		{
+			"id":"918b9f093c3ca9ca",
+			"type":"text",
+			"text":"# Unit Profiles",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":-220,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"b29fba5d8bcf37ec",
+			"type":"text",
+			"text":"**Generic CQC**\n**Supply Cost:** 7\n**Squad Size:** 3\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `6-6` | `3+` | `3+` | `-` | `6` | `-` | `2` | `1` |\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS     |\n| ----------- | ------ | --- | ------ | ---------- |\n| 3x Shotguns | `8\"`   | `1` | `2`    | [[Frenzy]] |\n| 3x Combat   | `1/2\"` | `1` | `1`    | [[Melee]]  |\n\n** Unit Keywords:** [[Elite]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":840,
+			"y":5,
+			"width":500,
+			"height":500
+		},
+		{
+			"id":"e277ce386ce7cfbe",
+			"type":"text",
+			"text":"**Generic Riflemen**\n**Supply Cost:** 7\n**Squad Size:** 5\n\n| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | ---- | --- | --- | --- | --- |\n| `6-6` | `4+` | `3+` | `4+` | `4` | `1` | `2` | `1` |\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |\n| ----------- | ------ | --- | ------ | --------- |\n| 5x Rife     | `12\"`  | `2` | `1`    |           |\n| 5x CCW      | `1/2\"` | `1` | `1`    | [[Melee]] |\n\n** Unit Keywords:** [[Troop]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":380,
+			"y":-695,
+			"width":500,
+			"height":500
+		},
+		{
+			"id":"3fc2cd5f17fb7356",
+			"type":"text",
+			"text":"**Generic Swordsmen**\n**Supply Cost:** 7\n**Squad Size:** 5\n\n| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | ---- | --- | --- | --- | --- |\n| `6-8` | `3+` | `4+` | `4+` | `4` | `1` | `2` | `1` |\n\n\n| Weapon Name | RANGE | ROF | DAMAGE | TRAITS    |\n| ----------- | ----- | --- | ------ | --------- |\n| 10x Swords  | `1\"`  | `2` | `1`    | [[Melee]] |\n| 1x Grenade  | `6\"`  | `1` | `5`    | [[Blast]] |\n\n** Unit Keywords:** [[Troop]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":920,
+			"y":-695,
+			"width":500,
+			"height":500
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
