@@ -1,0 +1,87 @@
+{
+	"nodes":[
+		{
+			"id":"d893ac004a9f9edc",
+			"type":"text",
+			"text":"Players may remove a die from the the Influence Pool to replace any dice during a roll with the number of the die removed from the world pool. This can be done once per activation.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":240,
+			"y":-30,
+			"width":560,
+			"height":140
+		},
+		{
+			"id":"64f2c6e7aa36bf8a",
+			"type":"text",
+			"text":"Players will be able to at any time spend doubles or triples dice from the Influence Pool to activate special abilities that have an influence cost.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":240,
+			"y":130,
+			"width":560,
+			"height":140
+		},
+		{
+			"id":"1ee82db7cc244a2a",
+			"type":"text",
+			"text":"At the beginning of each battle round players roll a number of d6 equal to the total influence they currently have.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-780,
+			"y":-190,
+			"width":560,
+			"height":100
+		},
+		{
+			"id":"030749b2d39330ae",
+			"type":"text",
+			"text":"Units have a influence stat which determines the amount of dice they contribute to your influence roll at the beginning of the battle round.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-780,
+			"y":-380,
+			"width":420,
+			"height":180
+		},
+		{
+			"id":"6928be01b0bfb681",
+			"type":"text",
+			"text":"Some Primary Directives might grant you influence for doing some things. (Maybe a catch-up mechanic)",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-780,
+			"y":-60,
+			"width":420,
+			"height":140
+		},
+		{
+			"id":"e6a0207d0be12d55",
+			"type":"text",
+			"text":"Some Detachment Directive Cards can be discarded to grant you more dice rather then gaining VP from them. ",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-780,
+			"y":110,
+			"width":420,
+			"height":140
+		},
+		{
+			"id":"a0b671cf545355db",
+			"type":"text",
+			"text":"# Influence Pool",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-160,
+			"y":20,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

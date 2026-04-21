@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Rules/Actions/Standard/Claim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Claim"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/index.md",
+                "file": "WargameNotes/Rules/Actions/Standard/Claim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Claim"
             }
           }
         ]
@@ -248,40 +248,41 @@
   },
   "active": "753659987c0a4802",
   "lastOpenFiles": [
+    "WargameNotes/Rules/Actions/Basic/Aim.md",
+    "WargameNotes/Rules/Actions/Basic/Hold Objective.md",
+    "WargameNotes/Rules/Actions/Basic/Reposition.md",
+    "WargameNotes/Rules/Detachments/Strike Detachment.md",
+    "WargameNotes/Rules/Detachments/Delve Detachment.md",
+    "WargameNotes/Rules/Detachments/Claim Detachment.md",
     "WargameNotes/Rules/Primary Directives.md",
+    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
+    "WargameNotes/Rules/Actions/Standard/Strike.md",
+    "WargameNotes/Rules/Actions/Standard/Shoot.md",
+    "WargameNotes/Rules/Actions/Standard/Rush.md",
+    "WargameNotes/Rules/Actions/Standard/Claim.md",
+    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
+    "WargameNotes/Rules/Actions/Reactions/Drop.md",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Canvases/World Dice Pool.canvas",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
+    "WargameNotes/index.md",
     "WargameNotes/Rules/Guides/Unit Type Guide.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
     "WargameNotes/Rules/Guides/Terrain Guide.md",
     "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
     "WargameNotes/Rules/Guides/Scoring Guide.md",
     "WargameNotes/Rules/Guides/Detachment Guide.md",
-    "WargameNotes/Rules/Detachments/Strike Detachment.md",
-    "WargameNotes/Rules/Detachments/Delve Detachment.md",
-    "WargameNotes/Rules/Detachments/Claim Detachment.md",
-    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
-    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
-    "WargameNotes/Rules/Actions/Reactions/Drop.md",
     "WargameNotes/Rules/Actions/Full/Fall Back.md",
     "WargameNotes/Rules/Actions/Full/Disengage.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Hybrid-Melee Squad.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
-    "WargameNotes/Canvases/Ability Loop.canvas",
-    "WargameNotes/Canvases/Activation Smash Board.canvas",
-    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
-    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
-    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
-    "WargameNotes/Rules/Keywords/Weapon Keywords/Blast.md",
-    "WargameNotes/Rules/Weapon Traits.md",
-    "WargameNotes/Rules/Unique Test.md",
     "WargameNotes/Canvases/Directives.canvas",
     "WargameNotes/Rules/Detachments",
     "WargameNotes/Canvases/Deployment Styles.canvas",
     "WargameNotes/Canvases/Detachments Smash Board.canvas",
     "WargameNotes/Canvases/Primary Card Smash Board.canvas",
-    "WargameNotes/index.md",
-    "WargameNotes/Rules/Actions/Reactions/Shoot Back.md",
-    "Removed Old/Opposed Test.md",
     "Removed Old",
     "WargameNotes/Rules/Actions/Reactions",
     "WargameNotes/Rules/Guides/Untitled",
@@ -293,7 +294,6 @@
     "WargameNotes/Factions/Generic/Specialists",
     "Canvases/Untitled.canvas",
     "Canvases/test.canvas",
-    "Canvases/Test.canvas",
     "Files/Images/Pasted image 20251127211907.png"
   ]
 }
