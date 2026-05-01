@@ -1,0 +1,55 @@
+{
+	"nodes":[
+		{"id":"4c618b3f66406059","type":"group","x":-760,"y":-560,"width":1000,"height":640},
+		{
+			"id":"13dd363be41e7684",
+			"type":"text",
+			"text":"# Movement",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-760,
+			"y":-560,
+			"width":140,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"b5ef88a6f05fce6f",
+			"type":"text",
+			"text":"The Movement Stat is broken into two parts known as your First Movement and Second Movement.\n\nThis is denoted on the unit profile like this 6-4.\n\nThis would mean that if a unit would take an action that said you could move any number of inches up to your First Movement that unit could move up to 6 inches.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-740,
+			"y":-480,
+			"width":500,
+			"height":340
+		},
+		{
+			"id":"e3289d11c4b5704e",
+			"type":"text",
+			"text":"The procedure for moving is:\n\n1. Declare a single model in a unit to be the lead model for the movement.\n2. Move the lead model the desired amount.\n3. Place all other models in the unit within coherency of the lead model and be able to draw LOS to another model in its unit.\n",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-220,
+			"y":-480,
+			"width":440,
+			"height":360
+		},
+		{
+			"id":"87e6a8c95122a485",
+			"type":"text",
+			"text":"Unit coherency is within 2\".",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-220,
+			"y":-120,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
