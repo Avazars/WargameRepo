@@ -3,5 +3,5 @@ tags:
   - Guide
 ---
 During a units activation it gets to do one of two things:
-- A [[Basic Action]] + [[Standard Action]]
-- or a [[Full Action]] unit cannot activate until next battle round
+- A [[Quick Action]] + [[Standard Action]]
+- or a [[Long Action]] unit cannot activate until next battle round

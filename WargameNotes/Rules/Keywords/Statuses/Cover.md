@@ -12,4 +12,4 @@ A unit gains the Cover Status when that unit performs the [[Take Cover]] [[Stand
 
 > [!info] Cover
 > While a unit has the Cover Status: 
-> - That unit gets (+3)[[ARM]] against shooting attacks that cannot draw [[LOS]] to a majority of the unit.
+> - That unit gets +3 to its [[Armor|ARM]] against shooting attacks that cannot draw [[LOS]] to a majority of the unit.

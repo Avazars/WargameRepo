@@ -1,0 +1,96 @@
+{
+	"nodes":[
+		{
+			"id":"ce77f2517e9e3052",
+			"type":"text",
+			"text":"# List Building",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":-10,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"9b781327a947e38c",
+			"type":"text",
+			"text":"Weapon models are attached to the basic unit",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-580,
+			"y":-200,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"a203c80315a2b401",
+			"type":"text",
+			"text":"Normal games are 300 points",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-20,
+			"y":-380,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"342ceab23d48ac2e",
+			"type":"text",
+			"text":"Each Detachment is 100 points",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-20,
+			"y":-280,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"a36f9662ef4df20d",
+			"type":"text",
+			"text":"You can usually have 1 Weapons Specialist attached to unit.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-960,
+			"y":-180,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"f998152e7d52b2f6",
+			"type":"text",
+			"text":"Leader units, vehicles, and some specialists are standalone so they operate by them selves.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-580,
+			"y":-10,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"eb7d90362a683937",
+			"type":"text",
+			"text":"All units can only have one attached Leader Specialists.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-580,
+			"y":-330,
+			"width":260,
+			"height":100
+		}
+	],
+	"edges":[
+		{
+			"id":"67b75bf0a9a70d01",
+			"styleAttributes":{},
+			"fromNode":"9b781327a947e38c",
+			"fromSide":"left",
+			"toNode":"a36f9662ef4df20d",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

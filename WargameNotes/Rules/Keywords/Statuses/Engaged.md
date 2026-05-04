@@ -13,4 +13,4 @@ tags:
 > [!info] Engaged
 > While a unit has the Engaged Status:
 > - It may not perform Ranged Attacks against anything inside of its [[Engagement Range]]
-> - This unit gets (-1)[[RCE]].
+> - This unit gets -1 to its [[Ranged Combat Effectiveness|RCE]].

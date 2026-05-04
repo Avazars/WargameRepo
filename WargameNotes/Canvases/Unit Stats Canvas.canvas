@@ -1,6 +1,44 @@
 {
 	"nodes":[
-		{"id":"4c618b3f66406059","type":"group","x":-760,"y":-560,"width":1000,"height":640},
+		{"id":"6a552dcf51262ab1","type":"group","x":-240,"y":-1350,"width":1300,"height":770,"label":"Combat Loop"},
+		{"id":"4c618b3f66406059","type":"group","x":-760,"y":-560,"width":1000,"height":540},
+		{"id":"218e1c95b7c42fcb","type":"group","x":-2360,"y":-1200,"width":960,"height":400},
+		{"id":"4e987494f1386a7b","type":"group","x":-760,"y":-1220,"width":500,"height":640},
+		{
+			"id":"7d8126a69eeab8bb",
+			"type":"text",
+			"text":"Defender rolls dice equal to the success and removes any that >= AGI",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":450,
+			"y":-1000,
+			"width":330,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"b8dcdc673c74a558",
+			"type":"text",
+			"text":"Subtract Armor From Damage take the remainder as wounds",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":480,
+			"y":-770,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"f8d3130e620e715e",
+			"type":"text",
+			"text":"Units taking Cover Get +3 to Armor\n",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":-760,
+			"width":260,
+			"height":80,
+			"color":"5"
+		},
 		{
 			"id":"13dd363be41e7684",
 			"type":"text",
@@ -14,6 +52,76 @@
 			"color":"1"
 		},
 		{
+			"id":"d6bc02d73a9a6e74",
+			"type":"text",
+			"text":"# Mov",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-600,
+			"y":-560,
+			"width":140,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"814010bda469046d",
+			"type":"text",
+			"text":"A Models CCE/RCE stat determines the success rate of using weapons.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-740,
+			"y":-1040,
+			"width":460,
+			"height":80
+		},
+		{
+			"id":"58f057307ca888f6",
+			"type":"text",
+			"text":"When a model attacks with a weapon, to determine if they hit their target you would roll against this number. \n\nSo if your profile said that you had a CCE 4+ then you would hit with melee weapons when you roll a 4 or higher on a D6.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-740,
+			"y":-930,
+			"width":460,
+			"height":260
+		},
+		{
+			"id":"7ed1537dff6e6cfd",
+			"type":"text",
+			"text":"# Ranged Combat Effectiveness",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-760,
+			"y":-1140,
+			"width":200,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"cd5e570ecc9212c7",
+			"type":"text",
+			"text":"# RCE",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-530,
+			"y":-1130,
+			"width":140,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"fda472e55126604a",
+			"type":"text",
+			"text":"**Generic Riflemen**\n**Supply Cost:** 7\n**Squad Size:** 5\n\n| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON | INF |\n| ----- | ---- | ---- | ---- | --- | --- | --- | --- | --- |\n| `4-4` | `4+` | `3+` | `4+` | `4` | `1` | `3` | `1` | `1` |\n\n\n| Weapon Name | RANGE | ROF | DAMAGE | TRAITS    |\n| ----------- | ----- | --- | ------ | --------- |\n| 5x Rife     | `12\"` | `2` | `1`    |           |\n| 5x CCW      | `1\"`  | `1` | `1`    | [[Melee]] |\n\n** Unit Keywords:** [[Troop]]",
+			"dynamicHeight":false,
+			"styleAttributes":{},
+			"x":-1360,
+			"y":-1080,
+			"width":580,
+			"height":500,
+			"color":"4"
+		},
+		{
 			"id":"b5ef88a6f05fce6f",
 			"type":"text",
 			"text":"The Movement Stat is broken into two parts known as your First Movement and Second Movement.\n\nThis is denoted on the unit profile like this 6-4.\n\nThis would mean that if a unit would take an action that said you could move any number of inches up to your First Movement that unit could move up to 6 inches.",
@@ -23,6 +131,18 @@
 			"y":-480,
 			"width":500,
 			"height":340
+		},
+		{
+			"id":"8b8c272ee9668102",
+			"type":"text",
+			"text":"# CCE",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-530,
+			"y":-1220,
+			"width":140,
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"e3289d11c4b5704e",
@@ -36,6 +156,73 @@
 			"height":360
 		},
 		{
+			"id":"aa6d06be7b7a503a",
+			"type":"text",
+			"text":"When Attacking an Obscured unit gets -1 to Attack Rolls\n",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-210,
+			"y":-1100,
+			"width":260,
+			"height":100,
+			"color":"2"
+		},
+		{
+			"id":"e8b81930fd876144",
+			"type":"text",
+			"text":"Check Weapons in Range",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-210,
+			"y":-1330,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"d586a024a8786e91",
+			"type":"text",
+			"text":"Declare Attack Targets",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-10,
+			"y":-1250,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"46f4959b57c271ad",
+			"type":"text",
+			"text":"Total Damage Per Hit",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-820,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"26f567802b96f384",
+			"type":"text",
+			"text":"Remove Casualties",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-670,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4b562c84e202fc2",
+			"type":"text",
+			"text":"Roll dice equal to the ROF of all weapons chosen. compare against RCE/CCE for hits.",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":190,
+			"y":-1170,
+			"width":260,
+			"height":180
+		},
+		{
 			"id":"87e6a8c95122a485",
 			"type":"text",
 			"text":"Unit coherency is within 2\".",
@@ -45,9 +232,116 @@
 			"y":-120,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"87fff645b17ed03e",
+			"type":"text",
+			"text":"# Close Combat Effectiveness",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-760,
+			"y":-1220,
+			"width":200,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"f5236ead377e773f",
+			"type":"text",
+			"text":"# Leadership",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2360,
+			"y":-1200,
+			"width":200,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ce1a2f50a87447d4",
+			"type":"text",
+			"text":"# LD",
+			"dynamicHeight":true,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2160,
+			"y":-1200,
+			"width":80,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"85183e3cedd60802",
+			"type":"text",
+			"text":"When taking a leadership test you will need to get more successes on 6D6 than a units LD stat + the number of casualties they have taken this round.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-2360,
+			"y":-1120,
+			"width":440,
+			"height":180
+		},
+		{
+			"id":"89b70fd909a613b1",
+			"type":"text",
+			"text":"Failing a leader ship test gives the unit the Shaken Status",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-1900,
+			"y":-1120,
+			"width":260,
+			"height":140
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"2d83452a9b65c622",
+			"styleAttributes":{},
+			"fromNode":"e8b81930fd876144",
+			"fromSide":"bottom",
+			"toNode":"d586a024a8786e91",
+			"toSide":"top"
+		},
+		{
+			"id":"2959b47f107e5931",
+			"styleAttributes":{},
+			"fromNode":"d586a024a8786e91",
+			"fromSide":"bottom",
+			"toNode":"c4b562c84e202fc2",
+			"toSide":"top"
+		},
+		{
+			"id":"e3532aa39a8a7db3",
+			"styleAttributes":{},
+			"fromNode":"c4b562c84e202fc2",
+			"fromSide":"bottom",
+			"toNode":"7d8126a69eeab8bb",
+			"toSide":"top"
+		},
+		{
+			"id":"2fa1f344a3d1142f",
+			"styleAttributes":{},
+			"fromNode":"7d8126a69eeab8bb",
+			"fromSide":"bottom",
+			"toNode":"46f4959b57c271ad",
+			"toSide":"top"
+		},
+		{
+			"id":"2bce71ac088327ec",
+			"styleAttributes":{},
+			"fromNode":"b8dcdc673c74a558",
+			"fromSide":"left",
+			"toNode":"26f567802b96f384",
+			"toSide":"right"
+		},
+		{
+			"id":"f31221f087cb6503",
+			"styleAttributes":{},
+			"fromNode":"46f4959b57c271ad",
+			"fromSide":"right",
+			"toNode":"b8dcdc673c74a558",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

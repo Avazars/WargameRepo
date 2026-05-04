@@ -1,6 +1,6 @@
 ---
 tags:
-  - BasicAction
+  - StandardAction
 ---
 
 > [!Warning] Restrictions

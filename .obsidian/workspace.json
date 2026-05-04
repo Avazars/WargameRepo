@@ -8,34 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce73125bcab8174c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
-                "viewState": {
-                  "x": -508.4667925909947,
-                  "y": 253.9635739288595,
-                  "zoom": -0.18663069435350887
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Activation Smash Board"
-            }
-          },
-          {
             "id": "ee7708b49ad1e5ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Actions/Quick/Move.md",
+                "file": "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move"
+              "title": "Overwatch"
             }
           }
         ]
@@ -236,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Canvases/Activation Smash Board.canvas",
+                "file": "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Activation Smash Board"
+              "title": "Outline of Overwatch"
             }
           }
         ]
@@ -263,38 +246,40 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ce73125bcab8174c",
+  "active": "ee7708b49ad1e5ff",
   "lastOpenFiles": [
-    "WargameNotes/Canvases/Unit Stats Canvas.canvas",
-    "WargameNotes/Rules/Actions/Quick/Move.md",
-    "WargameNotes/Rules/Actions/Full/Fall Back.md",
-    "WargameNotes/Rules/Actions/Full/Disengage.md",
-    "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
-    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
-    "WargameNotes/Canvases/World Dice Pool.canvas",
-    "WargameNotes/Rules/Actions/Quick/Aim.md",
-    "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Actions/Standard/Claim.md",
+    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
+    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
+    "WargameNotes/Canvases/Unit Stats Canvas.canvas",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Canvases/List building Smash Board.canvas",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
+    "WargameNotes/Rules/Actions/Long/Fall Back.md",
+    "WargameNotes/Rules/Actions/Long/Disengage.md",
+    "Long Action.md",
+    "WargameNotes/Canvases/World Dice Pool.canvas",
+    "WargameNotes/Rules/Actions/Standard/Strike.md",
+    "WargameNotes/Rules/Actions/Quick/Move.md",
+    "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
+    "WargameNotes/Rules/Actions/Quick/Aim.md",
+    "Quick Action.md",
     "WargameNotes/Rules/Detachments/Strike Detachment.md",
     "WargameNotes/Rules/Detachments/Delve Detachment.md",
     "WargameNotes/Rules/Detachments/Claim Detachment.md",
     "WargameNotes/Rules/Primary Directives.md",
     "WargameNotes/Rules/Actions/Standard/Take Cover.md",
-    "WargameNotes/Rules/Actions/Standard/Strike.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
     "WargameNotes/Rules/Actions/Standard/Rush.md",
     "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
     "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
     "WargameNotes/Rules/Actions/Reactions/Drop.md",
-    "WargameNotes/Canvases/Activation Smash Board.canvas",
     "WargameNotes/index.md",
     "WargameNotes/Rules/Guides/Unit Type Guide.md",
     "WargameNotes/Rules/Guides/Unit Action Guide.md",
-    "WargameNotes/Rules/Guides/Terrain Guide.md",
-    "WargameNotes/Rules/Guides/Terminology and Reading Guide.md",
-    "WargameNotes/Rules/Guides/Scoring Guide.md",
-    "WargameNotes/Rules/Guides/Detachment Guide.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
     "WargameNotes/Canvases/Directives.canvas",
     "WargameNotes/Rules/Detachments",
     "WargameNotes/Canvases/Deployment Styles.canvas",
@@ -309,7 +294,6 @@
     "WargameNotes/Factions/Generic/Units/Monster",
     "WargameNotes/Factions/Generic/Units/Troop",
     "WargameNotes/Factions/Generic/Specialists",
-    "Canvases/Untitled.canvas",
     "Files/Images/Pasted image 20251127211907.png"
   ]
 }

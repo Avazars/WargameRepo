@@ -19,4 +19,4 @@ Faction:
 
 **Abilities:** 
 > [!NOTE] Comms Device
-> During this units activation this model can target another friendly unit within 12" that has a [[Tac-Token]], that unit can spend a [[Tac-Token]] to preform a [[Basic Action]] .
+> During this units activation this model can target another friendly unit within 12" that has a [[Tac-Token]], that unit can spend a [[Tac-Token]] to preform a [[Quick Action]] .

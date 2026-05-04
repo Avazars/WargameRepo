@@ -9,5 +9,5 @@ tags: Reaction
 
 > [!info] Overwatch
 > 
-> **Cost:** 2
-> When a unit performs a Overwatch [[Reaction]] that unit performs a [[Shoot]] [[Standard Action]] against the triggering unit.
+> **Cost:** Triple
+> When a unit performs a Overwatch [[Reaction]] that unit performs a [[Shoot]] [[Standard Action]] against the triggering enemy unit.
