@@ -8,9 +8,9 @@ Unit Type:
 **Supply Cost:** 5
 **Detachment Focus:** Strike
 
-| MOV   | CCE  | RCE  | LD  | DEF  | ARM | VIT  | CON | INF |
-| ----- | ---- | ---- | --- | ---- | --- | ---- | --- | --- |
-| `5-5` | `3+` | `3+` | `-` | `3+` | `5` | `10` | `2` | `2` |
+| MOV   | CCE  | RCE  | AGI  | ARM | LD  | VIT  | CON | INF |
+| ----- | ---- | ---- | ---- | --- | --- | ---- | --- | --- |
+| `6-6` | `3+` | `3+` | `3+` | `5` | `2` | `10` | `2` | `2` |
 
 
 ### Weapons

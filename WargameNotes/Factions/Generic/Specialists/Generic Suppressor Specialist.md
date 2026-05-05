@@ -5,9 +5,9 @@ Faction:
 ---
 **Supply Cost:** 5
 
-| MOV   | CCE  | RCE  | LD  | DEF  | ARM  | VIT | CON | INF |
-| ----- | ---- | ---- | --- | ---- | ---- | --- | --- | --- |
-| `4-4` | `4+` | `4+` | `3` | `3+` | `IN` | `2` | `1` | `1` |
+| MOV   | CCE  | RCE  | AGI  | ARM  | LD  | VIT | CON | INF |
+| ----- | ---- | ---- | ---- | ---- | --- | --- | --- | --- |
+| `4-4` | `4+` | `4+` | `3+` | `IN` | `3` | `2` | `1` | `1` |
 
 ### Weapons
 | Weapon Name | RANGE | ROF | DAMAGE | TRAITS |

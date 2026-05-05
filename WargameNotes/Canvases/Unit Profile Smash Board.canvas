@@ -1,17 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"ae1f3d91ec9601fc",
-			"type":"text",
-			"text":"**Generic Flying Riflemen**\n**Supply Cost:** 7\n**Squad Size:** 5\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `6-6` | `4+` | `4+` | `-` | `6` | `-` | `2` | `1` |\n\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |\n| ----------- | ------ | --- | ------ | --------- |\n| 5x Rifle    | `12\"`  | `2` | `1`    |           |\n| 5x CCW      | `1/2\"` | `1` | `1`    | [[Melee]] |\n\n** Unit Keywords:** [[Troop]], [[Fly]], [[Delayed Deployment]]",
-			"dynamicHeight":false,
-			"styleAttributes":{},
-			"x":-250,
-			"y":-535,
-			"width":500,
-			"height":500
-		},
-		{
 			"id":"918b9f093c3ca9ca",
 			"type":"text",
 			"text":"# Unit Profiles",
@@ -40,21 +29,10 @@
 			"text":"**Generic Snipers**\n**Supply Cost:** 7\n**Squad Size:** 3\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `5-5` | `4+` | `3+` | `-` | `6` | `-` | `2` | `1` |\n\n\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS                        |\n| ----------- | ------ | --- | ------ | ----------------------------- |\n| 3x Snipers  | `24\"`  | `1` | `3`    | [[AP\\| AP(1/2)]], [[Precise]] |\n| 3x CCW      | `1/2\"` | `1` | `1`    | [[Melee]]                     |\n\n** Unit Keywords:** [[Elite]]",
 			"dynamicHeight":false,
 			"styleAttributes":{},
-			"x":310,
-			"y":-565,
+			"x":-340,
+			"y":-520,
 			"width":500,
 			"height":530
-		},
-		{
-			"id":"e485a796503744a6",
-			"type":"text",
-			"text":"**Generic Fast Monster**\n**Supply Cost:** 7\n**Squad Size:** 3\n\n| MOV   | CCE  | RCE  | AGI | LD  | ARM | VIT | CON |\n| ----- | ---- | ---- | --- | --- | --- | --- | --- |\n| `8-6` | `3+` | `4+` | `1` | `6` | `-` | `3` | `1` |\n\n| Weapon Name | RANGE  | ROF | DAMAGE | TRAITS    |\n| ----------- | ------ | --- | ------ | --------- |\n| 3x Claws    | `1/2\"` | `2` | `1`    | [[Melee]] |\n| 3x Bite     | `1/2\"` | `1` | `2`    | [[Melee]] |\n\n** Unit Keywords:** [[Monster]], [[Scout| Scout 6\"]]",
-			"dynamicHeight":false,
-			"styleAttributes":{},
-			"x":860,
-			"y":-565,
-			"width":500,
-			"height":500
 		}
 	],
 	"edges":[],
