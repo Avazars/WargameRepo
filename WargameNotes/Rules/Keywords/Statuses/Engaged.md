@@ -5,7 +5,7 @@ tags:
 
 > [!warning] Trigger
 > **Gains**
-> A unit gains the Engaged Status when an enemy unit moves into its [[Engagement Range]].
+> A unit has the Engaged Status while an enemy model is in its [[Engagement Range]].
 >
 > **Looses**
 > A unit looses the Engaged Status when there are no enemy models in its [[Engagement Range]].

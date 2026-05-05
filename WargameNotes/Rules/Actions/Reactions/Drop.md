@@ -9,7 +9,7 @@ tags: Reaction
 
 > [!info] Drop
 > 
-> **Cost:** 1
+> **Cost:** Double
 > When a unit performs a Drop [[Reaction]] that unit gains the [[Prone|Prone Status]]
 
 

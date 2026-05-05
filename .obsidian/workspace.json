@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+                "file": "WargameNotes/Rules/Opposed Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overwatch"
+              "title": "Opposed Test"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+                "file": "WargameNotes/Rules/Opposed Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overwatch"
+              "title": "Outline of Opposed Test"
             }
           }
         ]
@@ -248,9 +248,20 @@
   },
   "active": "ee7708b49ad1e5ff",
   "lastOpenFiles": [
+    "WargameNotes/Rules/Flat Test.md",
+    "WargameNotes/Rules/Opposed Test.md",
+    "WargameNotes/Rules/Primary Directives.md",
+    "WargameNotes/Rules/Actions/Reactions/Drop.md",
+    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
+    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
+    "WargameNotes/Rules/Actions/Quick/Move.md",
+    "WargameNotes/Rules/Actions/Quick/Aim.md",
+    "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
+    "WargameNotes/Rules/Actions/Long/Fall Back.md",
+    "WargameNotes/Rules/Actions/Standard/Disengage.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
     "WargameNotes/Rules/Actions/Standard/Claim.md",
     "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
     "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
     "WargameNotes/Canvases/Unit Stats Canvas.canvas",
     "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
@@ -258,28 +269,17 @@
     "WargameNotes/Canvases/Activation Smash Board.canvas",
     "WargameNotes/Canvases/Ability Loop.canvas",
     "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
-    "WargameNotes/Rules/Actions/Long/Fall Back.md",
-    "WargameNotes/Rules/Actions/Long/Disengage.md",
     "Long Action.md",
     "WargameNotes/Canvases/World Dice Pool.canvas",
     "WargameNotes/Rules/Actions/Standard/Strike.md",
-    "WargameNotes/Rules/Actions/Quick/Move.md",
-    "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
-    "WargameNotes/Rules/Actions/Quick/Aim.md",
     "Quick Action.md",
     "WargameNotes/Rules/Detachments/Strike Detachment.md",
     "WargameNotes/Rules/Detachments/Delve Detachment.md",
     "WargameNotes/Rules/Detachments/Claim Detachment.md",
-    "WargameNotes/Rules/Primary Directives.md",
     "WargameNotes/Rules/Actions/Standard/Take Cover.md",
     "WargameNotes/Rules/Actions/Standard/Shoot.md",
     "WargameNotes/Rules/Actions/Standard/Rush.md",
-    "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
-    "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
-    "WargameNotes/Rules/Actions/Reactions/Drop.md",
     "WargameNotes/index.md",
-    "WargameNotes/Rules/Guides/Unit Type Guide.md",
-    "WargameNotes/Rules/Guides/Unit Action Guide.md",
     "WargameNotes/Canvases/Directives.canvas",
     "WargameNotes/Rules/Detachments",
     "WargameNotes/Canvases/Deployment Styles.canvas",
