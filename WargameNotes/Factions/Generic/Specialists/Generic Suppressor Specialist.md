@@ -3,12 +3,11 @@ tags:
   - Specialist
 Faction:
 ---
-**Power:** 4
 **Supply Cost:** 5
 
-| MOV   | CCE  | RCE  | LD  | DEF | ARM  | VIT  | CON  |
-| ----- | ---- | ---- | --- | --- | ---- | ---- | ---- |
-| `6-6` | `4+` | `4+` | `6` | `-` | `+1` | `+2` | `+1` |
+| MOV   | CCE  | RCE  | LD  | DEF  | ARM  | VIT | CON | INF |
+| ----- | ---- | ---- | --- | ---- | ---- | --- | --- | --- |
+| `4-4` | `4+` | `4+` | `3` | `3+` | `IN` | `2` | `1` | `1` |
 
 ### Weapons
 | Weapon Name | RANGE | ROF | DAMAGE | TRAITS |
@@ -19,4 +18,4 @@ Faction:
 
 **Abilities:** 
 > [!NOTE] Suppression Device
-> During this units activation this model can spend a [[Tac-Token]] from a friendly unit that is within 9", to target an enemy unit that it can see within 18" to give that unit a [[Suppression Token]].
+> During this units activation this model can spend a Double from the Infulence Pool to target an enemy unit that it can see within 18" and give that unit a [[Suppression Token]].

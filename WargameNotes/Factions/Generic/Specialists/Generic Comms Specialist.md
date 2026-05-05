@@ -3,12 +3,11 @@ tags:
   - Specialist
 Faction:
 ---
-**Power:** 4
 **Supply Cost:** 5
 
-| MOV   | CCE  | RCE  | LD  | DEF | ARM  | VIT  | CON  |
-| ----- | ---- | ---- | --- | --- | ---- | ---- | ---- |
-| `6-6` | `4+` | `4+` | `6` | `-` | `+1` | `+2` | `+1` |
+| MOV   | CCE  | RCE  | LD  | DEF  | ARM  | VIT | CON | INF |
+| ----- | ---- | ---- | --- | ---- | ---- | --- | --- | --- |
+| `4-4` | `4+` | `4+` | `3` | `3+` | `IN` | `2` | `1` | `1` |
 
 ### Weapons
 | Weapon Name | RANGE | ROF | DAMAGE | TRAITS |
@@ -19,4 +18,4 @@ Faction:
 
 **Abilities:** 
 > [!NOTE] Comms Device
-> During this units activation this model can target another friendly unit within 12" that has a [[Tac-Token]], that unit can spend a [[Tac-Token]] to preform a [[Quick Action]] .
+> During this units activation this model can Spend a Double from the infulence pool to target another friendly unit within 12" that unit can preform a [[Quick Action]] even if it already has activated this round.

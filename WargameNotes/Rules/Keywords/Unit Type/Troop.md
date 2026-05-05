@@ -5,6 +5,6 @@ tags:
 
 > [!Note] Keyword
 > Units with the [[Troop]] Keyword: 
-> - Generate [[Tac-Tokens]] on their unit when rolling doubles during an action.
+> - Can have 2 Attached Weapon Specialists instead of the normal amount of 1.
 > - Can move through [[Ruins|Ruins Terrain]].
 

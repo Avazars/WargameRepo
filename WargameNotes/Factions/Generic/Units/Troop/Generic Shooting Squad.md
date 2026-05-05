@@ -8,9 +8,9 @@ Unit Type:
 **Supply Cost:** 7
 **Squad Size:** 5
 
-| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON |
-| ----- | ---- | ---- | ---- | --- | --- | --- | --- |
-| `6-6` | `4+` | `3+` | `4+` | `4` | `1` | `2` | `1` |
+| MOV   | CCE  | RCE  | AGI  | LD  | ARM | VIT | CON | INF |
+| ----- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| `4-4` | `4+` | `3+` | `4+` | `4` | `1` | `2` | `1` | `1` |
 
 
 
@@ -19,4 +19,4 @@ Unit Type:
 | 5x Rife     | `12"`  | `2` | `1`    |           |
 | 5x CCW      | `1/2"` | `1` | `1`    | [[Melee]] |
 
-** Unit Keywords:** [[Troop]]
+**Unit Keywords:** [[Troop]]

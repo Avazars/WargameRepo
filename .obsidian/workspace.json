@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "996d2cd740a7fb54",
+        "id": "9530120287762f30",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7708b49ad1e5ff",
+            "id": "6e0852628fb4a0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WargameNotes/Rules/Opposed Test.md",
+                "file": "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opposed Test"
+              "title": "Generic Suppressor Specialist"
             }
           }
         ]
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Rules/Opposed Test.md",
+                "file": "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Opposed Test"
+              "title": "Outline of Generic Suppressor Specialist"
             }
           }
         ]
@@ -246,45 +246,45 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ee7708b49ad1e5ff",
+  "active": "6e0852628fb4a0e0",
   "lastOpenFiles": [
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
+    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
+    "WargameNotes/Canvases/Unit Idea Smashboard.canvas",
+    "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
+    "WargameNotes/Factions/Generic/Units/General Unit.md",
+    "WargameNotes/Canvases/List building Smash Board.canvas",
+    "WargameNotes/Canvases/Activation Smash Board.canvas",
+    "WargameNotes/Canvases/Ability Loop.canvas",
+    "WargameNotes/Rules/Actions/Long/Fall Back.md",
+    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
+    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
+    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
+    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
+    "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
     "WargameNotes/Rules/Flat Test.md",
     "WargameNotes/Rules/Opposed Test.md",
     "WargameNotes/Rules/Primary Directives.md",
+    "WargameNotes/Rules/Unique Test.md",
     "WargameNotes/Rules/Actions/Reactions/Drop.md",
     "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
     "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
     "WargameNotes/Rules/Actions/Quick/Move.md",
     "WargameNotes/Rules/Actions/Quick/Aim.md",
     "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
-    "WargameNotes/Rules/Actions/Long/Fall Back.md",
     "WargameNotes/Rules/Actions/Standard/Disengage.md",
-    "WargameNotes/Rules/Keywords/Statuses/Engaged.md",
     "WargameNotes/Rules/Actions/Standard/Claim.md",
-    "WargameNotes/Rules/Keywords/Statuses/Cover.md",
-    "WargameNotes/Rules/Keywords/Statuses/Obscured.md",
     "WargameNotes/Canvases/Unit Stats Canvas.canvas",
-    "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
-    "WargameNotes/Canvases/List building Smash Board.canvas",
-    "WargameNotes/Canvases/Activation Smash Board.canvas",
-    "WargameNotes/Canvases/Ability Loop.canvas",
-    "WargameNotes/Rules/Keywords/Statuses/Shaken.md",
     "Long Action.md",
     "WargameNotes/Canvases/World Dice Pool.canvas",
-    "WargameNotes/Rules/Actions/Standard/Strike.md",
-    "Quick Action.md",
-    "WargameNotes/Rules/Detachments/Strike Detachment.md",
-    "WargameNotes/Rules/Detachments/Delve Detachment.md",
-    "WargameNotes/Rules/Detachments/Claim Detachment.md",
-    "WargameNotes/Rules/Actions/Standard/Take Cover.md",
-    "WargameNotes/Rules/Actions/Standard/Shoot.md",
-    "WargameNotes/Rules/Actions/Standard/Rush.md",
-    "WargameNotes/index.md",
     "WargameNotes/Canvases/Directives.canvas",
     "WargameNotes/Rules/Detachments",
     "WargameNotes/Canvases/Deployment Styles.canvas",
     "WargameNotes/Canvases/Detachments Smash Board.canvas",
-    "WargameNotes/Canvases/Primary Card Smash Board.canvas",
     "Removed Old",
     "WargameNotes/Rules/Actions/Reactions",
     "WargameNotes/Rules/Guides/Untitled",
