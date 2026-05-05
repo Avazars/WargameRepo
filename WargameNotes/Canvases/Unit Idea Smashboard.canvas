@@ -1,5 +1,39 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"2cde49355003e923",
+			"type":"text",
+			"text":"Some form of carrier style units where the weapons/functions of the vehicle/monster are separate little units that float around the main large base. ",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-360,
+			"y":-300,
+			"width":500,
+			"height":140
+		},
+		{
+			"id":"7bcbee6a2b054339",
+			"type":"text",
+			"text":"A duo larger base monster unit",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-480,
+			"y":40,
+			"width":350,
+			"height":80
+		},
+		{
+			"id":"1c10e83acec2a647",
+			"type":"text",
+			"text":"Some form of ethereal unit that can pass through stuff and maybe gets a speed boost as the trade off.",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":120,
+			"y":-100,
+			"width":380,
+			"height":140
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
