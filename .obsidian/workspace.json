@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9530120287762f30",
+        "id": "8e2aafb0e1dbfb68",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0852628fb4a0e0",
+            "id": "56ee4ea762af8ed7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WargameNotes/Factions/Generic/Units/Monster/Fast Small Monsters.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fast Small Monsters"
+              "title": "New tab"
             }
           }
         ]
@@ -219,13 +215,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WargameNotes/Factions/Generic/Units/Monster/Fast Small Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fast Small Monsters"
+              "title": "Outline"
             }
           }
         ]
@@ -246,17 +241,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6e0852628fb4a0e0",
+  "active": "866fe60496a291a9",
   "lastOpenFiles": [
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Flying Shooting Squad.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
     "WargameNotes/Factions/Generic/Units/Monster/Fast Small Monsters.md",
-    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Leaders/Leader 1.md",
     "WargameNotes/Factions/Generic/Units/Troop/Generic Melee Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Units/Troop/Generic Flying Shooting Squad.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
+    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
+    "WargameNotes/Rules/Keywords/Unit Type/Leader.md",
     "WargameNotes/Rules/Keywords/Unit Attributes/Fly.md",
     "WargameNotes/Factions/Generic/Leaders",
-    "WargameNotes/Factions/Generic/Specialists/Generic Suppressor Specialist.md",
-    "WargameNotes/Factions/Generic/Specialists/Generic Comms Specialist.md",
-    "WargameNotes/Rules/Keywords/Unit Type/Monster.md",
     "WargameNotes/Canvases/Unit Profile Smash Board.canvas",
     "WargameNotes/Canvases/Unit Idea Smashboard.canvas",
     "WargameNotes/Rules/Keywords/Unit Type/Troop.md",
@@ -278,8 +275,6 @@
     "WargameNotes/Rules/Actions/Reactions/Free Strike.md",
     "WargameNotes/Rules/Actions/Reactions/Overwatch.md",
     "WargameNotes/Rules/Actions/Quick/Move.md",
-    "WargameNotes/Rules/Actions/Quick/Aim.md",
-    "WargameNotes/Rules/Actions/Quick/Hold Objective.md",
     "WargameNotes/Canvases/Unit Stats Canvas.canvas",
     "WargameNotes/Canvases/World Dice Pool.canvas",
     "WargameNotes/Canvases/Directives.canvas",

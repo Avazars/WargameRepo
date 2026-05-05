@@ -16,6 +16,6 @@ Unit Type:
 | Weapon Name      | RANGE | ROF | DAMAGE | TRAITS    |
 | ---------------- | ----- | --- | ------ | --------- |
 | 5x Double Swords | `1"`  | `2` | `1`    | [[Melee]] |
-| 1x Grenade       | `6"`  | `1` | `5`    | [[Blast]] |
+
 
 **Unit Keywords:** [[Troop]]

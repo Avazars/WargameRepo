@@ -1,0 +1,1 @@
+Units within 9" of this unit get +1 to leadership tests.

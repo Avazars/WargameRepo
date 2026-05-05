@@ -1,6 +1,10 @@
-
-
-**Flying Riflemen**
+---
+tags:
+  - Unit
+Faction:
+Unit Type:
+---
+**Small Monsters**
 **Supply Cost:** 7
 **Squad Size:** 3
 
@@ -9,10 +13,9 @@
 | `6-4` | `3+` | `5+` | `3+` | `4` | `1` | `4` | `1` | `1` |
 
 
-
 | Weapon Name | RANGE | ROF | DAMAGE | TRAITS               |
 | ----------- | ----- | --- | ------ | -------------------- |
 | 5x Kick     | `1"`  | `2` | `1`    | [[Melee]]            |
 | 5x Pounce   | `2"`  | `1` | `2`    | [[Melee]], [[Lance]] |
 
-**Unit Keywords:** [[Monster]], [[Scout]](4") 
+**Unit Keywords:** [[Monster]], [[Scout]](4")
